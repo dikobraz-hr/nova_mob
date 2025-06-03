@@ -77,10 +77,10 @@ const categories = ref([
 ])
 
 function goToCategory(id) {
-  router.push(`/category/${id}`)
+  router.push(`/category-all/${id}`)
 }
 function goToCategories() {
-  router.push('/category')
+  router.push('/category-all')
 }
 function goToRandom() {
   router.push('/random-game')
