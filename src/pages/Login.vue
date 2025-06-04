@@ -5,7 +5,7 @@
 
 
         <q-form class="q-mt-md form-style3 q-pb-md" @submit.prevent="getLogin">
-          
+
           <h5 class="text-h6 text-black q-mb-md q-mt-none">
             Prijava
           </h5>
@@ -98,8 +98,8 @@ export default {
 
     async getLogin() {
       this.message = ''; // Reset message before login attempt
-      console.log(this.form.email); 
-     
+      console.log(this.form.email);
+
       try {
         // Make API call to authenticate user using Axios
         const response = await axios.post("https://udruga.dikobraz.hr/api/login", {
@@ -109,7 +109,7 @@ export default {
         console.log(response.data);
         // Check if login was successful (based on the message or response format from API)
         if (response.data.message === 'Login successful') {
-          
+
           // Store token and user data in sessionStorage
           sessionStorage.setItem("token", response.data.access_token);
           sessionStorage.setItem("username", response.data.user.name);
@@ -119,7 +119,7 @@ export default {
           sessionStorage.setItem("userId", response.data.user.id); // Store userId if necessary
           sessionStorage.setItem("email", response.data.user.email); // Store userName if necessary
 
-         
+
           // Redirect to home page
           this.$router.push({ path: "/komunikator" });
         } else {
@@ -135,18 +135,4 @@ export default {
 };
 </script>
 
-<style scoped>
-.q-card {
-  width: 22.5rem;
-}
-.form-group{
-  text-transform: none!important;
-}
-/* .bg-image {
-  background-image: url("../assets/food.jpg");
-  background-size: cover;
-} */
-.bg-field {
-  background: rgba(0, 0, 0, 0.5) !important;
-}
-</style>
+<style scoped lang="scss" src="../css/login.scss"></style>
