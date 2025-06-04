@@ -1,10 +1,10 @@
 <template>
   <q-page class="q-pa-md bg-grey-2">
 
-<<<<<<< HEAD
+
     <!-- Gornji header s hamburger ikonom -->
     <TopHeader @toggle-drawer="toggleDrawer" />
-=======
+
     <!-- Top bar s hamburgerom i searchom, ako je potreban hamburger kao u demu -->
     <div class="top-bar row items-center justify-between q-mx-auto">
       <q-btn
@@ -22,7 +22,7 @@
 
       <div style="width: 40px;"></div>
     </div>
->>>>>>> 83e235774233421b1aacab811405b4568ca81939
+
 
     <!-- Lista kategorija -->
     <div class="categories-list q-mt-lg">

@@ -66,13 +66,13 @@
 <script setup>
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
-
+/*
 import TopHeader from '../components/TopHeader.vue'
 import RandomButton from '../components/RandomButton.vue'
 import FavoritesHeader from '../components/FavoritesHeader.vue'
 import CategorySlider from '../components/CategorySlider.vue'
 import CategoryButtonSlider from '../components/CategoryButtonSlider.vue'
-
+*/
 const router = useRouter()
 
 const categories = ref([
@@ -100,13 +100,13 @@ function toggleDrawer() {
 }
 </script>
 
-<<<<<<< HEAD
+
 <style scoped>
 .q-page {
   max-width: 900px;
   margin: 0 auto;
 }
 </style>
-=======
+
 <style scoped lang="scss" src="../css/index.scss"></style>
->>>>>>> 83e235774233421b1aacab811405b4568ca81939
+
