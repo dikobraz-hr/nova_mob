@@ -3,14 +3,7 @@
 
     <!-- Gornji header sa hamburger menijem, ak je potreban ko u demu -->
     <div class="top-header row items-center q-pa-sm" style="max-width: 900px; margin: 0 auto;">
-      <q-btn
-        flat
-        dense
-        round
-        icon="menu"
-        @click="toggleDrawer"
-        aria-label="Meni"
-      />
+
 
     </div>
 
@@ -95,9 +88,7 @@ function goToCategory(id) {
   router.push(`/category-all/${id}`)
 }
 
-function toggleDrawer() {
-  console.log('Toggle drawer clicked')
-}
+
 </script>
 
 

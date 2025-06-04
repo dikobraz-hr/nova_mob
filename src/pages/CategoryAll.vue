@@ -7,14 +7,7 @@
 
     <!-- Top bar s hamburgerom i searchom, ako je potreban hamburger kao u demu -->
     <div class="top-bar row items-center justify-between q-mx-auto">
-      <q-btn
-        dense
-        flat
-        round
-        icon="menu"
-        aria-label="Meni"
-        @click="$emit('toggle-drawer')"
-      />
+
       <div class="search-center row items-center">
         <q-icon name="search" size="20px" class="q-mr-sm" />
         <span class="search-text">Pretraži</span>
@@ -60,9 +53,6 @@ function goToCategory(id) {
   router.push(`/category/${id}`)
 }
 
-function toggleDrawer() {
-  console.log('Drawer toggled')
-}
 </script>
 
 <style scoped lang="scss" src="../css/categoryAll.scss"></style>
