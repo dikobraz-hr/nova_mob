@@ -4,21 +4,14 @@
 
     <div class="text-h5 q-mb-md">{{ categoryName }}</div>
 
-    <div class="q-gutter-md" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));">
-      <q-card v-for="pojam in pojmovi" :key="pojam.id" class="my-card">
-        <q-img :src="pojam.image" style="height: 120px" />
-        <q-card-section>
-          <div>{{ pojam.text }}</div>
-          <q-btn icon="volume_up" flat round @click="playSound(pojam.sound)" />
-        </q-card-section>
-      </q-card>
-    </div>
+    <PojamGrid :pojmovi="pojmovi" @play-sound="playSound" />
   </q-page>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
+import PojamGrid from '../components/PojamGrid.vue'
 
 const route = useRoute()
 const categoryId = Number(route.params.id)
@@ -31,16 +24,16 @@ const categoriesData = {
 
 const pojmoviData = {
   1: [
-    { id: 1, text: 'Pas' },
-    { id: 2, text: 'Mačka' },
+    { id: 1, text: 'Pas', },
+    { id: 2, text: 'Mačka',  },
   ],
   2: [
-    { id: 3, text: 'Auto' },
-    { id: 4, text: 'Bicikl' },
+    { id: 3, text: 'Auto',  },
+    { id: 4, text: 'Bicikl',  },
   ],
   3: [
-    { id: 5, text: 'Jabuka' },
-    { id: 6, text: 'Banana'},
+    { id: 5, text: 'Jabuka', },
+    { id: 6, text: 'Banana',  },
   ],
 }
 

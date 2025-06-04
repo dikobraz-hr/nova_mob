@@ -1,6 +1,45 @@
 <template>
   <q-layout view="hHh lpR fff">
 
+   
+    <q-btn
+      flat
+      dense
+      round
+      icon="menu"
+      aria-label="Meni"
+      class="hamburger-btn"
+      @click="drawer = !drawer"
+    />
+
+    <q-drawer v-model="drawer" show-if-above side="left" bordered>
+      <q-list padding  class="drawer-content">
+
+        <div class="header_h6"> <h6>Contact us</h6></div>
+     
+
+        <q-item-label header></q-item-label>
+        <div class="q-pa-sm text-body2">
+          Ulica Božidara Magovca 107<br />
+          10000 Zagreb
+        </div>
+
+        <q-separator spaced />
+
+        <q-item-label header>Opening hours</q-item-label>
+        <div class="q-pa-sm text-body2">
+          08:00—16:00
+        </div>
+
+        <q-separator spaced />
+
+        <q-item-label header>Email</q-item-label>
+        <div class="q-pa-sm text-body2">
+          <a href="mailto:info@dikobraz.hr">info@dikobraz.hr</a>
+        </div>
+      </q-list>
+    </q-drawer>
+
     <q-page-container>
       <router-view />
     </q-page-container>
@@ -46,6 +85,7 @@ import { useRouter, useRoute } from 'vue-router'
 const router = useRouter()
 const route = useRoute()
 
+const drawer = ref(false)
 const activeTab = ref(0)
 
 const goTo = (path) => {
@@ -62,7 +102,7 @@ watch(
     } else if (newPath.startsWith('/account')) {
       activeTab.value = 2
     } else {
-      activeTab.value = -1 
+      activeTab.value = -1
     }
   },
   { immediate: true }
@@ -70,13 +110,20 @@ watch(
 </script>
 
 <style scoped>
+.hamburger-btn {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 11000;
+}
+
 .bottom-toolbar {
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   height: 64px;
-  background-color: #f0f0f0; 
+  background-color: #f0f0f0;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -127,9 +174,18 @@ watch(
   align-items: center;
   justify-content: center;
   transition: background-color 0.3s, box-shadow 0.3s;
+
+}
+.drawer-content {
+  padding-top: 50px; 
 }
 
+.header_h6{
+  padding-left: 20px;
+}
+
+
 body {
-  padding-bottom: 64px; 
+  padding-bottom: 64px;
 }
 </style>
