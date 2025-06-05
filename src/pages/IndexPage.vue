@@ -1,11 +1,8 @@
 <template>
   <q-page class="q-pa-md bg-grey-2">
 
-    <!-- Gornji header sa hamburger menijem, ak je potreban ko u demu -->
-    <div class="top-header row items-center q-pa-sm" style="max-width: 900px; margin: 0 auto;">
-
-
-    </div>
+    <!-- Gornji header unutar stranice zaseban od hamburger menija -->
+    <TopHeader />
 
     <!-- Nasumičan odabir gumb, za nasumicnu rijec -->
     <div class="random-btn-wrapper">
@@ -26,7 +23,7 @@
         @click="goToCategories"
       >
         <span>Pogledaj sve</span>
-        <q-icon name="keyboard_arrow_down" size="24px" />
+        <q-icon name="keyboard_arrow_right" size="24px" />
       </div>
     </div>
 
@@ -59,6 +56,7 @@
 <script setup>
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
+import TopHeader from "../components/TopHeader.vue"
 /*
 import TopHeader from '../components/TopHeader.vue'
 import RandomButton from '../components/RandomButton.vue'
@@ -91,13 +89,4 @@ function goToCategory(id) {
 
 </script>
 
-
-<style scoped>
-.q-page {
-  max-width: 900px;
-  margin: 0 auto;
-}
-</style>
-
 <style scoped lang="scss" src="../css/index.scss"></style>
-

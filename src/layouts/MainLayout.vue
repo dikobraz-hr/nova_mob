@@ -1,7 +1,6 @@
 <template>
   <q-layout view="hHh lpR fff">
 
-   
     <q-btn
       flat
       dense
@@ -15,11 +14,10 @@
     <q-drawer v-model="drawer" show-if-above side="left" bordered>
       <q-list padding  class="drawer-content">
 
-        <div class="header_h6"> <h6>Contact us</h6></div>
-     
+        <h6>Contact us</h6>
 
-        <q-item-label header></q-item-label>
-        <div class="q-pa-sm text-body2">
+        <q-item-label header>Address</q-item-label>
+        <div class="q-pa-md text-body2">
           Ulica Božidara Magovca 107<br />
           10000 Zagreb
         </div>
@@ -27,14 +25,14 @@
         <q-separator spaced />
 
         <q-item-label header>Opening hours</q-item-label>
-        <div class="q-pa-sm text-body2">
+        <div class="q-pa-md text-body2">
           08:00—16:00
         </div>
 
         <q-separator spaced />
 
         <q-item-label header>Email</q-item-label>
-        <div class="q-pa-sm text-body2">
+        <div class="q-pa-md text-body2">
           <a href="mailto:info@dikobraz.hr">info@dikobraz.hr</a>
         </div>
       </q-list>
@@ -114,7 +112,7 @@ watch(
   position: fixed;
   top: 8px;
   left: 8px;
-  z-index: 11000;
+  z-index: 4001; /*.qdrawer po defaultu ima zindex 1000, a na mobile 3000 */
 }
 
 .bottom-toolbar {
@@ -130,7 +128,7 @@ watch(
   padding: 0 24px;
   box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
   border-top: 1px solid #ddd;
-  z-index: 9999;
+  z-index: 5000;
 }
 
 .toolbar-btn {
@@ -167,25 +165,13 @@ watch(
   background-color: #e5dbf8;
   border-radius: 50%;
   box-shadow: 0 0 6px rgba(94, 75, 139, 0.3);
-  padding: 4px;
-  width: 50px;
-  height: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background-color 0.3s, box-shadow 0.3s;
-
 }
+
 .drawer-content {
-  padding-top: 50px; 
+  padding-top: 40px;
 }
 
-.header_h6{
-  padding-left: 20px;
-}
-
-
-body {
-  padding-bottom: 64px;
+h6 {
+  margin: 12px;
 }
 </style>
