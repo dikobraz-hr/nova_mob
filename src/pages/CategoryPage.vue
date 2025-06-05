@@ -4,14 +4,14 @@
 
     <div class="text-h5 q-mb-md">{{ categoryName }}</div>
 
-    <PojamGrid :pojmovi="pojmovi" @play-sound="playSound" />
+    <SymbolGrid :pojmovi="pojmovi" @play-sound="playSound" />
   </q-page>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
-import PojamGrid from '../components/PojamGrid.vue'
+import SymbolGrid from '../components/SymbolGrid.vue'
 
 const route = useRoute()
 const categoryId = Number(route.params.id)
