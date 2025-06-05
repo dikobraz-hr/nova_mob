@@ -16,7 +16,7 @@
       <q-list padding  class="drawer-content">
         <q-img src="vertical-logo.png" width="50%" class="q-mx-auto block"></q-img>
  <div class="q-pa-md"><LanguageSwitcher /></div>
-        <h6>Contact us</h6>
+        <h6>{{$t('contact')}}</h6>
 
         <q-item-label header>Address</q-item-label>
         <div class="q-pa-md text-body2">
