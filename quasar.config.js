@@ -30,7 +30,9 @@ export default defineConfig((ctx) => {
     css: [
       'app.scss'
     ],
-
+htmlVariables: {
+    googleFonts: `<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">`
+  },
     // https://github.com/quasarframework/quasar/tree/dev/extras
     extras: [
       // 'ionicons-v4',

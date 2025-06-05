@@ -12,7 +12,9 @@
     />
 
     <q-drawer v-model="drawer" show-if-above side="left" bordered>
+      
       <q-list padding  class="drawer-content">
+        <q-img src="vertical-logo.png" width="50%" class="q-mx-auto block"></q-img>
  <div class="q-pa-md"><LanguageSwitcher /></div>
         <h6>Contact us</h6>
 
