@@ -2,10 +2,10 @@
   <q-page class="q-pa-md bg-grey-2">
 
 
-    <!-- Gornji header s hamburger ikonom -->
-    <TopHeader @toggle-drawer="toggleDrawer" />
+    <!-- Gornji header unutar stranice zaseban od hamburger menija -->
+    <TopHeader />
 
-    <!-- Top bar s hamburgerom i searchom, ako je potreban hamburger kao u demu -->
+    <!-- Top bar s searchom -->
     <div class="top-bar row items-center justify-between q-mx-auto">
 
       <div class="search-center row items-center">
