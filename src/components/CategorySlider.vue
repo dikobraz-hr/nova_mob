@@ -1,7 +1,7 @@
 <template>
   <div class="category-slider">
     <div
-      v-for="category in categories"
+    v-for="category in categories.slice(0, 5)"
       :key="category.id"
       class="category-slide-item"
       @click="goToCategory(category.id)"
@@ -48,15 +48,15 @@ function goToCategory(id) {
 
 .category-slide-item {
   flex: 0 0 auto;
-  width: 350px;      
+  width: 350px;
   cursor: pointer;
   text-align: center;
   user-select: none;
 }
 
 .category-image {
-  width: 350px;    
-  height: 300px;     
+  width: 350px;
+  height: 300px;
   object-fit: cover;
   border-radius: 15px;
   margin-bottom: 8px;

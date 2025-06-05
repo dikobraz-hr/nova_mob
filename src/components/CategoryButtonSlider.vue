@@ -16,17 +16,16 @@
 </template>
 
 <script setup>
-import { defineEmits } from 'vue'
+import { defineEmits, defineProps } from 'vue'
+
+const { categories } = defineProps({
+  categories: {
+    type: Array,
+    required: true
+  }
+})
 
 const emit = defineEmits(['go-to-category'])
-
-const categories = [
-  { id: 1, name: 'Životinje' },
-  { id: 2, name: 'Dijelovi tijela' },
-  { id: 3, name: 'Obitelj' },
-  { id: 4, name: 'Priroda' },
-  { id: 5, name: 'Boje' }
-]
 
 function goToCategory(id) {
   emit('go-to-category', id)
@@ -34,12 +33,12 @@ function goToCategory(id) {
 </script>
 
 <style scoped>
-.category-buttons-slider {
+.category-button-slider {
   max-width: 900px;
   margin: 0 auto;
   padding: 0 12px;
   overflow-x: auto;
-   margin-bottom: 50px; 
+  margin-bottom: 50px;
 }
 
 .button-wrapper {

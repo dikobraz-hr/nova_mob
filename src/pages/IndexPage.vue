@@ -1,78 +1,42 @@
 <template>
   <q-page class="q-pa-md bg-grey-2">
-
-    <!-- Gornji header unutar stranice zaseban od hamburger menija -->
-    <TopHeader />
-
-    <!-- Nasumičan odabir gumb, za nasumicnu rijec -->
-    <div class="random-btn-wrapper">
-      <q-btn
-        label="Nasumičan odabir"
-        class="random-btn"
-        rounded
-        unelevated
-        color="purple"
-        @click="goToRandom"
-      />
-    </div>
-
-    <div class="favorites-header row items-center justify-between q-mb-md" style="max-width: 900px; margin: 0 auto; width: 100%;">
-      <div class="text-h6 text-weight-bold">Favoriti</div>
-      <div
-        class="view-all cursor-pointer text-dark"
-        @click="goToCategories"
-      >
-        <span>Pogledaj sve</span>
-        <q-icon name="keyboard_arrow_right" size="24px" />
-      </div>
-    </div>
-
-    <!-- Draggable kategorije, po vlastitoj preferenci -->
-    <draggable
-      v-model="categories"
-      item-key="id"
-      animation="200"
-      group="categories"
-      class="categories-grid"
-    >
-      <template #item="{ element }">
-        <q-card
-          class="category-card"
-          clickable
-          @click="goToCategory(element.id)"
-          style="cursor: grab;"
-        >
-          <q-img :src="element.image" style="height: 140px" />
-          <q-card-section>
-            <div class="text-h6">{{ element.name }}</div>
-          </q-card-section>
-        </q-card>
-      </template>
-    </draggable>
-
+    <TopHeader @toggle-drawer="toggleDrawer" />
+    <RandomButton @random-click="goToRandom" />
+    <CategoryButtonSlider
+      :categories="categories"
+      @go-to-category="goToCategory"
+      class="q-mb-lg q-mt-md"
+    />
+    <FavoritesHeader @view-all="goToCategories" />
+    <CategorySlider
+      :categories="categories"
+      @go-to-category="goToCategory"
+      class="q-mt-xl"
+    />
   </q-page>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import TopHeader from "../components/TopHeader.vue"
-/*
+
 import TopHeader from '../components/TopHeader.vue'
 import RandomButton from '../components/RandomButton.vue'
 import FavoritesHeader from '../components/FavoritesHeader.vue'
 import CategorySlider from '../components/CategorySlider.vue'
 import CategoryButtonSlider from '../components/CategoryButtonSlider.vue'
-*/
-const router = useRouter()
 
-const categories = ref([
-  { id: 1, name: 'Obitelj', image:'/symbols/baby.svg'},
-  { id: 2, name: 'Životinje',  image:'/symbols/girl.svg' },
-  { id: 3, name: 'Vozila', image:'/symbols/mom.svg'},
-  { id: 4, name: 'Hrana', image:'/symbols/dad.svg' },
-  { id: 5, name: 'Dijelovi tijela', image:'/symbols/friend.svg' }
-])
+import categoryData from 'src/assets/categories_data.json' 
+const router = useRouter()
+const categories = ref([])
+
+onMounted(() => {
+  categories.value = categoryData.map(cat => ({
+    id: cat.id,
+    name: cat.translations.hr || cat.category,
+    image: `/src/assets/${cat.image}`,  //slike
+  }))
+})
 
 function goToRandom() {
   router.push('/random-game')
@@ -83,10 +47,14 @@ function goToCategories() {
 }
 
 function goToCategory(id) {
+  console.log('Going to category with ID:', id)
   router.push(`/category-all/${id}`)
 }
 
-
+function toggleDrawer() { 
+  console.log('Toggle drawer clicked')
+}
 </script>
+
 
 <style scoped lang="scss" src="../css/index.scss"></style>

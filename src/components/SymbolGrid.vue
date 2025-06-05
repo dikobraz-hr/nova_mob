@@ -1,6 +1,6 @@
 <template>
   <div class="q-gutter-md" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));">
-    <PojamCard
+    <SymbolCard
       v-for="pojam in pojmovi"
       :key="pojam.id"
       :pojam="pojam"
@@ -10,7 +10,7 @@
 </template>
 
 <script setup>
-import PojamCard from './PojamCard.vue'
+import SymbolCard from './SymbolCard.vue'
 
 defineProps({
   pojmovi: {
