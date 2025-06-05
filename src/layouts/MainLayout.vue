@@ -13,7 +13,7 @@
 
     <q-drawer v-model="drawer" show-if-above side="left" bordered>
       <q-list padding  class="drawer-content">
-
+ <div class="q-pa-md"><LanguageSwitcher /></div>
         <h6>Contact us</h6>
 
         <q-item-label header>Address</q-item-label>
@@ -79,7 +79,7 @@
 <script setup>
 import { ref, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-
+import LanguageSwitcher from 'components/LanguageSwitcher.vue'
 const router = useRouter()
 const route = useRoute()
 
