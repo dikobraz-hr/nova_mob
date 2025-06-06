@@ -4,8 +4,8 @@
 
     <CategorySearch v-model="search" />
 
-   
     <div class="categories-list q-mt-lg">
+      
       <q-card
         v-for="category in filteredCategories"
         :key="category.id"
@@ -16,7 +16,7 @@
       >
         <q-img :src="`/src/assets/${category.image}`" style="height: 140px" />
         <div class="category-name">
-          {{ category.translations.hr || category.category }}
+          {{ getTranslatedTitle(category).value }}
         </div>
       </q-card>
     </div>
@@ -24,28 +24,54 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
+import { useI18n } from 'vue-i18n'
+
 import TopHeader from 'components/TopHeader.vue'
 import CategorySearch from 'components/CategorySearch.vue'
 import categoryData from 'src/assets/categories_data.json'
 
 const router = useRouter()
+const translatedTitlesMap = ref(new Map())
+
+const { locale } = useI18n()
 
 const categories = ref([])
 const search = ref('')
-
-const filteredCategories = computed(() =>
-  categories.value.filter(category =>
-    (category.translations?.hr || category.category)
-      .toLowerCase()
-      .includes(search.value.toLowerCase())
-  )
-)
-
+function setupTranslatedTitles() {
+  const map = new Map()
+  categories.value.forEach(category => {
+    map.set(
+      category.id,
+      computed(() => category.translations?.[locale.value] || category.category || 'Bez naziva')
+    )
+  })
+  translatedTitlesMap.value = map
+}
 onMounted(() => {
   categories.value = categoryData
+  setupTranslatedTitles()
 })
+
+// Rebuild computed titles when locale changes
+watch(locale, () => {
+  setupTranslatedTitles()
+})
+
+// Filter categories by translated title reactive to locale and search
+const filteredCategories = computed(() => {
+  const term = search.value.toLowerCase()
+  return categories.value.filter(category => {
+    const titleRef = translatedTitlesMap.value.get(category.id)
+    if (!titleRef) return false
+    return titleRef.value.toLowerCase().includes(term)
+  })
+})
+
+function getTranslatedTitle(category) {
+  return translatedTitlesMap.value.get(category.id) || ref(category.category || 'Bez naziva')
+}
 
 function goToCategory(id) {
   router.push(`/category/${id}`)
