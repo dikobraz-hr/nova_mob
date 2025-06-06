@@ -3,6 +3,7 @@
     <div class="symbol-title">{{ title }}</div>
     <div class="icon-buttons">
       <q-btn flat round icon="volume_up" @click="onPlaySound" />
+      <q-btn flat round icon="volume_down" @click="onPlayMainSound" v-if="symbol.sound"/>
       <q-btn
         flat
         round
@@ -17,8 +18,10 @@
 <script setup>
 defineProps({
   title: String,
+  symbol:Object,
   isFavorite: Boolean,
   onPlaySound: Function,
+  onPlayMainSound:Function,
   onToggleFavorite: Function
 })
 </script>

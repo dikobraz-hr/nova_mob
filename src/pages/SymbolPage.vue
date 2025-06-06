@@ -1,33 +1,44 @@
 <template>
   <q-page class="q-pa-md">
-    <q-btn flat icon="arrow_back" class="q-mb-md" @click="goBack" />
-
+    <q-btn flat icon="arrow_back" class="q-mb-md q-ml-xl q-pt-none" @click="goBack" />
+<div v-if="symbol">
     <SymbolImage
       :image="symbol?.image"
-      :alt="symbol?.translations?.hr?.title"
-      :sound="symbol?.translations?.hr?.sound"
+      :alt="translatedTitle"
+      :sound="translatedSound"
       :background-color="categoryColor"
     />
 
     <SymbolInfo
-      :title="symbol?.translations?.hr?.title || 'Bez naziva'"
+    :symbol="symbol"
+      :title="translatedTitle || 'Bez naziva'"
       :isFavorite="isFavorite"
       :onPlaySound="playSound"
+      :onPlayMainSound="playMainSound"
       :onToggleFavorite="toggleFavorite"
     />
+  </div>
   </q-page>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { useI18n } from 'vue-i18n'
 import symbolsData from 'src/assets/symbols_data.json'
 
 import SymbolImage from 'components/SymbolImage.vue'
 import SymbolInfo from 'components/SymbolInfo.vue'
+import { computed } from 'vue'
+
+const translatedTitle = computed(() => symbol.value?.translations?.[locale.value]?.title)
+const translatedSound = computed(() => symbol.value?.translations?.[locale.value]?.sound)
 
 const route = useRoute()
 const router = useRouter()
+
+const { locale } = useI18n()
+
 
 const categoryId = Number(route.params.categoryId)
 const symbolId = Number(route.params.symbolId)
@@ -49,12 +60,17 @@ onMounted(() => {
 })
 
 function playSound() {
-  const sound = symbol.value?.translations?.hr?.sound
+  const sound = symbol.value?.translations?.[locale.value]?.sound
   if (sound) {
-    new Audio(`/sounds/${sound}`).play()
+    new Audio(`/sounds/${locale.value}/${sound}`).play()
   }
 }
-
+function playMainSound() {
+  const sound = symbol.value?.sound
+  if (sound) {
+    new Audio(`/sounds/descriptive/${sound}`).play()
+  }
+}
 function toggleFavorite() {
   isFavorite.value = !isFavorite.value
 }

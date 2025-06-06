@@ -26,11 +26,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mom",
+        "sound": "mom.mp3"
       },
       "es": {
-        "title": "Mamá",
+        "title": "la Mamá",
         "sound": "mama_es.mp3"
       },
       "hr": {
@@ -38,7 +38,7 @@
         "sound": "mama.mp3"
       },
       "fr": {
-        "title": "Maman",
+        "title": "la Maman",
         "sound": "maman_fr.mp3"
       }
     }
@@ -70,11 +70,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Dad",
+        "sound": "dad.mp3"
       },
       "es": {
-        "title": "Papá",
+        "title": "el Papá",
         "sound": "papa_es.mp3"
       },
       "hr": {
@@ -82,7 +82,7 @@
         "sound": "tata.mp3"
       },
       "fr": {
-        "title": "Papa",
+        "title": "le Papa",
         "sound": "papa_fr.mp3"
       }
     }
@@ -114,11 +114,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Baby",
+        "sound": "baby.mp3"
       },
       "es": {
-        "title": "Bebé",
+        "title": "el Bebé",
         "sound": "bebe_es.mp3"
       },
       "hr": {
@@ -126,7 +126,7 @@
         "sound": "beba.mp3"
       },
       "fr": {
-        "title": "Bébé",
+        "title": "le Bébé",
         "sound": "bebe_fr.mp3"
       }
     }
@@ -158,11 +158,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Boy",
+        "sound": "boy.mp3"
       },
       "es": {
-        "title": "Chico",
+        "title": "el Chico",
         "sound": "chico_es.mp3"
       },
       "hr": {
@@ -170,7 +170,7 @@
         "sound": "djecak.mp3"
       },
       "fr": {
-        "title": "Garçon",
+        "title": "le Garçon",
         "sound": "garcon_fr.mp3"
       }
     }
@@ -202,11 +202,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Girl",
+        "sound": "girl.mp3"
       },
       "es": {
-        "title": "Chica",
+        "title": "la Chica",
         "sound": "chica_es.mp3"
       },
       "hr": {
@@ -214,7 +214,7 @@
         "sound": "djevojcica.mp3"
       },
       "fr": {
-        "title": "Fille",
+        "title": "la Fille",
         "sound": "fille_fr.mp3"
       }
     }
@@ -246,11 +246,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Grandma",
+        "sound": "grandma.mp3"
       },
       "es": {
-        "title": "Abuela",
+        "title": "la Abuela",
         "sound": "abuela_es.mp3"
       },
       "hr": {
@@ -258,7 +258,7 @@
         "sound": "baka.mp3"
       },
       "fr": {
-        "title": "Grand-mère",
+        "title": "la Grand-mère",
         "sound": "grand_mere_fr.mp3"
       }
     }
@@ -290,11 +290,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Grandpa",
+        "sound": "grandpa.mp3"
       },
       "es": {
-        "title": "Abuelo",
+        "title": "el Abuelo",
         "sound": "abuelo_es.mp3"
       },
       "hr": {
@@ -302,7 +302,7 @@
         "sound": "djed.mp3"
       },
       "fr": {
-        "title": "Grand-père",
+        "title": "le Grand-père",
         "sound": "grand_pere_fr.mp3"
       }
     }
@@ -334,11 +334,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Friend",
+        "sound": "friend.mp3"
       },
       "es": {
-        "title": "Amigo",
+        "title": "el Amigo",
         "sound": "amigo_es.mp3"
       },
       "hr": {
@@ -346,7 +346,7 @@
         "sound": "prijatelj.mp3"
       },
       "fr": {
-        "title": "Ami",
+        "title": "l’Ami",
         "sound": "ami_fr.mp3"
       }
     }
@@ -378,11 +378,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Teacher",
+        "sound": "teacher.mp3"
       },
       "es": {
-        "title": "Maestro",
+        "title": "el Maestro",
         "sound": "maestro_es.mp3"
       },
       "hr": {
@@ -390,7 +390,7 @@
         "sound": "ucitelj.mp3"
       },
       "fr": {
-        "title": "Professeur",
+        "title": "le Professeur",
         "sound": "professeur_fr.mp3"
       }
     }
@@ -422,11 +422,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Doctor",
+        "sound": "doctor.mp3"
       },
       "es": {
-        "title": "Doctor",
+        "title": "el Doctor",
         "sound": "doctor_es.mp3"
       },
       "hr": {
@@ -434,7 +434,7 @@
         "sound": "doktor.mp3"
       },
       "fr": {
-        "title": "Médecin",
+        "title": "le Médecin",
         "sound": "medecin_fr.mp3"
       }
     }
@@ -466,11 +466,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Head",
+        "sound": "head.mp3"
       },
       "es": {
-        "title": "Cabeza",
+        "title": "la Cabeza",
         "sound": "cabeza_es.mp3"
       },
       "hr": {
@@ -478,7 +478,7 @@
         "sound": "glava.mp3"
       },
       "fr": {
-        "title": "Tête",
+        "title": "la Tête",
         "sound": "tete_fr.mp3"
       }
     }
@@ -510,11 +510,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hair",
+        "sound": "hair.mp3"
       },
       "es": {
-        "title": "Cabello",
+        "title": "el Cabello",
         "sound": "cabello_es.mp3"
       },
       "hr": {
@@ -522,7 +522,7 @@
         "sound": "kosa.mp3"
       },
       "fr": {
-        "title": "Cheveux",
+        "title": "les Cheveux",
         "sound": "cheveux_fr.mp3"
       }
     }
@@ -554,11 +554,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eye",
+        "sound": "eye.mp3"
       },
       "es": {
-        "title": "Ojo",
+        "title": "el Ojo",
         "sound": "ojo_es.mp3"
       },
       "hr": {
@@ -566,7 +566,7 @@
         "sound": "oko.mp3"
       },
       "fr": {
-        "title": "Œil",
+        "title": "l’Œil",
         "sound": "oe_il_fr.mp3"
       }
     }
@@ -598,11 +598,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ear",
+        "sound": "ear.mp3"
       },
       "es": {
-        "title": "Oreja",
+        "title": "la Oreja",
         "sound": "oreja_es.mp3"
       },
       "hr": {
@@ -610,7 +610,7 @@
         "sound": "uho.mp3"
       },
       "fr": {
-        "title": "Oreille",
+        "title": "l’Oreille",
         "sound": "oreille_fr.mp3"
       }
     }
@@ -642,11 +642,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Nose",
+        "sound": "nose.mp3"
       },
       "es": {
-        "title": "Nariz",
+        "title": "la Nariz",
         "sound": "nariz_es.mp3"
       },
       "hr": {
@@ -654,7 +654,7 @@
         "sound": "nos.mp3"
       },
       "fr": {
-        "title": "Nez",
+        "title": "le Nez",
         "sound": "nez_fr.mp3"
       }
     }
@@ -686,11 +686,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mouth",
+        "sound": "mouth.mp3"
       },
       "es": {
-        "title": "Boca",
+        "title": "la Boca",
         "sound": "boca_es.mp3"
       },
       "hr": {
@@ -698,7 +698,7 @@
         "sound": "usta.mp3"
       },
       "fr": {
-        "title": "Bouche",
+        "title": "la Bouche",
         "sound": "bouche_fr.mp3"
       }
     }
@@ -730,11 +730,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Teeth",
+        "sound": "teeth.mp3"
       },
       "es": {
-        "title": "Dientes",
+        "title": "los Dientes",
         "sound": "dientes_es.mp3"
       },
       "hr": {
@@ -742,7 +742,7 @@
         "sound": "zubi.mp3"
       },
       "fr": {
-        "title": "Dents",
+        "title": "les Dents",
         "sound": "dents_fr.mp3"
       }
     }
@@ -774,11 +774,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tongue",
+        "sound": "tongue.mp3"
       },
       "es": {
-        "title": "Lengua",
+        "title": "la Lengua",
         "sound": "lengua_es.mp3"
       },
       "hr": {
@@ -786,7 +786,7 @@
         "sound": "jezik.mp3"
       },
       "fr": {
-        "title": "Langue",
+        "title": "la Langue",
         "sound": "langue_fr.mp3"
       }
     }
@@ -818,11 +818,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Neck",
+        "sound": "neck.mp3"
       },
       "es": {
-        "title": "Cuello",
+        "title": "el Cuello",
         "sound": "cuello_es.mp3"
       },
       "hr": {
@@ -830,7 +830,7 @@
         "sound": "vrat.mp3"
       },
       "fr": {
-        "title": "Cou",
+        "title": "le Cou",
         "sound": "cou_fr.mp3"
       }
     }
@@ -862,11 +862,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hand",
+        "sound": "hand.mp3"
       },
       "es": {
-        "title": "Mano",
+        "title": "la Mano",
         "sound": "mano_es.mp3"
       },
       "hr": {
@@ -874,7 +874,7 @@
         "sound": "saka.mp3"
       },
       "fr": {
-        "title": "Main",
+        "title": "la Main",
         "sound": "main_fr.mp3"
       }
     }
@@ -906,11 +906,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Arm",
+        "sound": "arm.mp3"
       },
       "es": {
-        "title": "Brazo",
+        "title": "el Brazo",
         "sound": "brazo_es.mp3"
       },
       "hr": {
@@ -918,7 +918,7 @@
         "sound": "ruka.mp3"
       },
       "fr": {
-        "title": "Bras",
+        "title": "le Bras",
         "sound": "bras_fr.mp3"
       }
     }
@@ -950,11 +950,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Leg",
+        "sound": "leg.mp3"
       },
       "es": {
-        "title": "Pierna",
+        "title": "la Pierna",
         "sound": "pierna_es.mp3"
       },
       "hr": {
@@ -962,7 +962,7 @@
         "sound": "noga.mp3"
       },
       "fr": {
-        "title": "Jambe",
+        "title": "la Jambe",
         "sound": "jambe_fr.mp3"
       }
     }
@@ -994,11 +994,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Foot",
+        "sound": "foot.mp3"
       },
       "es": {
-        "title": "Pie",
+        "title": "el Pie",
         "sound": "pie_es.mp3"
       },
       "hr": {
@@ -1006,7 +1006,7 @@
         "sound": "stopalo.mp3"
       },
       "fr": {
-        "title": "Pied",
+        "title": "le Pied",
         "sound": "pied_fr.mp3"
       }
     }
@@ -1038,11 +1038,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Knee",
+        "sound": "knee.mp3"
       },
       "es": {
-        "title": "Rodilla",
+        "title": "la Rodilla",
         "sound": "rodilla_es.mp3"
       },
       "hr": {
@@ -1050,7 +1050,7 @@
         "sound": "koljeno.mp3"
       },
       "fr": {
-        "title": "Genou",
+        "title": "le Genou",
         "sound": "genou_fr.mp3"
       }
     }
@@ -1082,11 +1082,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Finger",
+        "sound": "finger.mp3"
       },
       "es": {
-        "title": "Dedo",
+        "title": "el Dedo",
         "sound": "dedo_es.mp3"
       },
       "hr": {
@@ -1094,7 +1094,7 @@
         "sound": "prst.mp3"
       },
       "fr": {
-        "title": "Doigt",
+        "title": "le Doigt",
         "sound": "doigt_fr.mp3"
       }
     }
@@ -1126,11 +1126,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Toe",
+        "sound": "toe.mp3"
       },
       "es": {
-        "title": "Dedo del pie",
+        "title": "el Dedo del pie",
         "sound": "dedo_del_pie_es.mp3"
       },
       "hr": {
@@ -1138,7 +1138,7 @@
         "sound": "prst_na_nozi.mp3"
       },
       "fr": {
-        "title": "Orteil",
+        "title": "l’Orteil",
         "sound": "orteil_fr.mp3"
       }
     }
@@ -1170,11 +1170,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cat",
+        "sound": "cat.mp3"
       },
       "es": {
-        "title": "Gato",
+        "title": "el gato",
         "sound": "gato_es.mp3"
       },
       "hr": {
@@ -1182,7 +1182,7 @@
         "sound": "macka.mp3"
       },
       "fr": {
-        "title": "Chat",
+        "title": "le chat",
         "sound": "chat_fr.mp3"
       }
     }
@@ -1214,11 +1214,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Dog",
+        "sound": "dog.mp3"
       },
       "es": {
-        "title": "Perro",
+        "title": "el perro",
         "sound": "perro_es.mp3"
       },
       "hr": {
@@ -1226,7 +1226,7 @@
         "sound": "pas.mp3"
       },
       "fr": {
-        "title": "Chien",
+        "title": "le chien",
         "sound": "chien_fr.mp3"
       }
     }
@@ -1258,11 +1258,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cow",
+        "sound": "cow.mp3"
       },
       "es": {
-        "title": "Vaca",
+        "title": "la vaca",
         "sound": "vaca_es.mp3"
       },
       "hr": {
@@ -1270,7 +1270,7 @@
         "sound": "krava.mp3"
       },
       "fr": {
-        "title": "Vache",
+        "title": "la vache",
         "sound": "vache_fr.mp3"
       }
     }
@@ -1302,11 +1302,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pig",
+        "sound": "pig.mp3"
       },
       "es": {
-        "title": "Cerdo",
+        "title": "el cerdo",
         "sound": "cerdo_es.mp3"
       },
       "hr": {
@@ -1314,7 +1314,7 @@
         "sound": "svinja.mp3"
       },
       "fr": {
-        "title": "Cochon",
+        "title": "le cochon",
         "sound": "cochon_fr.mp3"
       }
     }
@@ -1346,11 +1346,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Horse",
+        "sound": "horse.mp3"
       },
       "es": {
-        "title": "Caballo",
+        "title": "el caballo",
         "sound": "caballo_es.mp3"
       },
       "hr": {
@@ -1358,7 +1358,7 @@
         "sound": "konj.mp3"
       },
       "fr": {
-        "title": "Cheval",
+        "title": "le cheval",
         "sound": "cheval_fr.mp3"
       }
     }
@@ -1390,11 +1390,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sheep",
+        "sound": "sheep.mp3"
       },
       "es": {
-        "title": "Oveja",
+        "title": "la oveja",
         "sound": "oveja_es.mp3"
       },
       "hr": {
@@ -1402,7 +1402,7 @@
         "sound": "ovca.mp3"
       },
       "fr": {
-        "title": "Mouton",
+        "title": "le mouton",
         "sound": "mouton_fr.mp3"
       }
     }
@@ -1434,11 +1434,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Goat",
+        "sound": "goat.mp3"
       },
       "es": {
-        "title": "Cabra",
+        "title": "la cabra",
         "sound": "cabra_es.mp3"
       },
       "hr": {
@@ -1446,7 +1446,7 @@
         "sound": "koza.mp3"
       },
       "fr": {
-        "title": "Chèvre",
+        "title": "la chèvre",
         "sound": "chevre_fr.mp3"
       }
     }
@@ -1478,11 +1478,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Chicken",
+        "sound": "chicken.mp3"
       },
       "es": {
-        "title": "Pollo",
+        "title": "el pollo",
         "sound": "pollo_es.mp3"
       },
       "hr": {
@@ -1490,7 +1490,7 @@
         "sound": "kokos.mp3"
       },
       "fr": {
-        "title": "Poulet",
+        "title": "le poulet",
         "sound": "poulet_fr.mp3"
       }
     }
@@ -1522,11 +1522,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Duck",
+        "sound": "duck.mp3"
       },
       "es": {
-        "title": "Pato",
+        "title": "el pato",
         "sound": "pato_es.mp3"
       },
       "hr": {
@@ -1534,7 +1534,7 @@
         "sound": "patka.mp3"
       },
       "fr": {
-        "title": "Canard",
+        "title": "le canard",
         "sound": "canard_fr.mp3"
       }
     }
@@ -1566,11 +1566,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bird",
+        "sound": "bird.mp3"
       },
       "es": {
-        "title": "Pájaro",
+        "title": "el pájaro",
         "sound": "pajaro_es.mp3"
       },
       "hr": {
@@ -1578,7 +1578,7 @@
         "sound": "ptica.mp3"
       },
       "fr": {
-        "title": "Oiseau",
+        "title": "l’oiseau",
         "sound": "oiseau_fr.mp3"
       }
     }
@@ -1610,11 +1610,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fish",
+        "sound": "fish.mp3"
       },
       "es": {
-        "title": "Pez",
+        "title": "el pez",
         "sound": "pez_es.mp3"
       },
       "hr": {
@@ -1622,7 +1622,7 @@
         "sound": "riba.mp3"
       },
       "fr": {
-        "title": "Poisson",
+        "title": "le poisson",
         "sound": "poisson_fr.mp3"
       }
     }
@@ -1654,11 +1654,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Frog",
+        "sound": "frog.mp3"
       },
       "es": {
-        "title": "Rana",
+        "title": "la rana",
         "sound": "rana_es.mp3"
       },
       "hr": {
@@ -1666,7 +1666,7 @@
         "sound": "zaba.mp3"
       },
       "fr": {
-        "title": "Grenouille",
+        "title": "la grenouille",
         "sound": "grenouille_fr.mp3"
       }
     }
@@ -1698,11 +1698,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bear",
+        "sound": "bear.mp3"
       },
       "es": {
-        "title": "Oso",
+        "title": "el oso",
         "sound": "oso_es.mp3"
       },
       "hr": {
@@ -1710,7 +1710,7 @@
         "sound": "medvjed.mp3"
       },
       "fr": {
-        "title": "Ours",
+        "title": "l’ours",
         "sound": "ours_fr.mp3"
       }
     }
@@ -1742,11 +1742,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tiger",
+        "sound": "tiger.mp3"
       },
       "es": {
-        "title": "Tigre",
+        "title": "el tigre",
         "sound": "tigre_es.mp3"
       },
       "hr": {
@@ -1754,7 +1754,7 @@
         "sound": "tigar.mp3"
       },
       "fr": {
-        "title": "Tigre",
+        "title": "le tigre",
         "sound": "tigre_fr.mp3"
       }
     }
@@ -1786,11 +1786,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lion",
+        "sound": "lion.mp3"
       },
       "es": {
-        "title": "León",
+        "title": "el león",
         "sound": "leon_es.mp3"
       },
       "hr": {
@@ -1798,7 +1798,7 @@
         "sound": "lav.mp3"
       },
       "fr": {
-        "title": "Lion",
+        "title": "le lion",
         "sound": "lion_fr.mp3"
       }
     }
@@ -1830,11 +1830,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Elephant",
+        "sound": "elephant.mp3"
       },
       "es": {
-        "title": "Elefante",
+        "title": "el elefante",
         "sound": "elefante_es.mp3"
       },
       "hr": {
@@ -1842,7 +1842,7 @@
         "sound": "slon.mp3"
       },
       "fr": {
-        "title": "Éléphant",
+        "title": "l’éléphant",
         "sound": "elephant_fr.mp3"
       }
     }
@@ -1874,11 +1874,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Monkey",
+        "sound": "monkey.mp3"
       },
       "es": {
-        "title": "Mono",
+        "title": "el mono",
         "sound": "mono_es.mp3"
       },
       "hr": {
@@ -1886,7 +1886,7 @@
         "sound": "majmun.mp3"
       },
       "fr": {
-        "title": "Singe",
+        "title": "le singe",
         "sound": "singe_fr.mp3"
       }
     }
@@ -1918,11 +1918,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Snake",
+        "sound": "snake.mp3"
       },
       "es": {
-        "title": "Serpiente",
+        "title": "la serpiente",
         "sound": "serpiente_es.mp3"
       },
       "hr": {
@@ -1930,7 +1930,7 @@
         "sound": "zmija.mp3"
       },
       "fr": {
-        "title": "Serpent",
+        "title": "le serpent",
         "sound": "serpent_fr.mp3"
       }
     }
@@ -1962,11 +1962,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Turtle",
+        "sound": "turtle.mp3"
       },
       "es": {
-        "title": "Tortuga",
+        "title": "la tortuga",
         "sound": "tortuga_es.mp3"
       },
       "hr": {
@@ -1974,7 +1974,7 @@
         "sound": "kornjaca.mp3"
       },
       "fr": {
-        "title": "Tortue",
+        "title": "la tortue",
         "sound": "tortue_fr.mp3"
       }
     }
@@ -2006,11 +2006,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bee",
+        "sound": "bee.mp3"
       },
       "es": {
-        "title": "Abeja",
+        "title": "la abeja",
         "sound": "abeja_es.mp3"
       },
       "hr": {
@@ -2018,7 +2018,7 @@
         "sound": "pcela.mp3"
       },
       "fr": {
-        "title": "Abeille",
+        "title": "l’abeille",
         "sound": "abeille_fr.mp3"
       }
     }
@@ -2050,11 +2050,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ant",
+        "sound": "ant.mp3"
       },
       "es": {
-        "title": "Hormiga",
+        "title": "la hormiga",
         "sound": "hormiga_es.mp3"
       },
       "hr": {
@@ -2062,7 +2062,7 @@
         "sound": "mrav.mp3"
       },
       "fr": {
-        "title": "Fourmi",
+        "title": "la fourmi",
         "sound": "fourmi_fr.mp3"
       }
     }
@@ -2094,11 +2094,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Spider",
+        "sound": "spider.mp3"
       },
       "es": {
-        "title": "Araña",
+        "title": "la araña",
         "sound": "arana_es.mp3"
       },
       "hr": {
@@ -2106,7 +2106,7 @@
         "sound": "pauk.mp3"
       },
       "fr": {
-        "title": "Araignée",
+        "title": "l’araignée",
         "sound": "araignee_fr.mp3"
       }
     }
@@ -2138,11 +2138,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Butterfly",
+        "sound": "butterfly.mp3"
       },
       "es": {
-        "title": "Mariposa",
+        "title": "la mariposa",
         "sound": "mariposa_es.mp3"
       },
       "hr": {
@@ -2150,7 +2150,7 @@
         "sound": "leptir.mp3"
       },
       "fr": {
-        "title": "Papillon",
+        "title": "le papillon",
         "sound": "papillon_fr.mp3"
       }
     }
@@ -2182,11 +2182,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Whale",
+        "sound": "whale.mp3"
       },
       "es": {
-        "title": "Ballena",
+        "title": "la ballena",
         "sound": "ballena_es.mp3"
       },
       "hr": {
@@ -2194,7 +2194,7 @@
         "sound": "kit.mp3"
       },
       "fr": {
-        "title": "Baleine",
+        "title": "la baleine",
         "sound": "baleine_fr.mp3"
       }
     }
@@ -2226,11 +2226,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Dolphin",
+        "sound": "dolphin.mp3"
       },
       "es": {
-        "title": "Delfín",
+        "title": "el delfín",
         "sound": "delfin_es.mp3"
       },
       "hr": {
@@ -2238,7 +2238,7 @@
         "sound": "dupin.mp3"
       },
       "fr": {
-        "title": "Dauphin",
+        "title": "le dauphin",
         "sound": "dauphin_fr.mp3"
       }
     }
@@ -2270,11 +2270,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shark",
+        "sound": "shark.mp3"
       },
       "es": {
-        "title": "Tiburón",
+        "title": "el tiburón",
         "sound": "tiburon_es.mp3"
       },
       "hr": {
@@ -2282,7 +2282,7 @@
         "sound": "morski_pas.mp3"
       },
       "fr": {
-        "title": "Requin",
+        "title": "le requin",
         "sound": "requin_fr.mp3"
       }
     }
@@ -2314,11 +2314,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Octopus",
+        "sound": "octopus.mp3"
       },
       "es": {
-        "title": "Pulpo",
+        "title": "el pulpo",
         "sound": "pulpo_es.mp3"
       },
       "hr": {
@@ -2326,7 +2326,7 @@
         "sound": "hobotnica.mp3"
       },
       "fr": {
-        "title": "Pieuvre",
+        "title": "la pieuvre",
         "sound": "pieuvre_fr.mp3"
       }
     }
@@ -2358,11 +2358,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Crab",
+        "sound": "crab.mp3"
       },
       "es": {
-        "title": "Cangrejo",
+        "title": "el cangrejo",
         "sound": "cangrejo_es.mp3"
       },
       "hr": {
@@ -2370,7 +2370,7 @@
         "sound": "rak.mp3"
       },
       "fr": {
-        "title": "Crabe",
+        "title": "le crabe",
         "sound": "crabe_fr.mp3"
       }
     }
@@ -2402,11 +2402,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Kangaroo",
+        "sound": "kangaroo.mp3"
       },
       "es": {
-        "title": "Canguro",
+        "title": "el canguro",
         "sound": "canguro_es.mp3"
       },
       "hr": {
@@ -2414,7 +2414,7 @@
         "sound": "klokan.mp3"
       },
       "fr": {
-        "title": "Kangourou",
+        "title": "le kangourou",
         "sound": "kangourou_fr.mp3"
       }
     }
@@ -2446,11 +2446,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Giraffe",
+        "sound": "giraffe.mp3"
       },
       "es": {
-        "title": "Jirafa",
+        "title": "la jirafa",
         "sound": "jirafa_es.mp3"
       },
       "hr": {
@@ -2458,7 +2458,7 @@
         "sound": "zirafa.mp3"
       },
       "fr": {
-        "title": "Girafe",
+        "title": "la girafe",
         "sound": "girafe_fr.mp3"
       }
     }
@@ -2490,11 +2490,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Zebra",
+        "sound": "zebra.mp3"
       },
       "es": {
-        "title": "Cebra",
+        "title": "la cebra",
         "sound": "cebra_es.mp3"
       },
       "hr": {
@@ -2502,7 +2502,7 @@
         "sound": "zebra.mp3"
       },
       "fr": {
-        "title": "Zèbre",
+        "title": "le zèbre",
         "sound": "zebre_fr.mp3"
       }
     }
@@ -2534,11 +2534,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fox",
+        "sound": "fox.mp3"
       },
       "es": {
-        "title": "Zorro",
+        "title": "el zorro",
         "sound": "zorro_es.mp3"
       },
       "hr": {
@@ -2546,7 +2546,7 @@
         "sound": "lisica.mp3"
       },
       "fr": {
-        "title": "Renard",
+        "title": "le renard",
         "sound": "renard_fr.mp3"
       }
     }
@@ -2578,11 +2578,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wolf",
+        "sound": "wolf.mp3"
       },
       "es": {
-        "title": "Lobo",
+        "title": "el lobo",
         "sound": "lobo_es.mp3"
       },
       "hr": {
@@ -2590,7 +2590,7 @@
         "sound": "vuk.mp3"
       },
       "fr": {
-        "title": "Loup",
+        "title": "le loup",
         "sound": "loup_fr.mp3"
       }
     }
@@ -2622,11 +2622,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mouse",
+        "sound": "mouse.mp3"
       },
       "es": {
-        "title": "Ratón",
+        "title": "el ratón",
         "sound": "raton_es.mp3"
       },
       "hr": {
@@ -2634,7 +2634,7 @@
         "sound": "mis.mp3"
       },
       "fr": {
-        "title": "Souris",
+        "title": "la souris",
         "sound": "souris_fr.mp3"
       }
     }
@@ -2666,11 +2666,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rat",
+        "sound": "rat.mp3"
       },
       "es": {
-        "title": "Rata",
+        "title": "la rata",
         "sound": "rata_es.mp3"
       },
       "hr": {
@@ -2678,7 +2678,7 @@
         "sound": "stakor.mp3"
       },
       "fr": {
-        "title": "Rat",
+        "title": "le rat",
         "sound": "rat_fr.mp3"
       }
     }
@@ -2710,11 +2710,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bat",
+        "sound": "bat.mp3"
       },
       "es": {
-        "title": "Murciélago",
+        "title": "el murciélago",
         "sound": "murcielago_es.mp3"
       },
       "hr": {
@@ -2722,7 +2722,7 @@
         "sound": "sismis.mp3"
       },
       "fr": {
-        "title": "Batte",
+        "title": "la chauve-souris",
         "sound": "batte_fr.mp3"
       }
     }
@@ -2754,11 +2754,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Owl",
+        "sound": "owl.mp3"
       },
       "es": {
-        "title": "Búho",
+        "title": "el búho",
         "sound": "buho_es.mp3"
       },
       "hr": {
@@ -2766,7 +2766,7 @@
         "sound": "sova.mp3"
       },
       "fr": {
-        "title": "Hibou",
+        "title": "le hibou",
         "sound": "hibou_fr.mp3"
       }
     }
@@ -2798,11 +2798,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Deer",
+        "sound": "deer.mp3"
       },
       "es": {
-        "title": "Ciervo",
+        "title": "el ciervo",
         "sound": "ciervo_es.mp3"
       },
       "hr": {
@@ -2810,7 +2810,7 @@
         "sound": "jelen.mp3"
       },
       "fr": {
-        "title": "Cerf",
+        "title": "le cerf",
         "sound": "cerf_fr.mp3"
       }
     }
@@ -2842,11 +2842,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Camel",
+        "sound": "camel.mp3"
       },
       "es": {
-        "title": "Camello",
+        "title": "el camello",
         "sound": "camello_es.mp3"
       },
       "hr": {
@@ -2854,7 +2854,7 @@
         "sound": "deva.mp3"
       },
       "fr": {
-        "title": "Chameau",
+        "title": "le chameau",
         "sound": "chameau_fr.mp3"
       }
     }
@@ -2886,11 +2886,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hippo",
+        "sound": "hippo.mp3"
       },
       "es": {
-        "title": "Hipopótamo",
+        "title": "el hipopótamo",
         "sound": "hipopotamo_es.mp3"
       },
       "hr": {
@@ -2898,7 +2898,7 @@
         "sound": "nilski_konj.mp3"
       },
       "fr": {
-        "title": "Hippopotame",
+        "title": "l’hippopotame",
         "sound": "hippopotame_fr.mp3"
       }
     }
@@ -2930,11 +2930,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Crocodile",
+        "sound": "crocodile.mp3"
       },
       "es": {
-        "title": "Cocodrilo",
+        "title": "el cocodrilo",
         "sound": "cocodrilo_es.mp3"
       },
       "hr": {
@@ -2942,7 +2942,7 @@
         "sound": "krokodil.mp3"
       },
       "fr": {
-        "title": "Crocodile",
+        "title": "le crocodile",
         "sound": "crocodile_fr.mp3"
       }
     }
@@ -2974,11 +2974,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Parrot",
+        "sound": "parrot.mp3"
       },
       "es": {
-        "title": "Loro",
+        "title": "el loro",
         "sound": "loro_es.mp3"
       },
       "hr": {
@@ -2986,7 +2986,7 @@
         "sound": "papiga.mp3"
       },
       "fr": {
-        "title": "Perroquet",
+        "title": "le perroquet",
         "sound": "perroquet_fr.mp3"
       }
     }
@@ -3018,11 +3018,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Apple",
+        "sound": "apple.mp3"
       },
       "es": {
-        "title": "Manzana",
+        "title": "la manzana",
         "sound": "manzana_es.mp3"
       },
       "hr": {
@@ -3030,7 +3030,7 @@
         "sound": "jabuka.mp3"
       },
       "fr": {
-        "title": "Pomme",
+        "title": "la pomme",
         "sound": "pomme_fr.mp3"
       }
     }
@@ -3062,11 +3062,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Banana",
+        "sound": "banana.mp3"
       },
       "es": {
-        "title": "Banana",
+        "title": "el plátano / la banana",
         "sound": "banana_es.mp3"
       },
       "hr": {
@@ -3074,7 +3074,7 @@
         "sound": "banana.mp3"
       },
       "fr": {
-        "title": "Banane",
+        "title": "la banane",
         "sound": "banane_fr.mp3"
       }
     }
@@ -3106,11 +3106,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Orange",
+        "sound": "orange.mp3"
       },
       "es": {
-        "title": "Naranja",
+        "title": "la naranja",
         "sound": "naranja_es.mp3"
       },
       "hr": {
@@ -3118,7 +3118,7 @@
         "sound": "naranca.mp3"
       },
       "fr": {
-        "title": "Orange",
+        "title": "l’orange",
         "sound": "orange_fr.mp3"
       }
     }
@@ -3150,11 +3150,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Grape",
+        "sound": "grape.mp3"
       },
       "es": {
-        "title": "Uva",
+        "title": "la uva",
         "sound": "uva_es.mp3"
       },
       "hr": {
@@ -3162,7 +3162,7 @@
         "sound": "grozde.mp3"
       },
       "fr": {
-        "title": "Raisin",
+        "title": "le raisin",
         "sound": "raisin_fr.mp3"
       }
     }
@@ -3194,11 +3194,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mango",
+        "sound": "mango.mp3"
       },
       "es": {
-        "title": "mango",
+        "title": "el mango",
         "sound": "mango_es.mp3"
       },
       "hr": {
@@ -3206,7 +3206,7 @@
         "sound": "mango.mp3"
       },
       "fr": {
-        "title": "mangue",
+        "title": "la mangue",
         "sound": "mangue_fr.mp3"
       }
     }
@@ -3238,11 +3238,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Watermelon",
+        "sound": "watermelon.mp3"
       },
       "es": {
-        "title": "Sandía",
+        "title": "la sandía",
         "sound": "sandia_es.mp3"
       },
       "hr": {
@@ -3250,7 +3250,7 @@
         "sound": "lubenica.mp3"
       },
       "fr": {
-        "title": "Pastèque",
+        "title": "la pastèque",
         "sound": "pasteque_fr.mp3"
       }
     }
@@ -3282,11 +3282,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Strawberry",
+        "sound": "strawberry.mp3"
       },
       "es": {
-        "title": "Fresa",
+        "title": "la fresa",
         "sound": "fresa_es.mp3"
       },
       "hr": {
@@ -3294,7 +3294,7 @@
         "sound": "jagoda.mp3"
       },
       "fr": {
-        "title": "Fraise",
+        "title": "la fraise",
         "sound": "fraise_fr.mp3"
       }
     }
@@ -3326,11 +3326,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lemon",
+        "sound": "lemon.mp3"
       },
       "es": {
-        "title": "Limón",
+        "title": "el limón",
         "sound": "limon_es.mp3"
       },
       "hr": {
@@ -3338,7 +3338,7 @@
         "sound": "limun.mp3"
       },
       "fr": {
-        "title": "Citron",
+        "title": "le citron",
         "sound": "citron_fr.mp3"
       }
     }
@@ -3370,11 +3370,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pear",
+        "sound": "pear.mp3"
       },
       "es": {
-        "title": "Pera",
+        "title": "la pera",
         "sound": "pera_es.mp3"
       },
       "hr": {
@@ -3382,7 +3382,7 @@
         "sound": "kruska.mp3"
       },
       "fr": {
-        "title": "Poire",
+        "title": "la poire",
         "sound": "poire_fr.mp3"
       }
     }
@@ -3414,11 +3414,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pineapple",
+        "sound": "pineapple.mp3"
       },
       "es": {
-        "title": "Piña",
+        "title": "la piña",
         "sound": "pina_es.mp3"
       },
       "hr": {
@@ -3426,7 +3426,7 @@
         "sound": "ananas.mp3"
       },
       "fr": {
-        "title": "Ananas",
+        "title": "l’ananas",
         "sound": "ananas_fr.mp3"
       }
     }
@@ -3458,11 +3458,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Carrot",
+        "sound": "carrot.mp3"
       },
       "es": {
-        "title": "Zanahoria",
+        "title": "la zanahoria",
         "sound": "zanahoria_es.mp3"
       },
       "hr": {
@@ -3470,7 +3470,7 @@
         "sound": "mrkva.mp3"
       },
       "fr": {
-        "title": "Carotte",
+        "title": "la carotte",
         "sound": "carotte_fr.mp3"
       }
     }
@@ -3502,11 +3502,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Potato",
+        "sound": "potato.mp3"
       },
       "es": {
-        "title": "Papa",
+        "title": "la papa",
         "sound": "papa_es.mp3"
       },
       "hr": {
@@ -3514,7 +3514,7 @@
         "sound": "krumpir.mp3"
       },
       "fr": {
-        "title": "Pomme de terre",
+        "title": "la pomme de terre",
         "sound": "pomme_de_terre_fr.mp3"
       }
     }
@@ -3546,11 +3546,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tomato",
+        "sound": "tomato.mp3"
       },
       "es": {
-        "title": "Tomate",
+        "title": "el tomate",
         "sound": "tomate_es.mp3"
       },
       "hr": {
@@ -3558,7 +3558,7 @@
         "sound": "rajcica.mp3"
       },
       "fr": {
-        "title": "Tomate",
+        "title": "la tomate",
         "sound": "tomate_fr.mp3"
       }
     }
@@ -3590,11 +3590,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Onion",
+        "sound": "onion.mp3"
       },
       "es": {
-        "title": "Cebolla",
+        "title": "la cebolla",
         "sound": "cebolla_es.mp3"
       },
       "hr": {
@@ -3602,7 +3602,7 @@
         "sound": "luk.mp3"
       },
       "fr": {
-        "title": "Oignon",
+        "title": "l’oignon",
         "sound": "oignon_fr.mp3"
       }
     }
@@ -3634,11 +3634,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Corn",
+        "sound": "corn.mp3"
       },
       "es": {
-        "title": "Maíz",
+        "title": "el maíz",
         "sound": "maiz_es.mp3"
       },
       "hr": {
@@ -3646,7 +3646,7 @@
         "sound": "kukuruz.mp3"
       },
       "fr": {
-        "title": "Maïs",
+        "title": "le maïs",
         "sound": "mais_fr.mp3"
       }
     }
@@ -3678,11 +3678,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Peas",
+        "sound": "peas.mp3"
       },
       "es": {
-        "title": "Guisantes",
+        "title": "los guisantes",
         "sound": "guisantes_es.mp3"
       },
       "hr": {
@@ -3690,7 +3690,7 @@
         "sound": "grasak.mp3"
       },
       "fr": {
-        "title": "Petits pois",
+        "title": "les petits pois",
         "sound": "petits_pois_fr.mp3"
       }
     }
@@ -3722,11 +3722,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cucumber",
+        "sound": "cucumber.mp3"
       },
       "es": {
-        "title": "Pepino",
+        "title": "el pepino",
         "sound": "pepino_es.mp3"
       },
       "hr": {
@@ -3734,7 +3734,7 @@
         "sound": "krastavac.mp3"
       },
       "fr": {
-        "title": "Concombre",
+        "title": "le concombre",
         "sound": "concombre_fr.mp3"
       }
     }
@@ -3766,11 +3766,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lettuce",
+        "sound": "lettuce.mp3"
       },
       "es": {
-        "title": "Lechuga",
+        "title": "la lechuga",
         "sound": "lechuga_es.mp3"
       },
       "hr": {
@@ -3778,7 +3778,7 @@
         "sound": "salata.mp3"
       },
       "fr": {
-        "title": "Laitue",
+        "title": "la laitue",
         "sound": "laitue_fr.mp3"
       }
     }
@@ -3810,11 +3810,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Broccoli",
+        "sound": "broccoli.mp3"
       },
       "es": {
-        "title": "Brócoli",
+        "title": "el brócoli",
         "sound": "brocoli_es.mp3"
       },
       "hr": {
@@ -3822,7 +3822,7 @@
         "sound": "brokula.mp3"
       },
       "fr": {
-        "title": "Brocoli",
+        "title": "le brocoli",
         "sound": "brocoli_fr.mp3"
       }
     }
@@ -3854,11 +3854,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pumpkin",
+        "sound": "pumpkin.mp3"
       },
       "es": {
-        "title": "Calabaza",
+        "title": "la calabaza",
         "sound": "calabaza_es.mp3"
       },
       "hr": {
@@ -3866,7 +3866,7 @@
         "sound": "bundeva.mp3"
       },
       "fr": {
-        "title": "Citrouille",
+        "title": "la citrouille",
         "sound": "citrouille_fr.mp3"
       }
     }
@@ -3898,11 +3898,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bread",
+        "sound": "bread.mp3"
       },
       "es": {
-        "title": "Pan",
+        "title": "el pan",
         "sound": "pan_es.mp3"
       },
       "hr": {
@@ -3910,7 +3910,7 @@
         "sound": "kruh.mp3"
       },
       "fr": {
-        "title": "Pain",
+        "title": "le pain",
         "sound": "pain_fr.mp3"
       }
     }
@@ -3942,11 +3942,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cheese",
+        "sound": "cheese.mp3"
       },
       "es": {
-        "title": "Queso",
+        "title": "el queso",
         "sound": "queso_es.mp3"
       },
       "hr": {
@@ -3954,7 +3954,7 @@
         "sound": "sir.mp3"
       },
       "fr": {
-        "title": "Fromage",
+        "title": "le fromage",
         "sound": "fromage_fr.mp3"
       }
     }
@@ -3986,11 +3986,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Egg",
+        "sound": "egg.mp3"
       },
       "es": {
-        "title": "Huevo",
+        "title": "el huevo",
         "sound": "huevo_es.mp3"
       },
       "hr": {
@@ -3998,7 +3998,7 @@
         "sound": "jaje.mp3"
       },
       "fr": {
-        "title": "Œuf",
+        "title": "l’œuf",
         "sound": "oe_uf_fr.mp3"
       }
     }
@@ -4030,11 +4030,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Milk",
+        "sound": "milk.mp3"
       },
       "es": {
-        "title": "Leche",
+        "title": "la leche",
         "sound": "leche_es.mp3"
       },
       "hr": {
@@ -4042,7 +4042,7 @@
         "sound": "mlijeko.mp3"
       },
       "fr": {
-        "title": "Lait",
+        "title": "le lait",
         "sound": "lait_fr.mp3"
       }
     }
@@ -4074,11 +4074,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Butter",
+        "sound": "butter.mp3"
       },
       "es": {
-        "title": "Manteca",
+        "title": "la manteca (mantequilla)",
         "sound": "manteca_es.mp3"
       },
       "hr": {
@@ -4086,7 +4086,7 @@
         "sound": "maslac.mp3"
       },
       "fr": {
-        "title": "Beurre",
+        "title": "le beurre",
         "sound": "beurre_fr.mp3"
       }
     }
@@ -4118,11 +4118,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Yogurt",
+        "sound": "yogurt.mp3"
       },
       "es": {
-        "title": "Yogur",
+        "title": "el yogur",
         "sound": "yogur_es.mp3"
       },
       "hr": {
@@ -4130,7 +4130,7 @@
         "sound": "jogurt.mp3"
       },
       "fr": {
-        "title": "Yaourt",
+        "title": "le yaourt",
         "sound": "yaourt_fr.mp3"
       }
     }
@@ -4162,11 +4162,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rice",
+        "sound": "rice.mp3"
       },
       "es": {
-        "title": "Arroz",
+        "title": "el arroz",
         "sound": "arroz_es.mp3"
       },
       "hr": {
@@ -4174,7 +4174,7 @@
         "sound": "riza.mp3"
       },
       "fr": {
-        "title": "Riz",
+        "title": "le riz",
         "sound": "riz_fr.mp3"
       }
     }
@@ -4206,11 +4206,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pasta",
+        "sound": "pasta.mp3"
       },
       "es": {
-        "title": "Pastas",
+        "title": "las pastas",
         "sound": "pastas_es.mp3"
       },
       "hr": {
@@ -4218,7 +4218,7 @@
         "sound": "tjestenina.mp3"
       },
       "fr": {
-        "title": "Pâtes",
+        "title": "les pâtes",
         "sound": "pates_fr.mp3"
       }
     }
@@ -4250,11 +4250,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Soup",
+        "sound": "soup.mp3"
       },
       "es": {
-        "title": "Sopa",
+        "title": "la sopa",
         "sound": "sopa_es.mp3"
       },
       "hr": {
@@ -4262,7 +4262,7 @@
         "sound": "juha.mp3"
       },
       "fr": {
-        "title": "Soupe",
+        "title": "la soupe",
         "sound": "soupe_fr.mp3"
       }
     }
@@ -4294,11 +4294,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Meat",
+        "sound": "meat.mp3"
       },
       "es": {
-        "title": "Carne",
+        "title": "la carne",
         "sound": "carne_es.mp3"
       },
       "hr": {
@@ -4306,7 +4306,7 @@
         "sound": "meso.mp3"
       },
       "fr": {
-        "title": "Viande",
+        "title": "la viande",
         "sound": "viande_fr.mp3"
       }
     }
@@ -4338,11 +4338,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Chicken",
+        "sound": "chicken.mp3"
       },
       "es": {
-        "title": "Pollo",
+        "title": "el pollo",
         "sound": "pollo_es.mp3"
       },
       "hr": {
@@ -4350,7 +4350,7 @@
         "sound": "piletina.mp3"
       },
       "fr": {
-        "title": "Poulet",
+        "title": "le poulet",
         "sound": "poulet_fr.mp3"
       }
     }
@@ -4382,11 +4382,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fish",
+        "sound": "fish.mp3"
       },
       "es": {
-        "title": "Pez",
+        "title": "el pez",
         "sound": "pez_es.mp3"
       },
       "hr": {
@@ -4394,7 +4394,7 @@
         "sound": "riba.mp3"
       },
       "fr": {
-        "title": "Poisson",
+        "title": "le poisson",
         "sound": "poisson_fr.mp3"
       }
     }
@@ -4426,11 +4426,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sausage",
+        "sound": "sausage.mp3"
       },
       "es": {
-        "title": "Embutido",
+        "title": "el embutido",
         "sound": "embutido_es.mp3"
       },
       "hr": {
@@ -4438,7 +4438,7 @@
         "sound": "kobasica.mp3"
       },
       "fr": {
-        "title": "Saucisse",
+        "title": "la saucisse",
         "sound": "saucisse_fr.mp3"
       }
     }
@@ -4470,11 +4470,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Burger",
+        "sound": "burger.mp3"
       },
       "es": {
-        "title": "Hamburguesa",
+        "title": "la hamburguesa",
         "sound": "hamburguesa_es.mp3"
       },
       "hr": {
@@ -4482,7 +4482,7 @@
         "sound": "hamburger.mp3"
       },
       "fr": {
-        "title": "Burger",
+        "title": "le burger",
         "sound": "burger_fr.mp3"
       }
     }
@@ -4514,11 +4514,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pizza",
+        "sound": "pizza.mp3"
       },
       "es": {
-        "title": "Pizza",
+        "title": "la pizza",
         "sound": "pizza_es.mp3"
       },
       "hr": {
@@ -4526,7 +4526,7 @@
         "sound": "pizza.mp3"
       },
       "fr": {
-        "title": "Pizza",
+        "title": "la pizza",
         "sound": "pizza_fr.mp3"
       }
     }
@@ -4558,11 +4558,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cake",
+        "sound": "cake.mp3"
       },
       "es": {
-        "title": "Pastel",
+        "title": "el pastel",
         "sound": "pastel_es.mp3"
       },
       "hr": {
@@ -4570,7 +4570,7 @@
         "sound": "torta.mp3"
       },
       "fr": {
-        "title": "Gâteau",
+        "title": "le gâteau",
         "sound": "gateau_fr.mp3"
       }
     }
@@ -4602,11 +4602,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cookie",
+        "sound": "cookie.mp3"
       },
       "es": {
-        "title": "Galleta",
+        "title": "la galleta",
         "sound": "galleta_es.mp3"
       },
       "hr": {
@@ -4614,7 +4614,7 @@
         "sound": "kolac.mp3"
       },
       "fr": {
-        "title": "Biscuit",
+        "title": "le biscuit",
         "sound": "biscuit_fr.mp3"
       }
     }
@@ -4646,11 +4646,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ice cream",
+        "sound": "ice_cream.mp3"
       },
       "es": {
-        "title": "Helado",
+        "title": "el helado",
         "sound": "helado_es.mp3"
       },
       "hr": {
@@ -4658,7 +4658,7 @@
         "sound": "sladoled.mp3"
       },
       "fr": {
-        "title": "Glace",
+        "title": "la glace",
         "sound": "glace_fr.mp3"
       }
     }
@@ -4690,11 +4690,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Candy",
+        "sound": "candy.mp3"
       },
       "es": {
-        "title": "Dulce",
+        "title": "el dulce",
         "sound": "dulce_es.mp3"
       },
       "hr": {
@@ -4702,7 +4702,7 @@
         "sound": "bombon.mp3"
       },
       "fr": {
-        "title": "Bonbons",
+        "title": "les bonbons",
         "sound": "bonbons_fr.mp3"
       }
     }
@@ -4734,11 +4734,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Juice",
+        "sound": "juice.mp3"
       },
       "es": {
-        "title": "Jugo",
+        "title": "el jugo",
         "sound": "jugo_es.mp3"
       },
       "hr": {
@@ -4746,7 +4746,7 @@
         "sound": "sok.mp3"
       },
       "fr": {
-        "title": "Jus",
+        "title": "le jus",
         "sound": "jus_fr.mp3"
       }
     }
@@ -4778,11 +4778,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Water",
+        "sound": "water.mp3"
       },
       "es": {
-        "title": "Agua",
+        "title": "el agua",
         "sound": "agua_es.mp3"
       },
       "hr": {
@@ -4790,7 +4790,7 @@
         "sound": "voda.mp3"
       },
       "fr": {
-        "title": "Eau",
+        "title": "l’eau",
         "sound": "eau_fr.mp3"
       }
     }
@@ -4822,11 +4822,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tea",
+        "sound": "tea.mp3"
       },
       "es": {
-        "title": "Té",
+        "title": "el té",
         "sound": "te_es.mp3"
       },
       "hr": {
@@ -4834,7 +4834,7 @@
         "sound": "caj.mp3"
       },
       "fr": {
-        "title": "Thé",
+        "title": "le thé",
         "sound": "the_fr.mp3"
       }
     }
@@ -4866,11 +4866,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Coffee",
+        "sound": "coffee.mp3"
       },
       "es": {
-        "title": "Café",
+        "title": "el café",
         "sound": "cafe_es.mp3"
       },
       "hr": {
@@ -4878,7 +4878,7 @@
         "sound": "kava.mp3"
       },
       "fr": {
-        "title": "Café",
+        "title": "le café",
         "sound": "cafe_fr.mp3"
       }
     }
@@ -4910,11 +4910,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shirt",
+        "sound": "shirt.mp3"
       },
       "es": {
-        "title": "Camisa",
+        "title": "la camisa",
         "sound": "camisa_es.mp3"
       },
       "hr": {
@@ -4922,7 +4922,7 @@
         "sound": "majica.mp3"
       },
       "fr": {
-        "title": "Chemise",
+        "title": "la chemise",
         "sound": "chemise_fr.mp3"
       }
     }
@@ -4954,11 +4954,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pants",
+        "sound": "pants.mp3"
       },
       "es": {
-        "title": "Pantalones",
+        "title": "los pantalones",
         "sound": "pantalones_es.mp3"
       },
       "hr": {
@@ -4966,7 +4966,7 @@
         "sound": "hlace.mp3"
       },
       "fr": {
-        "title": "Pantalon",
+        "title": "le pantalon",
         "sound": "pantalon_fr.mp3"
       }
     }
@@ -4998,11 +4998,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shorts",
+        "sound": "shorts.mp3"
       },
       "es": {
-        "title": "Bermudas",
+        "title": "las bermudas",
         "sound": "bermudas_es.mp3"
       },
       "hr": {
@@ -5010,7 +5010,7 @@
         "sound": "kratke_hlace.mp3"
       },
       "fr": {
-        "title": "Shorts",
+        "title": "les shorts",
         "sound": "shorts_fr.mp3"
       }
     }
@@ -5042,11 +5042,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Skirt",
+        "sound": "skirt.mp3"
       },
       "es": {
-        "title": "Falda",
+        "title": "la falda",
         "sound": "falda_es.mp3"
       },
       "hr": {
@@ -5054,7 +5054,7 @@
         "sound": "suknja.mp3"
       },
       "fr": {
-        "title": "Jupe",
+        "title": "la jupe",
         "sound": "jupe_fr.mp3"
       }
     }
@@ -5086,11 +5086,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Dress",
+        "sound": "dress.mp3"
       },
       "es": {
-        "title": "Vestido",
+        "title": "el vestido",
         "sound": "vestido_es.mp3"
       },
       "hr": {
@@ -5098,7 +5098,7 @@
         "sound": "haljina.mp3"
       },
       "fr": {
-        "title": "Robe",
+        "title": "la robe",
         "sound": "robe_fr.mp3"
       }
     }
@@ -5130,11 +5130,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Jacket",
+        "sound": "jacket.mp3"
       },
       "es": {
-        "title": "Chaqueta",
+        "title": "la chaqueta",
         "sound": "chaqueta_es.mp3"
       },
       "hr": {
@@ -5142,7 +5142,7 @@
         "sound": "jakna.mp3"
       },
       "fr": {
-        "title": "Veste",
+        "title": "la veste",
         "sound": "veste_fr.mp3"
       }
     }
@@ -5174,11 +5174,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sweater",
+        "sound": "sweater.mp3"
       },
       "es": {
-        "title": "Suéter",
+        "title": "el suéter",
         "sound": "sueter_es.mp3"
       },
       "hr": {
@@ -5186,7 +5186,7 @@
         "sound": "dzemper.mp3"
       },
       "fr": {
-        "title": "Pull-over",
+        "title": "le pull-over",
         "sound": "pull_over_fr.mp3"
       }
     }
@@ -5218,11 +5218,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Coat",
+        "sound": "coat.mp3"
       },
       "es": {
-        "title": "Abrigo",
+        "title": "el abrigo",
         "sound": "abrigo_es.mp3"
       },
       "hr": {
@@ -5230,7 +5230,7 @@
         "sound": "kaput.mp3"
       },
       "fr": {
-        "title": "Manteau",
+        "title": "le manteau",
         "sound": "manteau_fr.mp3"
       }
     }
@@ -5262,11 +5262,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shoes",
+        "sound": "shoes.mp3"
       },
       "es": {
-        "title": "Zapatos",
+        "title": "los zapatos",
         "sound": "zapatos_es.mp3"
       },
       "hr": {
@@ -5274,7 +5274,7 @@
         "sound": "cipele.mp3"
       },
       "fr": {
-        "title": "Chaussures",
+        "title": "les chaussures",
         "sound": "chaussures_fr.mp3"
       }
     }
@@ -5306,11 +5306,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Boots",
+        "sound": "boots.mp3"
       },
       "es": {
-        "title": "Botas",
+        "title": "las botas",
         "sound": "botas_es.mp3"
       },
       "hr": {
@@ -5318,7 +5318,7 @@
         "sound": "cizme.mp3"
       },
       "fr": {
-        "title": "Bottes",
+        "title": "les bottes",
         "sound": "bottes_fr.mp3"
       }
     }
@@ -5350,11 +5350,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sandals",
+        "sound": "sandals.mp3"
       },
       "es": {
-        "title": "Sandalias",
+        "title": "las sandalias",
         "sound": "sandalias_es.mp3"
       },
       "hr": {
@@ -5362,7 +5362,7 @@
         "sound": "sandale.mp3"
       },
       "fr": {
-        "title": "sandales",
+        "title": "les sandales",
         "sound": "sandales_fr.mp3"
       }
     }
@@ -5394,11 +5394,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Socks",
+        "sound": "socks.mp3"
       },
       "es": {
-        "title": "Medias",
+        "title": "las medias",
         "sound": "medias_es.mp3"
       },
       "hr": {
@@ -5406,7 +5406,7 @@
         "sound": "carape.mp3"
       },
       "fr": {
-        "title": "Chaussettes",
+        "title": "les chaussettes",
         "sound": "chaussettes_fr.mp3"
       }
     }
@@ -5438,11 +5438,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hat",
+        "sound": "hat.mp3"
       },
       "es": {
-        "title": "Sombrero",
+        "title": "el sombrero",
         "sound": "sombrero_es.mp3"
       },
       "hr": {
@@ -5450,7 +5450,7 @@
         "sound": "kapa.mp3"
       },
       "fr": {
-        "title": "Chapeau",
+        "title": "le chapeau",
         "sound": "chapeau_fr.mp3"
       }
     }
@@ -5482,11 +5482,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cap",
+        "sound": "cap.mp3"
       },
       "es": {
-        "title": "Tapa",
+        "title": "la tapa",
         "sound": "tapa_es.mp3"
       },
       "hr": {
@@ -5494,7 +5494,7 @@
         "sound": "sesir.mp3"
       },
       "fr": {
-        "title": "Capuchon",
+        "title": "le capuchon",
         "sound": "capuchon_fr.mp3"
       }
     }
@@ -5526,11 +5526,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Gloves",
+        "sound": "gloves.mp3"
       },
       "es": {
-        "title": "Guantes",
+        "title": "los guantes",
         "sound": "guantes_es.mp3"
       },
       "hr": {
@@ -5538,7 +5538,7 @@
         "sound": "rukavice.mp3"
       },
       "fr": {
-        "title": "Gants",
+        "title": "les gants",
         "sound": "gants_fr.mp3"
       }
     }
@@ -5570,11 +5570,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Scarf",
+        "sound": "scarf.mp3"
       },
       "es": {
-        "title": "Bufanda",
+        "title": "la bufanda",
         "sound": "bufanda_es.mp3"
       },
       "hr": {
@@ -5582,7 +5582,7 @@
         "sound": "sal.mp3"
       },
       "fr": {
-        "title": "Foulard",
+        "title": "le foulard",
         "sound": "foulard_fr.mp3"
       }
     }
@@ -5614,11 +5614,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pajamas",
+        "sound": "pajamas.mp3"
       },
       "es": {
-        "title": "Pijama",
+        "title": "el pijama",
         "sound": "pijama_es.mp3"
       },
       "hr": {
@@ -5626,7 +5626,7 @@
         "sound": "pidzama.mp3"
       },
       "fr": {
-        "title": "Pyjamas",
+        "title": "les pyjamas",
         "sound": "pyjamas_fr.mp3"
       }
     }
@@ -5658,11 +5658,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Underwear",
+        "sound": "underwear.mp3"
       },
       "es": {
-        "title": "Ropa interior",
+        "title": "la ropa interior",
         "sound": "ropa_interior_es.mp3"
       },
       "hr": {
@@ -5670,7 +5670,7 @@
         "sound": "donje_rublje.mp3"
       },
       "fr": {
-        "title": "Sous-vêtement",
+        "title": "le sous-vêtement",
         "sound": "sous_vetement_fr.mp3"
       }
     }
@@ -5702,11 +5702,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "House",
+        "sound": "house.mp3"
       },
       "es": {
-        "title": "Casa",
+        "title": "la casa",
         "sound": "casa_es.mp3"
       },
       "hr": {
@@ -5714,7 +5714,7 @@
         "sound": "kuca.mp3"
       },
       "fr": {
-        "title": "Maison",
+        "title": "la maison",
         "sound": "maison_fr.mp3"
       }
     }
@@ -5746,11 +5746,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Door",
+        "sound": "door.mp3"
       },
       "es": {
-        "title": "Puerta",
+        "title": "la puerta",
         "sound": "puerta_es.mp3"
       },
       "hr": {
@@ -5758,7 +5758,7 @@
         "sound": "vrata.mp3"
       },
       "fr": {
-        "title": "Porte",
+        "title": "la porte",
         "sound": "porte_fr.mp3"
       }
     }
@@ -5790,11 +5790,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Window",
+        "sound": "window.mp3"
       },
       "es": {
-        "title": "Ventana",
+        "title": "la ventana",
         "sound": "ventana_es.mp3"
       },
       "hr": {
@@ -5802,7 +5802,7 @@
         "sound": "prozor.mp3"
       },
       "fr": {
-        "title": "Fenêtre",
+        "title": "la fenêtre",
         "sound": "fenetre_fr.mp3"
       }
     }
@@ -5834,11 +5834,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Roof",
+        "sound": "roof.mp3"
       },
       "es": {
-        "title": "Techo",
+        "title": "el techo",
         "sound": "techo_es.mp3"
       },
       "hr": {
@@ -5846,7 +5846,7 @@
         "sound": "krov.mp3"
       },
       "fr": {
-        "title": "Toit",
+        "title": "le toit",
         "sound": "toit_fr.mp3"
       }
     }
@@ -5878,11 +5878,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wall",
+        "sound": "wall.mp3"
       },
       "es": {
-        "title": "Muro",
+        "title": "el muro",
         "sound": "muro_es.mp3"
       },
       "hr": {
@@ -5890,7 +5890,7 @@
         "sound": "zid.mp3"
       },
       "fr": {
-        "title": "Mur",
+        "title": "le mur",
         "sound": "mur_fr.mp3"
       }
     }
@@ -5922,11 +5922,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Floor",
+        "sound": "floor.mp3"
       },
       "es": {
-        "title": "Piso",
+        "title": "el piso",
         "sound": "piso_es.mp3"
       },
       "hr": {
@@ -5934,7 +5934,7 @@
         "sound": "pod.mp3"
       },
       "fr": {
-        "title": "Sol",
+        "title": "le sol",
         "sound": "sol_fr.mp3"
       }
     }
@@ -5966,11 +5966,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Table",
+        "sound": "table.mp3"
       },
       "es": {
-        "title": "Mesa",
+        "title": "la mesa",
         "sound": "mesa_es.mp3"
       },
       "hr": {
@@ -5978,7 +5978,7 @@
         "sound": "stol.mp3"
       },
       "fr": {
-        "title": "Tableau",
+        "title": "le tableau",
         "sound": "tableau_fr.mp3"
       }
     }
@@ -6010,11 +6010,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Chair",
+        "sound": "chair.mp3"
       },
       "es": {
-        "title": "Silla",
+        "title": "la silla",
         "sound": "silla_es.mp3"
       },
       "hr": {
@@ -6022,7 +6022,7 @@
         "sound": "stolica.mp3"
       },
       "fr": {
-        "title": "Chaise",
+        "title": "la chaise",
         "sound": "chaise_fr.mp3"
       }
     }
@@ -6054,11 +6054,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sofa",
+        "sound": "sofa.mp3"
       },
       "es": {
-        "title": "Sofá",
+        "title": "el sofá",
         "sound": "sofa_es.mp3"
       },
       "hr": {
@@ -6066,7 +6066,7 @@
         "sound": "sofa.mp3"
       },
       "fr": {
-        "title": "Canapé",
+        "title": "le canapé",
         "sound": "canape_fr.mp3"
       }
     }
@@ -6098,11 +6098,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bed",
+        "sound": "bed.mp3"
       },
       "es": {
-        "title": "Cama",
+        "title": "la cama",
         "sound": "cama_es.mp3"
       },
       "hr": {
@@ -6110,7 +6110,7 @@
         "sound": "krevet.mp3"
       },
       "fr": {
-        "title": "Lit",
+        "title": "le lit",
         "sound": "lit_fr.mp3"
       }
     }
@@ -6142,11 +6142,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lamp",
+        "sound": "lamp.mp3"
       },
       "es": {
-        "title": "Lámpara",
+        "title": "la lámpara",
         "sound": "lampara_es.mp3"
       },
       "hr": {
@@ -6154,7 +6154,7 @@
         "sound": "lampa.mp3"
       },
       "fr": {
-        "title": "Lampe",
+        "title": "la lampe",
         "sound": "lampe_fr.mp3"
       }
     }
@@ -6186,11 +6186,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mirror",
+        "sound": "mirror.mp3"
       },
       "es": {
-        "title": "Espejo",
+        "title": "el espejo",
         "sound": "espejo_es.mp3"
       },
       "hr": {
@@ -6198,7 +6198,7 @@
         "sound": "ogledalo.mp3"
       },
       "fr": {
-        "title": "Miroir",
+        "title": "le miroir",
         "sound": "miroir_fr.mp3"
       }
     }
@@ -6230,11 +6230,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Clock",
+        "sound": "clock.mp3"
       },
       "es": {
-        "title": "Reloj",
+        "title": "el reloj",
         "sound": "reloj_es.mp3"
       },
       "hr": {
@@ -6242,7 +6242,7 @@
         "sound": "sat.mp3"
       },
       "fr": {
-        "title": "Horloge",
+        "title": "la horloge",
         "sound": "horloge_fr.mp3"
       }
     }
@@ -6274,11 +6274,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Picture",
+        "sound": "picture.mp3"
       },
       "es": {
-        "title": "Imagen",
+        "title": "la imagen",
         "sound": "imagen_es.mp3"
       },
       "hr": {
@@ -6286,7 +6286,7 @@
         "sound": "slika.mp3"
       },
       "fr": {
-        "title": "Image",
+        "title": "l’image",
         "sound": "image_fr.mp3"
       }
     }
@@ -6318,11 +6318,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Carpet",
+        "sound": "carpet.mp3"
       },
       "es": {
-        "title": "Alfombra",
+        "title": "la alfombra",
         "sound": "alfombra_es.mp3"
       },
       "hr": {
@@ -6330,7 +6330,7 @@
         "sound": "tepih.mp3"
       },
       "fr": {
-        "title": "Tapis",
+        "title": "le tapis",
         "sound": "tapis_fr.mp3"
       }
     }
@@ -6362,11 +6362,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shelf",
+        "sound": "shelf.mp3"
       },
       "es": {
-        "title": "Estante",
+        "title": "el estante",
         "sound": "estante_es.mp3"
       },
       "hr": {
@@ -6374,7 +6374,7 @@
         "sound": "polica.mp3"
       },
       "fr": {
-        "title": "Étagère",
+        "title": "l’étagère",
         "sound": "etagere_fr.mp3"
       }
     }
@@ -6406,11 +6406,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pillow",
+        "sound": "pillow.mp3"
       },
       "es": {
-        "title": "Almohada",
+        "title": "la almohada",
         "sound": "almohada_es.mp3"
       },
       "hr": {
@@ -6418,7 +6418,7 @@
         "sound": "jastuk.mp3"
       },
       "fr": {
-        "title": "Oreiller",
+        "title": "l’oreiller",
         "sound": "oreiller_fr.mp3"
       }
     }
@@ -6450,11 +6450,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Blanket",
+        "sound": "blanket.mp3"
       },
       "es": {
-        "title": "Frazada",
+        "title": "la frazada",
         "sound": "frazada_es.mp3"
       },
       "hr": {
@@ -6462,7 +6462,7 @@
         "sound": "deka.mp3"
       },
       "fr": {
-        "title": "Couverture",
+        "title": "la couverture",
         "sound": "couverture_fr.mp3"
       }
     }
@@ -6494,11 +6494,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bathroom",
+        "sound": "bathroom.mp3"
       },
       "es": {
-        "title": "Baño",
+        "title": "el baño (salle de bain)",
         "sound": "bano_es.mp3"
       },
       "hr": {
@@ -6506,7 +6506,7 @@
         "sound": "kupaonica.mp3"
       },
       "fr": {
-        "title": "Salle de bain",
+        "title": "la salle de bain",
         "sound": "salle_de_bain_fr.mp3"
       }
     }
@@ -6538,11 +6538,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Toilet",
+        "sound": "toilet.mp3"
       },
       "es": {
-        "title": "Baño",
+        "title": "el baño (toilette)",
         "sound": "bano_es.mp3"
       },
       "hr": {
@@ -6550,7 +6550,7 @@
         "sound": "wc.mp3"
       },
       "fr": {
-        "title": "Toilettes",
+        "title": "les toilettes",
         "sound": "toilettes_fr.mp3"
       }
     }
@@ -6582,11 +6582,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sink",
+        "sound": "sink.mp3"
       },
       "es": {
-        "title": "Hundir",
+        "title": "el lavabo",
         "sound": "hundir_es.mp3"
       },
       "hr": {
@@ -6594,7 +6594,7 @@
         "sound": "umivaonik.mp3"
       },
       "fr": {
-        "title": "Couler",
+        "title": "le lavabo",
         "sound": "couler_fr.mp3"
       }
     }
@@ -6626,11 +6626,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bathtub",
+        "sound": "bathtub.mp3"
       },
       "es": {
-        "title": "Bañera",
+        "title": "la bañera",
         "sound": "banera_es.mp3"
       },
       "hr": {
@@ -6638,7 +6638,7 @@
         "sound": "kada.mp3"
       },
       "fr": {
-        "title": "Baignoire",
+        "title": "la baignoire",
         "sound": "baignoire_fr.mp3"
       }
     }
@@ -6670,11 +6670,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Kitchen",
+        "sound": "kitchen.mp3"
       },
       "es": {
-        "title": "Cocina",
+        "title": "la cocina (room)",
         "sound": "cocina_es.mp3"
       },
       "hr": {
@@ -6682,7 +6682,7 @@
         "sound": "kuhinja.mp3"
       },
       "fr": {
-        "title": "Cuisine",
+        "title": "la cuisine",
         "sound": "cuisine_fr.mp3"
       }
     }
@@ -6714,11 +6714,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fridge",
+        "sound": "fridge.mp3"
       },
       "es": {
-        "title": "Refrigerador",
+        "title": "el refrigerador",
         "sound": "refrigerador_es.mp3"
       },
       "hr": {
@@ -6726,7 +6726,7 @@
         "sound": "hladnjak.mp3"
       },
       "fr": {
-        "title": "Réfrigérateur",
+        "title": "le réfrigérateur",
         "sound": "refrigerateur_fr.mp3"
       }
     }
@@ -6758,11 +6758,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Stove",
+        "sound": "stove.mp3"
       },
       "es": {
-        "title": "Cocina",
+        "title": "la cocina (stove)",
         "sound": "cocina_es.mp3"
       },
       "hr": {
@@ -6770,7 +6770,7 @@
         "sound": "stednjak.mp3"
       },
       "fr": {
-        "title": "Poêle",
+        "title": "la poêle",
         "sound": "poele_fr.mp3"
       }
     }
@@ -6802,11 +6802,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Oven",
+        "sound": "oven.mp3"
       },
       "es": {
-        "title": "Horno",
+        "title": "el horno",
         "sound": "horno_es.mp3"
       },
       "hr": {
@@ -6814,7 +6814,7 @@
         "sound": "pecnica.mp3"
       },
       "fr": {
-        "title": "Four",
+        "title": "le four",
         "sound": "four_fr.mp3"
       }
     }
@@ -6846,11 +6846,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Spoon",
+        "sound": "spoon.mp3"
       },
       "es": {
-        "title": "Cuchara",
+        "title": "la cuchara",
         "sound": "cuchara_es.mp3"
       },
       "hr": {
@@ -6858,7 +6858,7 @@
         "sound": "zlica.mp3"
       },
       "fr": {
-        "title": "Cuillère",
+        "title": "la cuillère",
         "sound": "cuillere_fr.mp3"
       }
     }
@@ -6890,11 +6890,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fork",
+        "sound": "fork.mp3"
       },
       "es": {
-        "title": "Tenedor",
+        "title": "el tenedor",
         "sound": "tenedor_es.mp3"
       },
       "hr": {
@@ -6902,7 +6902,7 @@
         "sound": "vilica.mp3"
       },
       "fr": {
-        "title": "Fourchette",
+        "title": "la fourchette",
         "sound": "fourchette_fr.mp3"
       }
     }
@@ -6934,11 +6934,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Knife",
+        "sound": "knife.mp3"
       },
       "es": {
-        "title": "Cuchillo",
+        "title": "el cuchillo",
         "sound": "cuchillo_es.mp3"
       },
       "hr": {
@@ -6946,7 +6946,7 @@
         "sound": "noz.mp3"
       },
       "fr": {
-        "title": "Couteau",
+        "title": "le couteau",
         "sound": "couteau_fr.mp3"
       }
     }
@@ -6978,11 +6978,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Plate",
+        "sound": "plate.mp3"
       },
       "es": {
-        "title": "Lámina",
+        "title": "la lámina",
         "sound": "lamina_es.mp3"
       },
       "hr": {
@@ -6990,7 +6990,7 @@
         "sound": "tanjur.mp3"
       },
       "fr": {
-        "title": "Plaque",
+        "title": "la plaque",
         "sound": "plaque_fr.mp3"
       }
     }
@@ -7022,11 +7022,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cup",
+        "sound": "cup.mp3"
       },
       "es": {
-        "title": "Taza",
+        "title": "la taza",
         "sound": "taza_es.mp3"
       },
       "hr": {
@@ -7034,7 +7034,7 @@
         "sound": "salica.mp3"
       },
       "fr": {
-        "title": "Tasse",
+        "title": "la tasse",
         "sound": "tasse_fr.mp3"
       }
     }
@@ -7066,11 +7066,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bowl",
+        "sound": "bowl.mp3"
       },
       "es": {
-        "title": "Bol",
+        "title": "el bol",
         "sound": "bol_es.mp3"
       },
       "hr": {
@@ -7078,7 +7078,7 @@
         "sound": "zdjela.mp3"
       },
       "fr": {
-        "title": "Bol",
+        "title": "le bol",
         "sound": "bol_fr.mp3"
       }
     }
@@ -7110,11 +7110,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sun",
+        "sound": "sun.mp3"
       },
       "es": {
-        "title": "Sol",
+        "title": "el sol",
         "sound": "sol_es.mp3"
       },
       "hr": {
@@ -7122,7 +7122,7 @@
         "sound": "sunce.mp3"
       },
       "fr": {
-        "title": "Soleil",
+        "title": "le soleil",
         "sound": "soleil_fr.mp3"
       }
     }
@@ -7154,11 +7154,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Moon",
+        "sound": "moon.mp3"
       },
       "es": {
-        "title": "Luna",
+        "title": "la luna",
         "sound": "luna_es.mp3"
       },
       "hr": {
@@ -7166,7 +7166,7 @@
         "sound": "mjesec.mp3"
       },
       "fr": {
-        "title": "Lune",
+        "title": "la lune",
         "sound": "lune_fr.mp3"
       }
     }
@@ -7198,11 +7198,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Star",
+        "sound": "star.mp3"
       },
       "es": {
-        "title": "Estrella",
+        "title": "la estrella",
         "sound": "estrella_es.mp3"
       },
       "hr": {
@@ -7210,7 +7210,7 @@
         "sound": "zvijezda.mp3"
       },
       "fr": {
-        "title": "Étoile",
+        "title": "l’étoile",
         "sound": "etoile_fr.mp3"
       }
     }
@@ -7242,11 +7242,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sky",
+        "sound": "sky.mp3"
       },
       "es": {
-        "title": "Cielo",
+        "title": "el cielo",
         "sound": "cielo_es.mp3"
       },
       "hr": {
@@ -7254,7 +7254,7 @@
         "sound": "nebo.mp3"
       },
       "fr": {
-        "title": "Ciel",
+        "title": "le ciel",
         "sound": "ciel_fr.mp3"
       }
     }
@@ -7286,11 +7286,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cloud",
+        "sound": "cloud.mp3"
       },
       "es": {
-        "title": "Nube",
+        "title": "la nube",
         "sound": "nube_es.mp3"
       },
       "hr": {
@@ -7298,7 +7298,7 @@
         "sound": "oblak.mp3"
       },
       "fr": {
-        "title": "Nuage",
+        "title": "le nuage",
         "sound": "nuage_fr.mp3"
       }
     }
@@ -7330,11 +7330,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rain",
+        "sound": "rain.mp3"
       },
       "es": {
-        "title": "Lluvia",
+        "title": "la lluvia",
         "sound": "lluvia_es.mp3"
       },
       "hr": {
@@ -7342,7 +7342,7 @@
         "sound": "kisa.mp3"
       },
       "fr": {
-        "title": "Pluie",
+        "title": "la pluie",
         "sound": "pluie_fr.mp3"
       }
     }
@@ -7374,11 +7374,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Snow",
+        "sound": "snow.mp3"
       },
       "es": {
-        "title": "Nieve",
+        "title": "la nieve",
         "sound": "nieve_es.mp3"
       },
       "hr": {
@@ -7386,7 +7386,7 @@
         "sound": "snijeg.mp3"
       },
       "fr": {
-        "title": "Neige",
+        "title": "la neige",
         "sound": "neige_fr.mp3"
       }
     }
@@ -7418,11 +7418,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Thunder",
+        "sound": "thunder.mp3"
       },
       "es": {
-        "title": "Trueno",
+        "title": "el trueno",
         "sound": "trueno_es.mp3"
       },
       "hr": {
@@ -7430,7 +7430,7 @@
         "sound": "grmljavina.mp3"
       },
       "fr": {
-        "title": "Tonnerre",
+        "title": "le tonnerre",
         "sound": "tonnerre_fr.mp3"
       }
     }
@@ -7462,11 +7462,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lightning",
+        "sound": "lightning.mp3"
       },
       "es": {
-        "title": "Iluminación",
+        "title": "el relámpago",
         "sound": "iluminacion_es.mp3"
       },
       "hr": {
@@ -7474,7 +7474,7 @@
         "sound": "munja.mp3"
       },
       "fr": {
-        "title": "Foudre",
+        "title": "la foudre",
         "sound": "foudre_fr.mp3"
       }
     }
@@ -7506,11 +7506,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rainbow",
+        "sound": "rainbow.mp3"
       },
       "es": {
-        "title": "Arcoíris",
+        "title": "el arcoíris",
         "sound": "arcoiris_es.mp3"
       },
       "hr": {
@@ -7518,7 +7518,7 @@
         "sound": "duga.mp3"
       },
       "fr": {
-        "title": "Arc-en-ciel",
+        "title": "l’arc-en-ciel",
         "sound": "arc_en_ciel_fr.mp3"
       }
     }
@@ -7550,11 +7550,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wind",
+        "sound": "wind.mp3"
       },
       "es": {
-        "title": "Viento",
+        "title": "el viento",
         "sound": "viento_es.mp3"
       },
       "hr": {
@@ -7562,7 +7562,7 @@
         "sound": "vjetar.mp3"
       },
       "fr": {
-        "title": "Vent",
+        "title": "le vent",
         "sound": "vent_fr.mp3"
       }
     }
@@ -7594,11 +7594,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tree",
+        "sound": "tree.mp3"
       },
       "es": {
-        "title": "Árbol",
+        "title": "el árbol",
         "sound": "arbol_es.mp3"
       },
       "hr": {
@@ -7606,7 +7606,7 @@
         "sound": "drvo.mp3"
       },
       "fr": {
-        "title": "Arbre",
+        "title": "l’arbre",
         "sound": "arbre_fr.mp3"
       }
     }
@@ -7638,11 +7638,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Leaf",
+        "sound": "leaf.mp3"
       },
       "es": {
-        "title": "Hoja",
+        "title": "la hoja",
         "sound": "hoja_es.mp3"
       },
       "hr": {
@@ -7650,7 +7650,7 @@
         "sound": "list.mp3"
       },
       "fr": {
-        "title": "Feuille",
+        "title": "la feuille",
         "sound": "feuille_fr.mp3"
       }
     }
@@ -7682,11 +7682,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Flower",
+        "sound": "flower.mp3"
       },
       "es": {
-        "title": "Flor",
+        "title": "la flor",
         "sound": "flor_es.mp3"
       },
       "hr": {
@@ -7694,7 +7694,7 @@
         "sound": "cvijet.mp3"
       },
       "fr": {
-        "title": "Fleur",
+        "title": "la fleur",
         "sound": "fleur_fr.mp3"
       }
     }
@@ -7726,11 +7726,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Grass",
+        "sound": "grass.mp3"
       },
       "es": {
-        "title": "Césped",
+        "title": "el césped",
         "sound": "cesped_es.mp3"
       },
       "hr": {
@@ -7738,7 +7738,7 @@
         "sound": "trava.mp3"
       },
       "fr": {
-        "title": "Herbe",
+        "title": "l’herbe",
         "sound": "herbe_fr.mp3"
       }
     }
@@ -7770,11 +7770,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rock",
+        "sound": "rock.mp3"
       },
       "es": {
-        "title": "Roca",
+        "title": "la roca",
         "sound": "roca_es.mp3"
       },
       "hr": {
@@ -7782,7 +7782,7 @@
         "sound": "kamen.mp3"
       },
       "fr": {
-        "title": "Rocher",
+        "title": "le rocher",
         "sound": "rocher_fr.mp3"
       }
     }
@@ -7814,11 +7814,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mountain",
+        "sound": "mountain.mp3"
       },
       "es": {
-        "title": "Montaña",
+        "title": "la montaña",
         "sound": "montana_es.mp3"
       },
       "hr": {
@@ -7826,7 +7826,7 @@
         "sound": "planina.mp3"
       },
       "fr": {
-        "title": "Montagne",
+        "title": "la montagne",
         "sound": "montagne_fr.mp3"
       }
     }
@@ -7858,11 +7858,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "River",
+        "sound": "river.mp3"
       },
       "es": {
-        "title": "Río",
+        "title": "el río",
         "sound": "rio_es.mp3"
       },
       "hr": {
@@ -7870,7 +7870,7 @@
         "sound": "rijeka.mp3"
       },
       "fr": {
-        "title": "Rivière",
+        "title": "la rivière",
         "sound": "riviere_fr.mp3"
       }
     }
@@ -7902,11 +7902,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lake",
+        "sound": "lake.mp3"
       },
       "es": {
-        "title": "Lago",
+        "title": "el lago",
         "sound": "lago_es.mp3"
       },
       "hr": {
@@ -7914,7 +7914,7 @@
         "sound": "jezero.mp3"
       },
       "fr": {
-        "title": "Lac",
+        "title": "le lac",
         "sound": "lac_fr.mp3"
       }
     }
@@ -7946,11 +7946,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ocean",
+        "sound": "ocean.mp3"
       },
       "es": {
-        "title": "Océano",
+        "title": "el océano",
         "sound": "oceano_es.mp3"
       },
       "hr": {
@@ -7958,7 +7958,7 @@
         "sound": "ocean.mp3"
       },
       "fr": {
-        "title": "Océan",
+        "title": "l’océan",
         "sound": "ocean_fr.mp3"
       }
     }
@@ -7990,11 +7990,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sand",
+        "sound": "sand.mp3"
       },
       "es": {
-        "title": "Arena",
+        "title": "la arena",
         "sound": "arena_es.mp3"
       },
       "hr": {
@@ -8002,7 +8002,7 @@
         "sound": "pijesak.mp3"
       },
       "fr": {
-        "title": "Sable",
+        "title": "le sable",
         "sound": "sable_fr.mp3"
       }
     }
@@ -8034,11 +8034,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Mud",
+        "sound": "mud.mp3"
       },
       "es": {
-        "title": "Lodo",
+        "title": "el lodo",
         "sound": "lodo_es.mp3"
       },
       "hr": {
@@ -8046,7 +8046,7 @@
         "sound": "blato.mp3"
       },
       "fr": {
-        "title": "Boue",
+        "title": "la boue",
         "sound": "boue_fr.mp3"
       }
     }
@@ -8078,11 +8078,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Red",
+        "sound": "red.mp3"
       },
       "es": {
-        "title": "Rojo",
+        "title": "el rojo",
         "sound": "rojo_es.mp3"
       },
       "hr": {
@@ -8090,7 +8090,7 @@
         "sound": "crvena.mp3"
       },
       "fr": {
-        "title": "Rouge",
+        "title": "le rouge",
         "sound": "rouge_fr.mp3"
       }
     }
@@ -8122,11 +8122,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Blue",
+        "sound": "blue.mp3"
       },
       "es": {
-        "title": "Azul",
+        "title": "el azul",
         "sound": "azul_es.mp3"
       },
       "hr": {
@@ -8134,7 +8134,7 @@
         "sound": "plava.mp3"
       },
       "fr": {
-        "title": "Bleu",
+        "title": "le bleu",
         "sound": "bleu_fr.mp3"
       }
     }
@@ -8166,11 +8166,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Yellow",
+        "sound": "yellow.mp3"
       },
       "es": {
-        "title": "Amarillo",
+        "title": "el amarillo",
         "sound": "amarillo_es.mp3"
       },
       "hr": {
@@ -8178,7 +8178,7 @@
         "sound": "zuta.mp3"
       },
       "fr": {
-        "title": "Jaune",
+        "title": "le jaune",
         "sound": "jaune_fr.mp3"
       }
     }
@@ -8210,11 +8210,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Green",
+        "sound": "green.mp3"
       },
       "es": {
-        "title": "Verde",
+        "title": "el verde",
         "sound": "verde_es.mp3"
       },
       "hr": {
@@ -8222,7 +8222,7 @@
         "sound": "zelena.mp3"
       },
       "fr": {
-        "title": "Vert",
+        "title": "le vert",
         "sound": "vert_fr.mp3"
       }
     }
@@ -8254,11 +8254,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Orange",
+        "sound": "orange.mp3"
       },
       "es": {
-        "title": "Naranja",
+        "title": "la naranja",
         "sound": "naranja_es.mp3"
       },
       "hr": {
@@ -8266,7 +8266,7 @@
         "sound": "narancasta.mp3"
       },
       "fr": {
-        "title": "Orange",
+        "title": "l’orange",
         "sound": "orange_fr.mp3"
       }
     }
@@ -8298,11 +8298,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Purple",
+        "sound": "purple.mp3"
       },
       "es": {
-        "title": "Púrpura",
+        "title": "el púrpura",
         "sound": "purpura_es.mp3"
       },
       "hr": {
@@ -8310,7 +8310,7 @@
         "sound": "ljubicasta.mp3"
       },
       "fr": {
-        "title": "Violet",
+        "title": "le violet",
         "sound": "violet_fr.mp3"
       }
     }
@@ -8342,11 +8342,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pink",
+        "sound": "pink.mp3"
       },
       "es": {
-        "title": "Rosa",
+        "title": "el rosa",
         "sound": "rosa_es.mp3"
       },
       "hr": {
@@ -8354,7 +8354,7 @@
         "sound": "ruzicasta.mp3"
       },
       "fr": {
-        "title": "Rose",
+        "title": "le rose",
         "sound": "rose_fr.mp3"
       }
     }
@@ -8386,11 +8386,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Brown",
+        "sound": "brown.mp3"
       },
       "es": {
-        "title": "Marrón",
+        "title": "el marrón",
         "sound": "marron_es.mp3"
       },
       "hr": {
@@ -8398,7 +8398,7 @@
         "sound": "smeda.mp3"
       },
       "fr": {
-        "title": "Brun",
+        "title": "le brun",
         "sound": "brun_fr.mp3"
       }
     }
@@ -8430,11 +8430,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Black",
+        "sound": "black.mp3"
       },
       "es": {
-        "title": "Negro",
+        "title": "el negro",
         "sound": "negro_es.mp3"
       },
       "hr": {
@@ -8442,7 +8442,7 @@
         "sound": "crna.mp3"
       },
       "fr": {
-        "title": "Noir",
+        "title": "le noir",
         "sound": "noir_fr.mp3"
       }
     }
@@ -8474,11 +8474,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "White",
+        "sound": "white.mp3"
       },
       "es": {
-        "title": "Blanco",
+        "title": "el blanco",
         "sound": "blanco_es.mp3"
       },
       "hr": {
@@ -8486,7 +8486,7 @@
         "sound": "bijela.mp3"
       },
       "fr": {
-        "title": "Blanc",
+        "title": "le blanc",
         "sound": "blanc_fr.mp3"
       }
     }
@@ -8518,11 +8518,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Gray",
+        "sound": "gray.mp3"
       },
       "es": {
-        "title": "Gris",
+        "title": "el gris",
         "sound": "gris_es.mp3"
       },
       "hr": {
@@ -8530,7 +8530,7 @@
         "sound": "siva.mp3"
       },
       "fr": {
-        "title": "Gris",
+        "title": "le gris",
         "sound": "gris_fr.mp3"
       }
     }
@@ -8562,11 +8562,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Circle",
+        "sound": "circle.mp3"
       },
       "es": {
-        "title": "Círculo",
+        "title": "el círculo",
         "sound": "circulo_es.mp3"
       },
       "hr": {
@@ -8574,7 +8574,7 @@
         "sound": "krug.mp3"
       },
       "fr": {
-        "title": "Cercle",
+        "title": "le cercle",
         "sound": "cercle_fr.mp3"
       }
     }
@@ -8606,11 +8606,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Square",
+        "sound": "square.mp3"
       },
       "es": {
-        "title": "Cuadrado",
+        "title": "el cuadrado",
         "sound": "cuadrado_es.mp3"
       },
       "hr": {
@@ -8618,7 +8618,7 @@
         "sound": "kvadrat.mp3"
       },
       "fr": {
-        "title": "Carré",
+        "title": "le carré",
         "sound": "carre_fr.mp3"
       }
     }
@@ -8650,11 +8650,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Triangle",
+        "sound": "triangle.mp3"
       },
       "es": {
-        "title": "Triángulo",
+        "title": "el triángulo",
         "sound": "triangulo_es.mp3"
       },
       "hr": {
@@ -8662,7 +8662,7 @@
         "sound": "trokut.mp3"
       },
       "fr": {
-        "title": "Triangle",
+        "title": "le triangle",
         "sound": "triangle_fr.mp3"
       }
     }
@@ -8694,11 +8694,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Rectangle",
+        "sound": "rectangle.mp3"
       },
       "es": {
-        "title": "Rectángulo",
+        "title": "el rectángulo",
         "sound": "rectangulo_es.mp3"
       },
       "hr": {
@@ -8706,7 +8706,7 @@
         "sound": "pravokutnik.mp3"
       },
       "fr": {
-        "title": "Rectangle",
+        "title": "le rectangle",
         "sound": "rectangle_fr.mp3"
       }
     }
@@ -8738,11 +8738,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Star",
+        "sound": "star.mp3"
       },
       "es": {
-        "title": "Estrella",
+        "title": "la estrella",
         "sound": "estrella_es.mp3"
       },
       "hr": {
@@ -8750,7 +8750,7 @@
         "sound": "zvijezda.mp3"
       },
       "fr": {
-        "title": "Étoile",
+        "title": "l’étoile",
         "sound": "etoile_fr.mp3"
       }
     }
@@ -8782,11 +8782,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Heart",
+        "sound": "heart.mp3"
       },
       "es": {
-        "title": "Corazón",
+        "title": "el corazón",
         "sound": "corazon_es.mp3"
       },
       "hr": {
@@ -8794,7 +8794,7 @@
         "sound": "srce.mp3"
       },
       "fr": {
-        "title": "Cœur",
+        "title": "le cœur",
         "sound": "coe_ur_fr.mp3"
       }
     }
@@ -8826,11 +8826,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Oval",
+        "sound": "oval.mp3"
       },
       "es": {
-        "title": "Oval",
+        "title": "el óvalo",
         "sound": "oval_es.mp3"
       },
       "hr": {
@@ -8838,7 +8838,7 @@
         "sound": "oval.mp3"
       },
       "fr": {
-        "title": "Ovale",
+        "title": "l’ovale",
         "sound": "ovale_fr.mp3"
       }
     }
@@ -8870,11 +8870,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Diamond",
+        "sound": "diamond.mp3"
       },
       "es": {
-        "title": "Diamante",
+        "title": "el diamante",
         "sound": "diamante_es.mp3"
       },
       "hr": {
@@ -8882,7 +8882,7 @@
         "sound": "romb.mp3"
       },
       "fr": {
-        "title": "Diamant",
+        "title": "le diamant",
         "sound": "diamant_fr.mp3"
       }
     }
@@ -8914,11 +8914,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Zero",
+        "sound": "zero.mp3"
       },
       "es": {
-        "title": "Cero",
+        "title": "cero",
         "sound": "cero_es.mp3"
       },
       "hr": {
@@ -8926,7 +8926,7 @@
         "sound": "nula.mp3"
       },
       "fr": {
-        "title": "Zéro",
+        "title": "le zéro",
         "sound": "zero_fr.mp3"
       }
     }
@@ -8958,11 +8958,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "One",
+        "sound": "one.mp3"
       },
       "es": {
-        "title": "Uno",
+        "title": "uno",
         "sound": "uno_es.mp3"
       },
       "hr": {
@@ -8970,7 +8970,7 @@
         "sound": "jedan.mp3"
       },
       "fr": {
-        "title": "Un",
+        "title": "un",
         "sound": "un_fr.mp3"
       }
     }
@@ -9002,11 +9002,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Two",
+        "sound": "two.mp3"
       },
       "es": {
-        "title": "Dos",
+        "title": "dos",
         "sound": "dos_es.mp3"
       },
       "hr": {
@@ -9014,7 +9014,7 @@
         "sound": "dva.mp3"
       },
       "fr": {
-        "title": "Deux",
+        "title": "deux",
         "sound": "deux_fr.mp3"
       }
     }
@@ -9046,11 +9046,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Three",
+        "sound": "three.mp3"
       },
       "es": {
-        "title": "Tres",
+        "title": "tres",
         "sound": "tres_es.mp3"
       },
       "hr": {
@@ -9058,7 +9058,7 @@
         "sound": "tri.mp3"
       },
       "fr": {
-        "title": "Trois",
+        "title": "trois",
         "sound": "trois_fr.mp3"
       }
     }
@@ -9090,11 +9090,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Four",
+        "sound": "four.mp3"
       },
       "es": {
-        "title": "Cuatro",
+        "title": "cuatro",
         "sound": "cuatro_es.mp3"
       },
       "hr": {
@@ -9102,7 +9102,7 @@
         "sound": "cetiri.mp3"
       },
       "fr": {
-        "title": "Quatre",
+        "title": "quatre",
         "sound": "quatre_fr.mp3"
       }
     }
@@ -9134,11 +9134,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Five",
+        "sound": "five.mp3"
       },
       "es": {
-        "title": "Cinco",
+        "title": "cinco",
         "sound": "cinco_es.mp3"
       },
       "hr": {
@@ -9146,7 +9146,7 @@
         "sound": "pet.mp3"
       },
       "fr": {
-        "title": "Cinq",
+        "title": "cinq",
         "sound": "cinq_fr.mp3"
       }
     }
@@ -9178,11 +9178,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Six",
+        "sound": "six.mp3"
       },
       "es": {
-        "title": "Seis",
+        "title": "seis",
         "sound": "seis_es.mp3"
       },
       "hr": {
@@ -9190,7 +9190,7 @@
         "sound": "sest.mp3"
       },
       "fr": {
-        "title": "Six",
+        "title": "six",
         "sound": "six_fr.mp3"
       }
     }
@@ -9222,11 +9222,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Seven",
+        "sound": "seven.mp3"
       },
       "es": {
-        "title": "Siete",
+        "title": "siete",
         "sound": "siete_es.mp3"
       },
       "hr": {
@@ -9234,7 +9234,7 @@
         "sound": "sedam.mp3"
       },
       "fr": {
-        "title": "Sept",
+        "title": "sept",
         "sound": "sept_fr.mp3"
       }
     }
@@ -9266,11 +9266,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eight",
+        "sound": "eight.mp3"
       },
       "es": {
-        "title": "Ocho",
+        "title": "ocho",
         "sound": "ocho_es.mp3"
       },
       "hr": {
@@ -9278,7 +9278,7 @@
         "sound": "osam.mp3"
       },
       "fr": {
-        "title": "Huit",
+        "title": "huit",
         "sound": "huit_fr.mp3"
       }
     }
@@ -9310,11 +9310,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Nine",
+        "sound": "nine.mp3"
       },
       "es": {
-        "title": "Nueve",
+        "title": "nueve",
         "sound": "nueve_es.mp3"
       },
       "hr": {
@@ -9322,7 +9322,7 @@
         "sound": "devet.mp3"
       },
       "fr": {
-        "title": "Neuf",
+        "title": "neuf",
         "sound": "neuf_fr.mp3"
       }
     }
@@ -9354,11 +9354,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ten",
+        "sound": "ten.mp3"
       },
       "es": {
-        "title": "Diez",
+        "title": "diez",
         "sound": "diez_es.mp3"
       },
       "hr": {
@@ -9366,7 +9366,7 @@
         "sound": "deset.mp3"
       },
       "fr": {
-        "title": "Dix",
+        "title": "dix",
         "sound": "dix_fr.mp3"
       }
     }
@@ -9398,11 +9398,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eleven",
+        "sound": "eleven.mp3"
       },
       "es": {
-        "title": "Once",
+        "title": "once",
         "sound": "once_es.mp3"
       },
       "hr": {
@@ -9410,7 +9410,7 @@
         "sound": "jedanaest.mp3"
       },
       "fr": {
-        "title": "Onze",
+        "title": "onze",
         "sound": "onze_fr.mp3"
       }
     }
@@ -9442,11 +9442,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Twelve",
+        "sound": "twelve.mp3"
       },
       "es": {
-        "title": "Doce",
+        "title": "doce",
         "sound": "doce_es.mp3"
       },
       "hr": {
@@ -9454,7 +9454,7 @@
         "sound": "dvanaest.mp3"
       },
       "fr": {
-        "title": "Douze",
+        "title": "douze",
         "sound": "douze_fr.mp3"
       }
     }
@@ -9486,11 +9486,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Thirteen",
+        "sound": "thirteen.mp3"
       },
       "es": {
-        "title": "Trece",
+        "title": "trece",
         "sound": "trece_es.mp3"
       },
       "hr": {
@@ -9498,7 +9498,7 @@
         "sound": "trinaest.mp3"
       },
       "fr": {
-        "title": "Treize",
+        "title": "treize",
         "sound": "treize_fr.mp3"
       }
     }
@@ -9530,11 +9530,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fourteen",
+        "sound": "fourteen.mp3"
       },
       "es": {
-        "title": "Catorce",
+        "title": "catorce",
         "sound": "catorce_es.mp3"
       },
       "hr": {
@@ -9542,7 +9542,7 @@
         "sound": "cetrnaest.mp3"
       },
       "fr": {
-        "title": "Quatorze",
+        "title": "quatorze",
         "sound": "quatorze_fr.mp3"
       }
     }
@@ -9574,11 +9574,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fifteen",
+        "sound": "fifteen.mp3"
       },
       "es": {
-        "title": "Quince",
+        "title": "quince",
         "sound": "quince_es.mp3"
       },
       "hr": {
@@ -9586,7 +9586,7 @@
         "sound": "petnaest.mp3"
       },
       "fr": {
-        "title": "Quinze",
+        "title": "quinze",
         "sound": "quinze_fr.mp3"
       }
     }
@@ -9618,11 +9618,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sixteen",
+        "sound": "sixteen.mp3"
       },
       "es": {
-        "title": "Dieciséis",
+        "title": "dieciséis",
         "sound": "dieciseis_es.mp3"
       },
       "hr": {
@@ -9630,7 +9630,7 @@
         "sound": "sesnaest.mp3"
       },
       "fr": {
-        "title": "Seize",
+        "title": "seize",
         "sound": "seize_fr.mp3"
       }
     }
@@ -9662,11 +9662,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Seventeen",
+        "sound": "seventeen.mp3"
       },
       "es": {
-        "title": "Diecisiete",
+        "title": "diecisiete",
         "sound": "diecisiete_es.mp3"
       },
       "hr": {
@@ -9674,7 +9674,7 @@
         "sound": "sedamnaest.mp3"
       },
       "fr": {
-        "title": "Dix-sept",
+        "title": "dix-sept",
         "sound": "dix_sept_fr.mp3"
       }
     }
@@ -9706,11 +9706,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eighteen",
+        "sound": "eighteen.mp3"
       },
       "es": {
-        "title": "Dieciocho",
+        "title": "dieciocho",
         "sound": "dieciocho_es.mp3"
       },
       "hr": {
@@ -9718,7 +9718,7 @@
         "sound": "osamnaest.mp3"
       },
       "fr": {
-        "title": "Dix-huit",
+        "title": "dix-huit",
         "sound": "dix_huit_fr.mp3"
       }
     }
@@ -9750,11 +9750,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Nineteen",
+        "sound": "nineteen.mp3"
       },
       "es": {
-        "title": "Diecinueve",
+        "title": "diecinueve",
         "sound": "diecinueve_es.mp3"
       },
       "hr": {
@@ -9762,7 +9762,7 @@
         "sound": "devetnaest.mp3"
       },
       "fr": {
-        "title": "Dix-neuf",
+        "title": "dix-neuf",
         "sound": "dix_neuf_fr.mp3"
       }
     }
@@ -9794,11 +9794,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Twenty",
+        "sound": "twenty.mp3"
       },
       "es": {
-        "title": "Veinte",
+        "title": "veinte",
         "sound": "veinte_es.mp3"
       },
       "hr": {
@@ -9806,7 +9806,7 @@
         "sound": "dvadeset.mp3"
       },
       "fr": {
-        "title": "Vingt",
+        "title": "vingt",
         "sound": "vingt_fr.mp3"
       }
     }
@@ -9838,11 +9838,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Thirty",
+        "sound": "thirty.mp3"
       },
       "es": {
-        "title": "Treinta",
+        "title": "treinta",
         "sound": "treinta_es.mp3"
       },
       "hr": {
@@ -9850,7 +9850,7 @@
         "sound": "trideset.mp3"
       },
       "fr": {
-        "title": "Trente",
+        "title": "trente",
         "sound": "trente_fr.mp3"
       }
     }
@@ -9882,11 +9882,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Forty",
+        "sound": "forty.mp3"
       },
       "es": {
-        "title": "Cuarenta",
+        "title": "cuarenta",
         "sound": "cuarenta_es.mp3"
       },
       "hr": {
@@ -9894,7 +9894,7 @@
         "sound": "cetrdeset.mp3"
       },
       "fr": {
-        "title": "Quarante",
+        "title": "quarante",
         "sound": "quarante_fr.mp3"
       }
     }
@@ -9926,11 +9926,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fifty",
+        "sound": "fifty.mp3"
       },
       "es": {
-        "title": "Cincuenta",
+        "title": "cincuenta",
         "sound": "cincuenta_es.mp3"
       },
       "hr": {
@@ -9938,7 +9938,7 @@
         "sound": "pedeset.mp3"
       },
       "fr": {
-        "title": "Cinquante",
+        "title": "cinquante",
         "sound": "cinquante_fr.mp3"
       }
     }
@@ -9970,11 +9970,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sixty",
+        "sound": "sixty.mp3"
       },
       "es": {
-        "title": "Sesenta",
+        "title": "sesenta",
         "sound": "sesenta_es.mp3"
       },
       "hr": {
@@ -9982,7 +9982,7 @@
         "sound": "sezdeset.mp3"
       },
       "fr": {
-        "title": "Soixante",
+        "title": "soixante",
         "sound": "soixante_fr.mp3"
       }
     }
@@ -10014,11 +10014,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Seventy",
+        "sound": "seventy.mp3"
       },
       "es": {
-        "title": "Setenta",
+        "title": "setenta",
         "sound": "setenta_es.mp3"
       },
       "hr": {
@@ -10026,7 +10026,7 @@
         "sound": "sedamdeset.mp3"
       },
       "fr": {
-        "title": "Soixante-dix",
+        "title": "soixante-dix",
         "sound": "soixante_dix_fr.mp3"
       }
     }
@@ -10058,11 +10058,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eighty",
+        "sound": "eighty.mp3"
       },
       "es": {
-        "title": "Ochenta",
+        "title": "ochenta",
         "sound": "ochenta_es.mp3"
       },
       "hr": {
@@ -10070,7 +10070,7 @@
         "sound": "osamdeset.mp3"
       },
       "fr": {
-        "title": "Quatre-vingts",
+        "title": "quatre-vingts",
         "sound": "quatre_vingts_fr.mp3"
       }
     }
@@ -10102,11 +10102,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ninety",
+        "sound": "ninety.mp3"
       },
       "es": {
-        "title": "Noventa",
+        "title": "noventa",
         "sound": "noventa_es.mp3"
       },
       "hr": {
@@ -10114,7 +10114,7 @@
         "sound": "devedeset.mp3"
       },
       "fr": {
-        "title": "Quatre-vingt-dix",
+        "title": "quatre-vingt-dix",
         "sound": "quatre_vingt_dix_fr.mp3"
       }
     }
@@ -10146,11 +10146,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "One hundred",
+        "sound": "one_hundred.mp3"
       },
       "es": {
-        "title": "Ciento",
+        "title": "ciento",
         "sound": "ciento_es.mp3"
       },
       "hr": {
@@ -10158,7 +10158,7 @@
         "sound": "sto.mp3"
       },
       "fr": {
-        "title": "Cent",
+        "title": "cent",
         "sound": "cent_fr.mp3"
       }
     }
@@ -10190,11 +10190,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Many",
+        "sound": "many.mp3"
       },
       "es": {
-        "title": "Muchos",
+        "title": "muchos",
         "sound": "muchos_es.mp3"
       },
       "hr": {
@@ -10202,7 +10202,7 @@
         "sound": "mnogo.mp3"
       },
       "fr": {
-        "title": "Beaucoup",
+        "title": "beaucoup",
         "sound": "beaucoup_fr.mp3"
       }
     }
@@ -10234,11 +10234,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Few",
+        "sound": "few.mp3"
       },
       "es": {
-        "title": "Pocos",
+        "title": "pocos",
         "sound": "pocos_es.mp3"
       },
       "hr": {
@@ -10246,7 +10246,7 @@
         "sound": "malo.mp3"
       },
       "fr": {
-        "title": "Peu",
+        "title": "peu",
         "sound": "peu_fr.mp3"
       }
     }
@@ -10278,11 +10278,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "More",
+        "sound": "more.mp3"
       },
       "es": {
-        "title": "Más",
+        "title": "más",
         "sound": "mas_es.mp3"
       },
       "hr": {
@@ -10290,7 +10290,7 @@
         "sound": "vise.mp3"
       },
       "fr": {
-        "title": "Plus",
+        "title": "plus",
         "sound": "plus_fr.mp3"
       }
     }
@@ -10322,11 +10322,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Less",
+        "sound": "less.mp3"
       },
       "es": {
-        "title": "Menos",
+        "title": "menos",
         "sound": "menos_es.mp3"
       },
       "hr": {
@@ -10334,7 +10334,7 @@
         "sound": "manje.mp3"
       },
       "fr": {
-        "title": "Moins",
+        "title": "moins",
         "sound": "moins_fr.mp3"
       }
     }
@@ -10366,8 +10366,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To eat",
+        "sound": "to_eat.mp3"
       },
       "es": {
         "title": "Para comer",
@@ -10410,8 +10410,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To drink",
+        "sound": "to_drink.mp3"
       },
       "es": {
         "title": "Para beber",
@@ -10454,8 +10454,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To sleep",
+        "sound": "to_sleep.mp3"
       },
       "es": {
         "title": "Dormir",
@@ -10498,8 +10498,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To run",
+        "sound": "to_run.mp3"
       },
       "es": {
         "title": "Para correr",
@@ -10542,8 +10542,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To walk",
+        "sound": "to_walk.mp3"
       },
       "es": {
         "title": "Caminar",
@@ -10586,8 +10586,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To jump",
+        "sound": "to_jump.mp3"
       },
       "es": {
         "title": "Para saltar",
@@ -10630,8 +10630,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To swim",
+        "sound": "to_swim.mp3"
       },
       "es": {
         "title": "Nadar",
@@ -10674,8 +10674,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To read",
+        "sound": "to_read.mp3"
       },
       "es": {
         "title": "Para leer",
@@ -10718,8 +10718,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To write",
+        "sound": "to_write.mp3"
       },
       "es": {
         "title": "Escribir",
@@ -10762,8 +10762,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To play",
+        "sound": "to_play.mp3"
       },
       "es": {
         "title": "Para jugar",
@@ -10806,8 +10806,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To sing",
+        "sound": "to_sing.mp3"
       },
       "es": {
         "title": "Cantar",
@@ -10850,8 +10850,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To dance",
+        "sound": "to_dance.mp3"
       },
       "es": {
         "title": "Bailar",
@@ -10894,8 +10894,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To draw",
+        "sound": "to_draw.mp3"
       },
       "es": {
         "title": "Para dibujar",
@@ -10938,8 +10938,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To talk",
+        "sound": "to_talk.mp3"
       },
       "es": {
         "title": "Para hablar",
@@ -10982,8 +10982,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To listen",
+        "sound": "to_listen.mp3"
       },
       "es": {
         "title": "Para escuchar",
@@ -11026,8 +11026,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To look",
+        "sound": "to_look.mp3"
       },
       "es": {
         "title": "Para mirar",
@@ -11070,8 +11070,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To open",
+        "sound": "to_open.mp3"
       },
       "es": {
         "title": "Para abrir",
@@ -11114,8 +11114,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To close",
+        "sound": "to_close.mp3"
       },
       "es": {
         "title": "Para cerrar",
@@ -11158,8 +11158,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To help",
+        "sound": "to_help.mp3"
       },
       "es": {
         "title": "Para ayudar",
@@ -11202,8 +11202,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To make",
+        "sound": "to_make.mp3"
       },
       "es": {
         "title": "Para hacer",
@@ -11246,8 +11246,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To take",
+        "sound": "to_take.mp3"
       },
       "es": {
         "title": "Para tomar",
@@ -11290,8 +11290,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To give",
+        "sound": "to_give.mp3"
       },
       "es": {
         "title": "Dar",
@@ -11334,8 +11334,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To wash",
+        "sound": "to_wash.mp3"
       },
       "es": {
         "title": "Para lavar",
@@ -11378,8 +11378,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To learn",
+        "sound": "to_learn.mp3"
       },
       "es": {
         "title": "Para aprender",
@@ -11422,8 +11422,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "To count",
+        "sound": "to_count.mp3"
       },
       "es": {
         "title": "Contar",
@@ -11466,8 +11466,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Big",
+        "sound": "big.mp3"
       },
       "es": {
         "title": "Grande",
@@ -11510,8 +11510,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Small",
+        "sound": "small.mp3"
       },
       "es": {
         "title": "Pequeño",
@@ -11554,8 +11554,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Long",
+        "sound": "long.mp3"
       },
       "es": {
         "title": "Largo",
@@ -11598,8 +11598,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Short",
+        "sound": "short.mp3"
       },
       "es": {
         "title": "Corto",
@@ -11642,8 +11642,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Fast",
+        "sound": "fast.mp3"
       },
       "es": {
         "title": "Rápido",
@@ -11686,8 +11686,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Slow",
+        "sound": "slow.mp3"
       },
       "es": {
         "title": "Lento",
@@ -11730,8 +11730,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hot",
+        "sound": "hot.mp3"
       },
       "es": {
         "title": "Caliente",
@@ -11774,8 +11774,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Cold",
+        "sound": "cold.mp3"
       },
       "es": {
         "title": "Frío",
@@ -11818,8 +11818,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Happy",
+        "sound": "happy.mp3"
       },
       "es": {
         "title": "Feliz",
@@ -11862,8 +11862,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sad",
+        "sound": "sad.mp3"
       },
       "es": {
         "title": "Triste",
@@ -11906,8 +11906,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Angry",
+        "sound": "angry.mp3"
       },
       "es": {
         "title": "Enojado",
@@ -11950,8 +11950,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Funny",
+        "sound": "funny.mp3"
       },
       "es": {
         "title": "Divertido",
@@ -11994,8 +11994,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Loud",
+        "sound": "loud.mp3"
       },
       "es": {
         "title": "Alto",
@@ -12038,8 +12038,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Quiet",
+        "sound": "quiet.mp3"
       },
       "es": {
         "title": "Tranquilo",
@@ -12082,8 +12082,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Soft",
+        "sound": "soft.mp3"
       },
       "es": {
         "title": "Suave",
@@ -12126,8 +12126,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hard",
+        "sound": "hard.mp3"
       },
       "es": {
         "title": "Duro",
@@ -12170,8 +12170,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Clean",
+        "sound": "clean.mp3"
       },
       "es": {
         "title": "Limpio",
@@ -12214,8 +12214,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Dirty",
+        "sound": "dirty.mp3"
       },
       "es": {
         "title": "Sucio",
@@ -12258,8 +12258,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Full",
+        "sound": "full.mp3"
       },
       "es": {
         "title": "Lleno",
@@ -12302,8 +12302,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Empty",
+        "sound": "empty.mp3"
       },
       "es": {
         "title": "Vacío",
@@ -12346,8 +12346,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "New",
+        "sound": "new.mp3"
       },
       "es": {
         "title": "Nuevo",
@@ -12390,8 +12390,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Old",
+        "sound": "old.mp3"
       },
       "es": {
         "title": "Viejo",
@@ -12434,8 +12434,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Good",
+        "sound": "good.mp3"
       },
       "es": {
         "title": "Bien",
@@ -12478,8 +12478,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bad",
+        "sound": "bad.mp3"
       },
       "es": {
         "title": "Malo",
@@ -12522,8 +12522,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Beautiful",
+        "sound": "beautiful.mp3"
       },
       "es": {
         "title": "Hermoso",
@@ -12566,8 +12566,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ugly",
+        "sound": "ugly.mp3"
       },
       "es": {
         "title": "Feo",
@@ -12610,11 +12610,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "House",
+        "sound": "house.mp3"
       },
       "es": {
-        "title": "Casa",
+        "title": "La casa",
         "sound": "casa_es.mp3"
       },
       "hr": {
@@ -12622,7 +12622,7 @@
         "sound": "kuca.mp3"
       },
       "fr": {
-        "title": "Maison",
+        "title": "La maison",
         "sound": "maison_fr.mp3"
       }
     }
@@ -12654,11 +12654,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "School",
+        "sound": "school.mp3"
       },
       "es": {
-        "title": "Escuela",
+        "title": "La escuela",
         "sound": "escuela_es.mp3"
       },
       "hr": {
@@ -12666,7 +12666,7 @@
         "sound": "skola.mp3"
       },
       "fr": {
-        "title": "École",
+        "title": "L’école",
         "sound": "ecole_fr.mp3"
       }
     }
@@ -12698,11 +12698,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Park",
+        "sound": "park.mp3"
       },
       "es": {
-        "title": "Parque",
+        "title": "El parque",
         "sound": "parque_es.mp3"
       },
       "hr": {
@@ -12710,7 +12710,7 @@
         "sound": "park.mp3"
       },
       "fr": {
-        "title": "Parc",
+        "title": "Le parc",
         "sound": "parc_fr.mp3"
       }
     }
@@ -12742,11 +12742,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Playground",
+        "sound": "playground.mp3"
       },
       "es": {
-        "title": "Patio de juegos",
+        "title": "El patio de juegos",
         "sound": "patio_de_juegos_es.mp3"
       },
       "hr": {
@@ -12754,7 +12754,7 @@
         "sound": "igraliste.mp3"
       },
       "fr": {
-        "title": "Aire de jeux",
+        "title": "L’aire de jeux",
         "sound": "aire_de_jeux_fr.mp3"
       }
     }
@@ -12786,11 +12786,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Store",
+        "sound": "store.mp3"
       },
       "es": {
-        "title": "Almacenar",
+        "title": "La tienda",
         "sound": "almacenar_es.mp3"
       },
       "hr": {
@@ -12798,7 +12798,7 @@
         "sound": "trgovina.mp3"
       },
       "fr": {
-        "title": "Magasin",
+        "title": "Le magasin",
         "sound": "magasin_fr.mp3"
       }
     }
@@ -12830,11 +12830,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hospital",
+        "sound": "hospital.mp3"
       },
       "es": {
-        "title": "Hospital",
+        "title": "El hospital",
         "sound": "hospital_es.mp3"
       },
       "hr": {
@@ -12842,7 +12842,7 @@
         "sound": "bolnica.mp3"
       },
       "fr": {
-        "title": "Hôpital",
+        "title": "L’hôpital",
         "sound": "hopital_fr.mp3"
       }
     }
@@ -12874,11 +12874,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Library",
+        "sound": "library.mp3"
       },
       "es": {
-        "title": "Biblioteca",
+        "title": "La biblioteca",
         "sound": "biblioteca_es.mp3"
       },
       "hr": {
@@ -12886,7 +12886,7 @@
         "sound": "knjiznica.mp3"
       },
       "fr": {
-        "title": "Bibliothèque",
+        "title": "La bibliothèque",
         "sound": "bibliotheque_fr.mp3"
       }
     }
@@ -12918,11 +12918,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Zoo",
+        "sound": "zoo.mp3"
       },
       "es": {
-        "title": "Zoo",
+        "title": "El zoo",
         "sound": "zoo_es.mp3"
       },
       "hr": {
@@ -12930,7 +12930,7 @@
         "sound": "zooloski_vrt.mp3"
       },
       "fr": {
-        "title": "Zoo",
+        "title": "Le zoo",
         "sound": "zoo_fr.mp3"
       }
     }
@@ -12962,11 +12962,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Beach",
+        "sound": "beach.mp3"
       },
       "es": {
-        "title": "Playa",
+        "title": "La playa",
         "sound": "playa_es.mp3"
       },
       "hr": {
@@ -12974,7 +12974,7 @@
         "sound": "plaza.mp3"
       },
       "fr": {
-        "title": "Plage",
+        "title": "La plage",
         "sound": "plage_fr.mp3"
       }
     }
@@ -13006,11 +13006,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Forest",
+        "sound": "forest.mp3"
       },
       "es": {
-        "title": "Bosque",
+        "title": "El bosque",
         "sound": "bosque_es.mp3"
       },
       "hr": {
@@ -13018,7 +13018,7 @@
         "sound": "suma.mp3"
       },
       "fr": {
-        "title": "Forêt",
+        "title": "La forêt",
         "sound": "foret_fr.mp3"
       }
     }
@@ -13050,11 +13050,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "City",
+        "sound": "city.mp3"
       },
       "es": {
-        "title": "Ciudad",
+        "title": "La ciudad",
         "sound": "ciudad_es.mp3"
       },
       "hr": {
@@ -13062,7 +13062,7 @@
         "sound": "grad.mp3"
       },
       "fr": {
-        "title": "Ville",
+        "title": "La ville",
         "sound": "ville_fr.mp3"
       }
     }
@@ -13094,11 +13094,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Village",
+        "sound": "village.mp3"
       },
       "es": {
-        "title": "Aldea",
+        "title": "La aldea",
         "sound": "aldea_es.mp3"
       },
       "hr": {
@@ -13106,7 +13106,7 @@
         "sound": "selo.mp3"
       },
       "fr": {
-        "title": "Village",
+        "title": "Le village",
         "sound": "village_fr.mp3"
       }
     }
@@ -13138,11 +13138,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Car",
+        "sound": "car.mp3"
       },
       "es": {
-        "title": "Auto",
+        "title": "El auto",
         "sound": "auto_es.mp3"
       },
       "hr": {
@@ -13150,7 +13150,7 @@
         "sound": "auto.mp3"
       },
       "fr": {
-        "title": "Voiture",
+        "title": "La voiture",
         "sound": "voiture_fr.mp3"
       }
     }
@@ -13182,11 +13182,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bus",
+        "sound": "bus.mp3"
       },
       "es": {
-        "title": "Autobús",
+        "title": "El autobús",
         "sound": "autobus_es.mp3"
       },
       "hr": {
@@ -13194,7 +13194,7 @@
         "sound": "autobus.mp3"
       },
       "fr": {
-        "title": "Bus",
+        "title": "Le bus",
         "sound": "bus_fr.mp3"
       }
     }
@@ -13226,11 +13226,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Train",
+        "sound": "train.mp3"
       },
       "es": {
-        "title": "Tren",
+        "title": "El tren",
         "sound": "tren_es.mp3"
       },
       "hr": {
@@ -13238,7 +13238,7 @@
         "sound": "vlak.mp3"
       },
       "fr": {
-        "title": "Former",
+        "title": "Le train",
         "sound": "former_fr.mp3"
       }
     }
@@ -13270,11 +13270,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Airplane",
+        "sound": "airplane.mp3"
       },
       "es": {
-        "title": "Avión",
+        "title": "El avión",
         "sound": "avion_es.mp3"
       },
       "hr": {
@@ -13282,7 +13282,7 @@
         "sound": "avion.mp3"
       },
       "fr": {
-        "title": "Avion",
+        "title": "L’avion",
         "sound": "avion_fr.mp3"
       }
     }
@@ -13314,11 +13314,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Boat",
+        "sound": "boat.mp3"
       },
       "es": {
-        "title": "Bote",
+        "title": "El bote",
         "sound": "bote_es.mp3"
       },
       "hr": {
@@ -13326,7 +13326,7 @@
         "sound": "brod.mp3"
       },
       "fr": {
-        "title": "Bateau",
+        "title": "Le bateau",
         "sound": "bateau_fr.mp3"
       }
     }
@@ -13358,11 +13358,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Bicycle",
+        "sound": "bicycle.mp3"
       },
       "es": {
-        "title": "Bicicleta",
+        "title": "La bicicleta",
         "sound": "bicicleta_es.mp3"
       },
       "hr": {
@@ -13370,7 +13370,7 @@
         "sound": "bicikl.mp3"
       },
       "fr": {
-        "title": "Vélo",
+        "title": "Le vélo",
         "sound": "velo_fr.mp3"
       }
     }
@@ -13402,11 +13402,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Motorcycle",
+        "sound": "motorcycle.mp3"
       },
       "es": {
-        "title": "Motocicleta",
+        "title": "La motocicleta",
         "sound": "motocicleta_es.mp3"
       },
       "hr": {
@@ -13414,7 +13414,7 @@
         "sound": "motor.mp3"
       },
       "fr": {
-        "title": "Moto",
+        "title": "La moto",
         "sound": "moto_fr.mp3"
       }
     }
@@ -13446,11 +13446,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Truck",
+        "sound": "truck.mp3"
       },
       "es": {
-        "title": "Camión",
+        "title": "El camión",
         "sound": "camion_es.mp3"
       },
       "hr": {
@@ -13458,7 +13458,7 @@
         "sound": "kamion.mp3"
       },
       "fr": {
-        "title": "Camion",
+        "title": "Le camion",
         "sound": "camion_fr.mp3"
       }
     }
@@ -13490,11 +13490,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Book",
+        "sound": "book.mp3"
       },
       "es": {
-        "title": "Libro",
+        "title": "El libro",
         "sound": "libro_es.mp3"
       },
       "hr": {
@@ -13502,7 +13502,7 @@
         "sound": "knjiga.mp3"
       },
       "fr": {
-        "title": "Livre",
+        "title": "Le livre",
         "sound": "livre_fr.mp3"
       }
     }
@@ -13534,11 +13534,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pencil",
+        "sound": "pencil.mp3"
       },
       "es": {
-        "title": "Lápiz",
+        "title": "El lápiz",
         "sound": "lapiz_es.mp3"
       },
       "hr": {
@@ -13546,7 +13546,7 @@
         "sound": "olovka.mp3"
       },
       "fr": {
-        "title": "Crayon",
+        "title": "Le crayon",
         "sound": "crayon_fr.mp3"
       }
     }
@@ -13578,11 +13578,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Pen",
+        "sound": "pen.mp3"
       },
       "es": {
-        "title": "Bolígrafo",
+        "title": "El bolígrafo",
         "sound": "boligrafo_es.mp3"
       },
       "hr": {
@@ -13590,7 +13590,7 @@
         "sound": "kemijska.mp3"
       },
       "fr": {
-        "title": "Stylo",
+        "title": "Le stylo",
         "sound": "stylo_fr.mp3"
       }
     }
@@ -13622,11 +13622,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eraser",
+        "sound": "eraser.mp3"
       },
       "es": {
-        "title": "Borrador",
+        "title": "El borrador",
         "sound": "borrador_es.mp3"
       },
       "hr": {
@@ -13634,7 +13634,7 @@
         "sound": "gumica.mp3"
       },
       "fr": {
-        "title": "Gomme",
+        "title": "La gomme",
         "sound": "gomme_fr.mp3"
       }
     }
@@ -13666,11 +13666,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Notebook",
+        "sound": "notebook.mp3"
       },
       "es": {
-        "title": "Computadora portátil",
+        "title": "El cuaderno",
         "sound": "computadora_portatil_es.mp3"
       },
       "hr": {
@@ -13678,7 +13678,7 @@
         "sound": "biljeznica.mp3"
       },
       "fr": {
-        "title": "Carnet de notes",
+        "title": "Le carnet de notes",
         "sound": "carnet_de_notes_fr.mp3"
       }
     }
@@ -13710,11 +13710,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Backpack",
+        "sound": "backpack.mp3"
       },
       "es": {
-        "title": "Mochila",
+        "title": "La mochila",
         "sound": "mochila_es.mp3"
       },
       "hr": {
@@ -13722,7 +13722,7 @@
         "sound": "ruksak.mp3"
       },
       "fr": {
-        "title": "Sac à dos",
+        "title": "Le sac à dos",
         "sound": "sac_a_dos_fr.mp3"
       }
     }
@@ -13754,11 +13754,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Chair",
+        "sound": "chair.mp3"
       },
       "es": {
-        "title": "Silla",
+        "title": "La silla",
         "sound": "silla_es.mp3"
       },
       "hr": {
@@ -13766,7 +13766,7 @@
         "sound": "stolica.mp3"
       },
       "fr": {
-        "title": "Chaise",
+        "title": "La chaise",
         "sound": "chaise_fr.mp3"
       }
     }
@@ -13798,11 +13798,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Desk",
+        "sound": "desk.mp3"
       },
       "es": {
-        "title": "Escritorio",
+        "title": "El escritorio",
         "sound": "escritorio_es.mp3"
       },
       "hr": {
@@ -13810,7 +13810,7 @@
         "sound": "stol.mp3"
       },
       "fr": {
-        "title": "Bureau",
+        "title": "Le bureau",
         "sound": "bureau_fr.mp3"
       }
     }
@@ -13842,11 +13842,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Board",
+        "sound": "board.mp3"
       },
       "es": {
-        "title": "Junta",
+        "title": "La pizarra or La junta",
         "sound": "junta_es.mp3"
       },
       "hr": {
@@ -13854,7 +13854,7 @@
         "sound": "ploca.mp3"
       },
       "fr": {
-        "title": "Conseil",
+        "title": "Le tableau",
         "sound": "conseil_fr.mp3"
       }
     }
@@ -13886,11 +13886,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Teacher",
+        "sound": "teacher.mp3"
       },
       "es": {
-        "title": "Maestro",
+        "title": "El maestro",
         "sound": "maestro_es.mp3"
       },
       "hr": {
@@ -13898,7 +13898,7 @@
         "sound": "ucitelj.mp3"
       },
       "fr": {
-        "title": "Professeur",
+        "title": "Le professeur",
         "sound": "professeur_fr.mp3"
       }
     }
@@ -13930,11 +13930,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Student",
+        "sound": "student.mp3"
       },
       "es": {
-        "title": "Alumno",
+        "title": "El alumno",
         "sound": "alumno_es.mp3"
       },
       "hr": {
@@ -13942,7 +13942,7 @@
         "sound": "ucenik.mp3"
       },
       "fr": {
-        "title": "Étudiant",
+        "title": "L’étudiant",
         "sound": "etudiant_fr.mp3"
       }
     }
@@ -13974,11 +13974,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Class",
+        "sound": "class.mp3"
       },
       "es": {
-        "title": "Clase",
+        "title": "La clase",
         "sound": "clase_es.mp3"
       },
       "hr": {
@@ -13986,7 +13986,7 @@
         "sound": "razred.mp3"
       },
       "fr": {
-        "title": "Classe",
+        "title": "La classe",
         "sound": "classe_fr.mp3"
       }
     }
@@ -14018,11 +14018,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Lesson",
+        "sound": "lesson.mp3"
       },
       "es": {
-        "title": "Lección",
+        "title": "La lección",
         "sound": "leccion_es.mp3"
       },
       "hr": {
@@ -14030,7 +14030,7 @@
         "sound": "lekcija.mp3"
       },
       "fr": {
-        "title": "Leçon",
+        "title": "La leçon",
         "sound": "lecon_fr.mp3"
       }
     }
@@ -14062,11 +14062,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Numbers",
+        "sound": "numbers.mp3"
       },
       "es": {
-        "title": "Números",
+        "title": "Los números",
         "sound": "numeros_es.mp3"
       },
       "hr": {
@@ -14074,7 +14074,7 @@
         "sound": "brojevi.mp3"
       },
       "fr": {
-        "title": "Nombres",
+        "title": "Les nombres",
         "sound": "nombres_fr.mp3"
       }
     }
@@ -14106,11 +14106,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Letters",
+        "sound": "letters.mp3"
       },
       "es": {
-        "title": "Letras",
+        "title": "Las letras",
         "sound": "letras_es.mp3"
       },
       "hr": {
@@ -14118,7 +14118,7 @@
         "sound": "slova.mp3"
       },
       "fr": {
-        "title": "Courrier",
+        "title": "Les lettres",
         "sound": "courrier_fr.mp3"
       }
     }
@@ -14150,11 +14150,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shapes",
+        "sound": "shapes.mp3"
       },
       "es": {
-        "title": "Formas",
+        "title": "Las formas",
         "sound": "formas_es.mp3"
       },
       "hr": {
@@ -14162,7 +14162,7 @@
         "sound": "oblici.mp3"
       },
       "fr": {
-        "title": "Formes",
+        "title": "Les formes",
         "sound": "formes_fr.mp3"
       }
     }
@@ -14194,11 +14194,11 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Colors",
+        "sound": "colors.mp3"
       },
       "es": {
-        "title": "Bandera",
+        "title": "Los colores",
         "sound": "bandera_es.mp3"
       },
       "hr": {
@@ -14206,7 +14206,7 @@
         "sound": "boje.mp3"
       },
       "fr": {
-        "title": "Couleurs",
+        "title": "Les couleurs",
         "sound": "couleurs_fr.mp3"
       }
     }
@@ -14238,8 +14238,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wake up",
+        "sound": "wake_up.mp3"
       },
       "es": {
         "title": "Despertar",
@@ -14282,8 +14282,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Get up",
+        "sound": "get_up.mp3"
       },
       "es": {
         "title": "Levantarse",
@@ -14326,8 +14326,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Brush teeth",
+        "sound": "brush_teeth.mp3"
       },
       "es": {
         "title": "Cepillarse los dientes",
@@ -14370,8 +14370,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wash face",
+        "sound": "wash_face.mp3"
       },
       "es": {
         "title": "Lavarse la cara",
@@ -14414,8 +14414,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Take a bath",
+        "sound": "take_a_bath.mp3"
       },
       "es": {
         "title": "Tomar un baño",
@@ -14458,8 +14458,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Get dressed",
+        "sound": "get_dressed.mp3"
       },
       "es": {
         "title": "Vestirse",
@@ -14502,8 +14502,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat breakfast",
+        "sound": "eat_breakfast.mp3"
       },
       "es": {
         "title": "Desayunar",
@@ -14546,8 +14546,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Go to school",
+        "sound": "go_to_school.mp3"
       },
       "es": {
         "title": "Ir a la escuela",
@@ -14590,8 +14590,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Come home",
+        "sound": "come_home.mp3"
       },
       "es": {
         "title": "Ven a casa",
@@ -14634,8 +14634,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat lunch",
+        "sound": "eat_lunch.mp3"
       },
       "es": {
         "title": "Comer el almuerzo",
@@ -14678,8 +14678,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Do homework",
+        "sound": "do_homework.mp3"
       },
       "es": {
         "title": "Hacer la tarea",
@@ -14722,8 +14722,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Play",
+        "sound": "play.mp3"
       },
       "es": {
         "title": "Jugar",
@@ -14766,8 +14766,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat dinner",
+        "sound": "eat_dinner.mp3"
       },
       "es": {
         "title": "Cenar",
@@ -14810,8 +14810,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Go to bed",
+        "sound": "go_to_bed.mp3"
       },
       "es": {
         "title": "Acostarse",
@@ -14854,8 +14854,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sleep",
+        "sound": "sleep.mp3"
       },
       "es": {
         "title": "Dormir",
@@ -14898,8 +14898,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hello",
+        "sound": "hello.mp3"
       },
       "es": {
         "title": "Hola",
@@ -14942,8 +14942,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Goodbye",
+        "sound": "goodbye.mp3"
       },
       "es": {
         "title": "Adiós",
@@ -14986,8 +14986,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Please",
+        "sound": "please.mp3"
       },
       "es": {
         "title": "Por favor",
@@ -15030,8 +15030,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Thank you",
+        "sound": "thank_you.mp3"
       },
       "es": {
         "title": "Gracias",
@@ -15074,8 +15074,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "You're welcome",
+        "sound": "youre_welcome.mp3"
       },
       "es": {
         "title": "De nada",
@@ -15118,8 +15118,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sorry",
+        "sound": "sorry.mp3"
       },
       "es": {
         "title": "Lo siento",
@@ -15162,8 +15162,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Yes",
+        "sound": "yes.mp3"
       },
       "es": {
         "title": "Sí",
@@ -15206,8 +15206,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "No",
+        "sound": "no.mp3"
       },
       "es": {
         "title": "No",
@@ -15250,8 +15250,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "What is this?",
+        "sound": "what_is_this.mp3"
       },
       "es": {
         "title": "¿Qué es esto?",
@@ -15294,8 +15294,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "I don’t know",
+        "sound": "i_don’t_know.mp3"
       },
       "es": {
         "title": "No sé",
@@ -15338,8 +15338,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "I like it",
+        "sound": "i_like_it.mp3"
       },
       "es": {
         "title": "Me gusta",
@@ -15382,8 +15382,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "I don't like it",
+        "sound": "i_dont_like_it.mp3"
       },
       "es": {
         "title": "No me gusta",
@@ -15426,8 +15426,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Help!",
+        "sound": "help.mp3"
       },
       "es": {
         "title": "¡Ayuda!",
@@ -15470,8 +15470,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Let's go",
+        "sound": "lets_go.mp3"
       },
       "es": {
         "title": "Vamos",
@@ -15514,8 +15514,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wait",
+        "sound": "wait.mp3"
       },
       "es": {
         "title": "Esperar",
@@ -15558,8 +15558,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Toy",
+        "sound": "toy.mp3"
       },
       "es": {
         "title": "Juguete",
@@ -15602,8 +15602,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Ball",
+        "sound": "ball.mp3"
       },
       "es": {
         "title": "Pelota",
@@ -15646,8 +15646,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Doll",
+        "sound": "doll.mp3"
       },
       "es": {
         "title": "Muñeca",
@@ -15690,8 +15690,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Puzzle",
+        "sound": "puzzle.mp3"
       },
       "es": {
         "title": "Rompecabezas",
@@ -15734,8 +15734,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Blocks",
+        "sound": "blocks.mp3"
       },
       "es": {
         "title": "Bloques",
@@ -15778,8 +15778,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Car (toy)",
+        "sound": "car_(toy).mp3"
       },
       "es": {
         "title": "Coche (de juguete)",
@@ -15822,8 +15822,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Teddy bear",
+        "sound": "teddy_bear.mp3"
       },
       "es": {
         "title": "Oso de peluche",
@@ -15866,8 +15866,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Game",
+        "sound": "game.mp3"
       },
       "es": {
         "title": "Juego",
@@ -15910,8 +15910,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Swing",
+        "sound": "swing.mp3"
       },
       "es": {
         "title": "Balancearse",
@@ -15954,8 +15954,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Slide",
+        "sound": "slide.mp3"
       },
       "es": {
         "title": "Deslizar",
@@ -15998,8 +15998,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tired",
+        "sound": "tired.mp3"
       },
       "es": {
         "title": "Cansado",
@@ -16042,8 +16042,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Excited",
+        "sound": "excited.mp3"
       },
       "es": {
         "title": "Entusiasmado",
@@ -16086,8 +16086,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Scared",
+        "sound": "scared.mp3"
       },
       "es": {
         "title": "Asustado",
@@ -16130,8 +16130,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Brave",
+        "sound": "brave.mp3"
       },
       "es": {
         "title": "Corajudo",
@@ -16174,8 +16174,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Shy",
+        "sound": "shy.mp3"
       },
       "es": {
         "title": "Tímido",
@@ -16218,8 +16218,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Friendly",
+        "sound": "friendly.mp3"
       },
       "es": {
         "title": "Amigable",
@@ -16262,8 +16262,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Kind",
+        "sound": "kind.mp3"
       },
       "es": {
         "title": "Amable",
@@ -16306,8 +16306,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Silly",
+        "sound": "silly.mp3"
       },
       "es": {
         "title": "Tonto",
@@ -16350,8 +16350,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Smart",
+        "sound": "smart.mp3"
       },
       "es": {
         "title": "Elegante",
@@ -16394,8 +16394,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Morning",
+        "sound": "morning.mp3"
       },
       "es": {
         "title": "Mañana",
@@ -16438,8 +16438,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Afternoon",
+        "sound": "afternoon.mp3"
       },
       "es": {
         "title": "Tarde",
@@ -16482,8 +16482,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Evening",
+        "sound": "evening.mp3"
       },
       "es": {
         "title": "Noche",
@@ -16526,8 +16526,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Night",
+        "sound": "night.mp3"
       },
       "es": {
         "title": "Noche",
@@ -16570,8 +16570,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Day",
+        "sound": "day.mp3"
       },
       "es": {
         "title": "Día",
@@ -16614,8 +16614,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Week",
+        "sound": "week.mp3"
       },
       "es": {
         "title": "Semana",
@@ -16658,8 +16658,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Month",
+        "sound": "month.mp3"
       },
       "es": {
         "title": "Mes",
@@ -16702,8 +16702,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Year",
+        "sound": "year.mp3"
       },
       "es": {
         "title": "Año",
@@ -16746,8 +16746,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Yesterday",
+        "sound": "yesterday.mp3"
       },
       "es": {
         "title": "Ayer",
@@ -16790,8 +16790,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Today",
+        "sound": "today.mp3"
       },
       "es": {
         "title": "Hoy",
@@ -16834,8 +16834,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Tomorrow",
+        "sound": "tomorrow.mp3"
       },
       "es": {
         "title": "Mañana",
@@ -16878,8 +16878,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Now",
+        "sound": "now.mp3"
       },
       "es": {
         "title": "Ahora",
@@ -16922,8 +16922,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Later",
+        "sound": "later.mp3"
       },
       "es": {
         "title": "Más tarde",
@@ -16966,8 +16966,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Early",
+        "sound": "early.mp3"
       },
       "es": {
         "title": "Temprano",
@@ -17010,8 +17010,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Late",
+        "sound": "late.mp3"
       },
       "es": {
         "title": "Tarde",
@@ -17054,8 +17054,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Hour",
+        "sound": "hour.mp3"
       },
       "es": {
         "title": "Hora",
@@ -17098,8 +17098,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Minute",
+        "sound": "minute.mp3"
       },
       "es": {
         "title": "Minuto",
@@ -17142,8 +17142,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Second",
+        "sound": "second.mp3"
       },
       "es": {
         "title": "Segundo",
@@ -17186,8 +17186,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Calendar",
+        "sound": "calendar.mp3"
       },
       "es": {
         "title": "Calendario",
@@ -17230,8 +17230,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Clock",
+        "sound": "clock.mp3"
       },
       "es": {
         "title": "Reloj",
@@ -17274,8 +17274,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wake up",
+        "sound": "wake_up.mp3"
       },
       "es": {
         "title": "Despertar",
@@ -17318,8 +17318,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Get up",
+        "sound": "get_up.mp3"
       },
       "es": {
         "title": "Levantarse",
@@ -17362,8 +17362,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Brush teeth",
+        "sound": "brush_teeth.mp3"
       },
       "es": {
         "title": "Cepillarse los dientes",
@@ -17406,8 +17406,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Wash face",
+        "sound": "wash_face.mp3"
       },
       "es": {
         "title": "Lavarse la cara",
@@ -17450,8 +17450,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Take a shower",
+        "sound": "take_a_shower.mp3"
       },
       "es": {
         "title": "Tomar una ducha",
@@ -17494,8 +17494,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Get dressed",
+        "sound": "get_dressed.mp3"
       },
       "es": {
         "title": "Vestirse",
@@ -17538,8 +17538,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat breakfast",
+        "sound": "eat_breakfast.mp3"
       },
       "es": {
         "title": "Desayunar",
@@ -17582,8 +17582,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Go to school",
+        "sound": "go_to_school.mp3"
       },
       "es": {
         "title": "Ir a la escuela",
@@ -17626,8 +17626,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Study / Learn",
+        "sound": "study_/_learn.mp3"
       },
       "es": {
         "title": "Estudiar / Aprender",
@@ -17670,8 +17670,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Come home",
+        "sound": "come_home.mp3"
       },
       "es": {
         "title": "Ven a casa",
@@ -17714,8 +17714,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Do homework",
+        "sound": "do_homework.mp3"
       },
       "es": {
         "title": "Hacer la tarea",
@@ -17758,8 +17758,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Play",
+        "sound": "play.mp3"
       },
       "es": {
         "title": "Jugar",
@@ -17802,8 +17802,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat lunch",
+        "sound": "eat_lunch.mp3"
       },
       "es": {
         "title": "Comer el almuerzo",
@@ -17846,8 +17846,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Take a nap",
+        "sound": "take_a_nap.mp3"
       },
       "es": {
         "title": "Sestear",
@@ -17890,8 +17890,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Watch TV",
+        "sound": "watch_tv.mp3"
       },
       "es": {
         "title": "Ver la televisión",
@@ -17934,8 +17934,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Eat dinner",
+        "sound": "eat_dinner.mp3"
       },
       "es": {
         "title": "Cenar",
@@ -17978,8 +17978,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Take a bath",
+        "sound": "take_a_bath.mp3"
       },
       "es": {
         "title": "Tomar un baño",
@@ -18022,8 +18022,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Put on pajamas",
+        "sound": "put_on_pajamas.mp3"
       },
       "es": {
         "title": "Ponte el pijama",
@@ -18066,8 +18066,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Read a book",
+        "sound": "read_a_book.mp3"
       },
       "es": {
         "title": "Leer un libro",
@@ -18110,8 +18110,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Go to bed",
+        "sound": "go_to_bed.mp3"
       },
       "es": {
         "title": "Acostarse",
@@ -18154,8 +18154,8 @@
     },
     "translations": {
       "en": {
-        "title": "",
-        "sound": ""
+        "title": "Sleep",
+        "sound": "sleep.mp3"
       },
       "es": {
         "title": "Dormir",

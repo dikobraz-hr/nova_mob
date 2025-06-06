@@ -4,6 +4,7 @@
       :src="`/symbols/${image}`"
       class="symbol-img"
       :alt="alt"
+      :ratio="1/1"
     />
   </div>
 </template>
