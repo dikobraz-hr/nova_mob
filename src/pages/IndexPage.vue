@@ -48,7 +48,7 @@ function goToCategories() {
 
 function goToCategory(id) {
   console.log('Going to category with ID:', id)
-  router.push(`/category-all/${id}`)
+  router.push(`/category/${id}`)
 }
 
 function toggleDrawer() { 

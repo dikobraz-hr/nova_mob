@@ -23,14 +23,16 @@ export default defineConfig((ctx) => {
     // --> boot files are part of "main.js"
     // https://v2.quasar.dev/quasar-cli-webpack/boot-files
     boot: [
-      'axios'
+      'axios','i18n'
     ],
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#css
     css: [
       'app.scss'
     ],
-
+htmlVariables: {
+    googleFonts: `<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">`
+  },
     // https://github.com/quasarframework/quasar/tree/dev/extras
     extras: [
       // 'ionicons-v4',

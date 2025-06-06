@@ -12,9 +12,11 @@
     />
 
     <q-drawer v-model="drawer" show-if-above side="left" bordered>
+      
       <q-list padding  class="drawer-content">
-
-        <h6>Contact us</h6>
+        <q-img src="vertical-logo.png" width="50%" class="q-mx-auto block"></q-img>
+ <div class="q-pa-md"><LanguageSwitcher /></div>
+        <h6>{{$t('contact')}}</h6>
 
         <q-item-label header>Address</q-item-label>
         <div class="q-pa-md text-body2">
@@ -79,7 +81,7 @@
 <script setup>
 import { ref, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-
+import LanguageSwitcher from 'components/LanguageSwitcher.vue'
 const router = useRouter()
 const route = useRoute()
 

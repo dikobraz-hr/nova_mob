@@ -1,0 +1,40 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "labels": {
+        "en": "English",
+        "hr": "Engleski",
+        "es": "Inglés",
+        "fr": "Anglais"
+      }
+    },
+    {
+      "code": "hr",
+      "labels": {
+        "en": "Croatian",
+        "hr": "Hrvatski",
+        "es": "Croata",
+        "fr": "Croate"
+      }
+    },
+    {
+      "code": "es",
+      "labels": {
+        "en": "Spanish",
+        "hr": "Španjolski",
+        "es": "Español",
+        "fr": "Espagnol"
+      }
+    },
+    {
+      "code": "fr",
+      "labels": {
+        "en": "French",
+        "hr": "Francuski",
+        "es": "Francés",
+        "fr": "Français"
+      }
+    }
+  ]
+}
