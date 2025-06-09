@@ -19,7 +19,7 @@
         "title": "Personas y cuerpo"
       },
       "de": {
-        "title": "Menschen & Körper"
+        "title": "Menschen und Körper"
       }
     }
   },
@@ -67,7 +67,7 @@
         "title": "Comida y bebida"
       },
       "de": {
-        "title": "Essen & Trinken"
+        "title": "Essen und Trinken"
       }
     }
   },
@@ -115,7 +115,7 @@
         "title": "Hogar y muebles"
       },
       "de": {
-        "title": "Zuhause & Möbel"
+        "title": "Zuhause und Möbel"
       }
     }
   },
@@ -139,7 +139,7 @@
         "title": "Naturaleza y clima"
       },
       "de": {
-        "title": "Natur & Wetter"
+        "title": "Natur und Wetter"
       }
     }
   },
@@ -163,7 +163,7 @@
         "title": "Colores y formas"
       },
       "de": {
-        "title": "Farben & Formen"
+        "title": "Farben und Formen"
       }
     }
   },
@@ -187,7 +187,7 @@
         "title": "Números y conteo"
       },
       "de": {
-        "title": "Zahlen & Zählen"
+        "title": "Zahlen und Zählen"
       }
     }
   },
@@ -259,7 +259,7 @@
         "title": "Lugares y transporte"
       },
       "de": {
-        "title": "Orte & Verkehrsmittel"
+        "title": "Orte und Verkehrsmittel"
       }
     }
   },
@@ -283,7 +283,7 @@
         "title": "Tiempo y rutina diaria"
       },
       "de": {
-        "title": "Zeit & Tagesablauf"
+        "title": "Zeit und Tagesablauf"
       }
     }
   },
@@ -307,7 +307,7 @@
         "title": "Escuela y aprendizaje"
       },
       "de": {
-        "title": "Schule & Lernen"
+        "title": "Schule und Lernen"
       }
     }
   },
@@ -319,19 +319,19 @@
     "color": "#E2E6FC",
     "translations": {
       "en": {
-        "title": "Actions / Everyday Phrases"
+        "title": "Actions & Everyday Phrases"
       },
       "hr": {
         "title": "Radnje i svakodnevna fraze"
       },
       "fr": {
-        "title": "Actions / Phrases courantes"
+        "title": "Actions et Phrases courantes"
       },
       "es": {
-        "title": "Acciones / Frases cotidianas"
+        "title": "Acciones y Frases cotidianas"
       },
       "de": {
-        "title": "Handlungen / Alltägliche Ausdrücke"
+        "title": "Handlungen und Alltägliche Ausdrücke"
       }
     }
   },
@@ -355,7 +355,7 @@
         "title": "Juguetes y diversión"
       },
       "de": {
-        "title": "Spielzeug & Spaß"
+        "title": "Spielzeug und Spaß"
       }
     }
   },
@@ -379,7 +379,7 @@
         "title": "Sentimientos y personalidad"
       },
       "de": {
-        "title": "Gefühle & Persönlichkeit"
+        "title": "Gefühle und Persönlichkeit"
       }
     }
   }
