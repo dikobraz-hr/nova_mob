@@ -65,6 +65,9 @@
   "Search symbols": "Rechercher des symboles",
   "email": "E-mail",
   "see all": "Voir tout",
-"random selection": "Sélection aléatoire"
-
+"random selection": "Sélection aléatoire",
+ "your_name": "Votre nom",
+  "email_address": "Adresse e-mail",
+  "your_message": "Votre message",
+  "send_message": "Envoyer le message"
 }

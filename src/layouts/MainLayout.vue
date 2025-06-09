@@ -1,50 +1,16 @@
 <template>
   <q-layout view="hHh lpR fff">
+<div class="row">
+  
+  <div class="col-12 justify-center items-center text-center">
+    <router-link to="/"> <q-img src="vertical-logo.png" width="100px" wiclass="q-mx-auto block"></q-img></router-link>
+  </div>
+</div>
+ 
 
-    <q-btn
-      flat
-      dense
-      round
-      icon="menu"
-      aria-label="Meni"
-      class="hamburger-btn"
-      @click="drawer = !drawer"
-    />
+   
 
-    <q-drawer v-model="drawer" show-if-above side="left" bordered>
-      
-      <q-list padding  class="drawer-content">
-        <q-img src="vertical-logo.png" width="50%" class="q-mx-auto block"></q-img>
- <div class="q-pa-md"><LanguageSwitcher /></div>
-        <h6>{{$t('contact')}}</h6>
-
-        <q-item-label header>{{$t('address')}}</q-item-label>
-        <div class="q-pa-md text-body2">
-          Ulica Božidara Magovca 107<br />
-          10000 Zagreb
-
-          <br><br>
-          {{$t('or')}}
-        </div>
-<router-link to="contact" class="q-pa-md text-body2">{{$t('contact')}}</router-link>
-
-
-
-        <q-separator spaced />
-
-        <q-item-label header>{{$t('email')}}</q-item-label>
-        <div class="q-pa-md text-body2">
-          <a href="mailto:info@dikobraz.hr">info@dikobraz.hr</a>
-        </div>
-                <div class="q-pt-md text-body2">
-        <router-link to="instructions" class=" q-pa-md  text-body2">{{$t('Instructions')}}</router-link>
-                </div>
-                   <div class="q-pt-md text-body2">
-        <router-link to="terms" class="q-pa-md text-body2">{{$t('Terms')}}</router-link></div>
-      </q-list>
-    </q-drawer>
-
-    <q-page-container class="q-pt-lg">
+    <q-page-container class="">
       <router-view />
     </q-page-container>
 
@@ -80,7 +46,7 @@
       <button
         class="toolbar-btn"
         :class="{ active: activeTab === 2 }"
-        @click="goTo('/account/1')"
+        @click="goTo('/contact')"
         aria-label="Profile"
       >
         <q-icon name="person" />
@@ -93,11 +59,11 @@
 <script setup>
 import { ref, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import LanguageSwitcher from 'components/LanguageSwitcher.vue'
+
 const router = useRouter()
 const route = useRoute()
 
-const drawer = ref(false)
+
 const activeTab = ref(0)
 
 const goTo = (path) => {

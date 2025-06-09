@@ -5,7 +5,7 @@
       class="random-btn"
       rounded
       unelevated
-      color="accent"
+      color="primary"
       text-color="dark"
       @click="$emit('random-click')"
     />

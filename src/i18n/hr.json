@@ -65,6 +65,9 @@
   "Search symbols": "Pretraži simbole",
   "email": "E-mail",
   "see all": "Prikaži sve",
-  "random_selection": "Nasumičan odabir"
-
+  "random_selection": "Nasumičan odabir",
+"your_name": "Vaše ime",
+  "email_address": "Email adresa",
+  "your_message": "Vaša poruka",
+  "send_message": "Pošalji poruku"
 }

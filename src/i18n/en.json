@@ -65,7 +65,10 @@
   "Search symbols":"Search symbols",
   "email": "E-mail",
   "see all":"See all",
-  "random selection": "Random selection"
-
+  "random selection": "Random selection",
+"your_name": "Your Name",
+  "email_address": "Email Address",
+  "your_message": "Your Message",
+  "send_message": "Send Message"
 
 }
