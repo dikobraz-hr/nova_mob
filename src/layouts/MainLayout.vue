@@ -64,7 +64,15 @@
         <q-icon name="category" />
         <span>Kategorije</span>
       </button>
-
+ <button
+        class="toolbar-btn"
+        :class="{ active: activeTab === 3 }"
+        @click="goTo('/category-all')"
+        aria-label="game"
+      >
+        <q-icon name="category" />
+        <span>Igra</span>
+      </button>
       <button
         class="toolbar-btn"
         :class="{ active: activeTab === 2 }"
@@ -101,6 +109,8 @@ watch(
       activeTab.value = 0
     } else if (newPath.startsWith('/account')) {
       activeTab.value = 2
+    }else if (newPath === '/game') {
+      activeTab.value = 3
     } else {
       activeTab.value = -1
     }

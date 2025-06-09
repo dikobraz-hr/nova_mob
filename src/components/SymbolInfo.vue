@@ -2,15 +2,15 @@
   <div class="info-row">
     <div class="symbol-title">{{ title }}</div>
     <div class="icon-buttons">
-      <q-btn flat round icon="volume_up" @click="onPlaySound" />
-      <q-btn flat round icon="volume_down" @click="onPlayMainSound" v-if="symbol.sound"/>
-      <q-btn
+      <q-btn  round icon="volume_up" @click="onPlaySound" color="primary" text-color="dark" size="lg"/>
+      <q-btn  round icon="volume_down" @click="onPlayMainSound" v-if="symbol.sound" size="lg" color="secondary" text-color="dark"/>
+      <!-- <q-btn
         flat
         round
         :icon="isFavorite ? 'favorite' : 'favorite_border'"
         color="red"
         @click="onToggleFavorite"
-      />
+      /> -->
     </div>
   </div>
 </template>

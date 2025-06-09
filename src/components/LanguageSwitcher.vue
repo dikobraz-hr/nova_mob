@@ -35,5 +35,6 @@ onMounted(async () => {
 function changeLanguage(langCode) {
   locale.value = langCode;
   selectedLang.value = langCode;
+  localStorage.setItem('appLocale', langCode); // ✅ save it persistently
 }
 </script>

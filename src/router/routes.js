@@ -9,7 +9,7 @@ const routes = [
       {path: '/category-all/:id',name: 'CategoryPage',component: () => import('src/pages/CategoryPage.vue')},
       {path: '/pojam/:id',component: () => import('pages/SymbolPage.vue')},
       { path: '/pojam/:categoryId/:symbolId',component: () => import('src/pages/SymbolPage.vue')},
-      
+      { path: '/game',component: () => import('src/pages/GamePage.vue')},
       
     
     ]

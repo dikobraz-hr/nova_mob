@@ -1,10 +1,23 @@
 <template>
   <q-page class="q-pa-md bg-grey-2">
-    <q-btn flat icon="arrow_back" @click="$router.back()" class="q-mb-md q-ml-xl q-pt-none" />
+    <q-btn flat icon="arrow_back" @click="$router.push('/category-all')" class="q-mb-md q-ml-xl q-pt-none" />
 
     <div class="text-h5 q-mb-md" >
       {{ categoryName }}
     </div>
+<q-input
+  standout="bg-primary text-white"
+  rounded
+  v-model="searchQuery"
+  label="Pretraga simbola"
+  class="q-mb-md"
+  clearable
+  debounce="300"
+  >
+    <template #prepend>
+      <q-icon name="search" />
+    </template>
+  </q-input>
 
     <div class="pojam-list">
       <q-card
@@ -41,12 +54,20 @@ const { locale } = useI18n()
 
 const categoryName = ref('Nepoznata kategorija')
 const categoryColor = ref('#ffffff')
-const pojmovi = ref([])
+const allPojmovi = ref([])
+const searchQuery = ref('')
+const pojmovi = computed(() => {
+  if (!searchQuery.value) return allPojmovi.value
+  const q = searchQuery.value.toLowerCase()
+  return allPojmovi.value.filter((item) =>
+    translatedTitle(item).value.toLowerCase().includes(q)
+  )
+})
 
 const translatedTitle = (pojam) =>
   computed(() => pojam.translations?.[locale.value]?.title || 'Bez naziva')
 function updateCategoryInfo() {
-  if (pojmovi.value.length > 0) {
+  if (allPojmovi.value.length > 0) {
     const cat = pojmovi.value[0].category
     categoryName.value =
       cat.translations?.[locale.value]?.title || 'Nepoznata kategorija'
@@ -55,7 +76,7 @@ function updateCategoryInfo() {
 }
 
 onMounted(() => {
-  pojmovi.value = rawData.filter((item) => item.category?.id === categoryId)
+  allPojmovi.value = rawData.filter((item) => item.category?.id === categoryId)
   updateCategoryInfo()
 })
 

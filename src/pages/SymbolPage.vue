@@ -2,10 +2,17 @@
   <q-page class="q-pa-md">
     <q-btn flat icon="arrow_back" class="q-mb-md q-ml-xl q-pt-none" @click="goBack" />
 <div v-if="symbol">
+  <div class="fit row wrap justify-between items-start content-start">
+        <q-btn  icon="arrow_back" class="q-mb-md "  color="secondary" text-color="dark" @click="goPrev" size="lg"/>
+         <q-btn  icon="shuffle" class="q-mb-md "  color="accent" text-color="dark" @click="goRandom" size="lg"/>
+<q-btn  icon="arrow_forward" class="q-mb-md" color="primary" text-color="dark" @click="goNext" size="lg"/>
+
+  </div>
     <SymbolImage
       :image="symbol?.image"
       :alt="translatedTitle"
       :sound="translatedSound"
+        :onPlaySound="playSound"
       :background-color="categoryColor"
     />
 
@@ -22,7 +29,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted,watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import symbolsData from 'src/assets/symbols_data.json'
@@ -41,15 +48,23 @@ const { locale } = useI18n()
 
 
 const categoryId = Number(route.params.categoryId)
-const symbolId = Number(route.params.symbolId)
+const symbolId = computed(() => Number(route.params.symbolId))
 
 const symbol = ref(null)
 const categoryColor = ref('#ffffff')
 const isFavorite = ref(false)
 
 onMounted(() => {
+  loadSymbol()
+})
+
+watch(() => route.params.symbolId, () => {
+  loadSymbol()
+})
+function loadSymbol() {
+  const id = Number(route.params.symbolId)
   const found = symbolsData.find(
-    (item) => item.id === symbolId && item.category?.id === categoryId
+    (item) => item.id === id && item.category?.id === categoryId
   )
   if (found) {
     symbol.value = found
@@ -57,8 +72,7 @@ onMounted(() => {
   } else {
     router.replace(`/category/${categoryId}`)
   }
-})
-
+}
 function playSound() {
   const sound = symbol.value?.translations?.[locale.value]?.sound
   if (sound) {
@@ -77,5 +91,41 @@ function toggleFavorite() {
 
 function goBack() {
   router.push(`/category/${categoryId}`)
+}
+function getSymbolsInCategory() {
+
+  return symbolsData.filter((item) => item.category?.id === categoryId)
+}
+
+function goNext() {
+  const symbolsInCategory = getSymbolsInCategory()
+  const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
+  const nextIndex = (currentIndex + 1) % symbolsInCategory.length
+  const nextSymbol = symbolsInCategory[nextIndex]
+  router.push(`/pojam/${categoryId}/${nextSymbol.id}`)
+}
+function goRandom() {
+  const symbolsInCategory = getSymbolsInCategory()
+  const currentId = symbolId.value
+
+  if (symbolsInCategory.length <= 1) {
+    // No other symbol to go to
+    return
+  }
+
+  let randomSymbol
+  do {
+    const randomIndex = Math.floor(Math.random() * symbolsInCategory.length)
+    randomSymbol = symbolsInCategory[randomIndex]
+  } while (randomSymbol.id === currentId)
+
+  router.push(`/pojam/${categoryId}/${randomSymbol.id}`)
+}
+function goPrev() {
+  const symbolsInCategory = getSymbolsInCategory()
+  const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
+  const prevIndex = (currentIndex - 1 + symbolsInCategory.length) % symbolsInCategory.length
+  const prevSymbol = symbolsInCategory[prevIndex]
+  router.push(`/pojam/${categoryId}/${prevSymbol.id}`)
 }
 </script>

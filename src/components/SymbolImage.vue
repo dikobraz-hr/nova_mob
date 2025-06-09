@@ -5,26 +5,28 @@
       class="symbol-img"
       :alt="alt"
       :ratio="1/1"
+       @click="onPlaySound"
     />
   </div>
 </template>
 
 <script setup>
-const { image, alt, sound, backgroundColor } = defineProps({
+const { image, alt, backgroundColor } = defineProps({
   image: String,
   alt: String,
-  sound: String,
+  onPlaySound: Function,
   backgroundColor: {
     type: String,
     default: '#ffffff'
   }
 })
 
-function playSound() {
-  if (sound) {
-    new Audio(`/sounds/hr/${sound}`).play()
-  }
-}
+// function playSound2() {
+//   console.log(sound);
+//   if (sound) {
+//     new Audio(`/sounds/hr/${sound}`).play()
+//   }
+// }
 </script>
 
 <style scoped>
