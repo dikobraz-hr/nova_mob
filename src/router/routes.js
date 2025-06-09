@@ -10,6 +10,18 @@ const routes = [
       {path: '/pojam/:id',component: () => import('pages/SymbolPage.vue')},
       { path: '/pojam/:categoryId/:symbolId',component: () => import('src/pages/SymbolPage.vue')},
       { path: '/game',component: () => import('src/pages/GamePage.vue')},
+      {
+  path: '/instructions',
+  component: () => import('pages/InstructionsPage.vue')
+},
+{
+  path: '/terms',
+  component: () => import('pages/TermsPage.vue')
+},
+{
+  path: '/contact',
+  component: () => import('pages/ContactPage.vue')
+}
       
     
     ]
