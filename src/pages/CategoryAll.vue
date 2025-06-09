@@ -44,7 +44,7 @@ function setupTranslatedTitles() {
   categories.value.forEach(category => {
     map.set(
       category.id,
-      computed(() => category.translations?.[locale.value] || category.category || 'Bez naziva')
+      computed(() => category.translations?.[locale.value].title || category.category || 'Bez naziva')
     )
   })
   translatedTitlesMap.value = map

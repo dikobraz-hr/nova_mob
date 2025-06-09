@@ -4,6 +4,7 @@
     v-for="category in categories.slice(0, 5)"
       :key="category.id"
       class="category-slide-item"
+      
       @click="goToCategory(category.id)"
     >
       <q-img
@@ -11,6 +12,7 @@
         class="category-image"
         :alt="category.name"
         style="border-radius: 15px"
+        :style="{ backgroundColor: category.color }"
       />
       <div class="category-name">{{ category.name }}</div>
     </div>

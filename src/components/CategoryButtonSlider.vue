@@ -9,6 +9,7 @@
         dense
         class="category-button"
         @click="goToCategory(category.id)"
+             :style="{ backgroundColor: category.color }"
         :label="category.name"
       />
     </div>

@@ -35,17 +35,19 @@ const categoriesRaw = ref([])  // store full data
 onMounted(() => {
   categoriesRaw.value = categoryData.map(cat => ({
     id: cat.id,
-    name: cat.translations.hr || cat.category,
+    name: cat.translations?.[locale.value].title || cat.category,
     translations: cat.translations,
     image: `/src/assets/${cat.image}`,  //slike
+    color:cat.color
   }))
 })
 // Compute categories with reactive names depending on locale
 const categories = computed(() =>
   categoriesRaw.value.map(cat => ({
     id: cat.id,
-    name: cat.translations?.[locale.value] || cat.category,
+    name: cat.translations?.[locale.value].title || cat.category,
     image: cat.image,
+    color:cat.color
   }))
 )
 function goToRandom() {

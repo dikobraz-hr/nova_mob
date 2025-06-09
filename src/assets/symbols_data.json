@@ -21,6 +21,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -40,6 +43,10 @@
       "fr": {
         "title": "la Maman",
         "sound": "maman_fr.mp3"
+      },
+      "de": {
+        "title": "die Mama",
+        "sound": "mama_de.mp3"
       }
     }
   },
@@ -65,6 +72,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -84,6 +94,10 @@
       "fr": {
         "title": "le Papa",
         "sound": "papa_fr.mp3"
+      },
+      "de": {
+        "title": "der Papa",
+        "sound": "papa_de.mp3"
       }
     }
   },
@@ -109,6 +123,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -128,6 +145,10 @@
       "fr": {
         "title": "le Bébé",
         "sound": "bebe_fr.mp3"
+      },
+      "de": {
+        "title": "das Baby",
+        "sound": "baby_de.mp3"
       }
     }
   },
@@ -153,6 +174,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -172,6 +196,10 @@
       "fr": {
         "title": "le Garçon",
         "sound": "garcon_fr.mp3"
+      },
+      "de": {
+        "title": "der Junge",
+        "sound": "junge_de.mp3"
       }
     }
   },
@@ -197,6 +225,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -216,6 +247,10 @@
       "fr": {
         "title": "la Fille",
         "sound": "fille_fr.mp3"
+      },
+      "de": {
+        "title": "das Mädchen",
+        "sound": "madchen_de.mp3"
       }
     }
   },
@@ -241,6 +276,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -260,6 +298,10 @@
       "fr": {
         "title": "la Grand-mère",
         "sound": "grand_mere_fr.mp3"
+      },
+      "de": {
+        "title": "die Oma",
+        "sound": "oma_de.mp3"
       }
     }
   },
@@ -285,6 +327,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -304,6 +349,10 @@
       "fr": {
         "title": "le Grand-père",
         "sound": "grand_pere_fr.mp3"
+      },
+      "de": {
+        "title": "der Opa",
+        "sound": "opa_de.mp3"
       }
     }
   },
@@ -329,6 +378,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -348,6 +400,10 @@
       "fr": {
         "title": "l’Ami",
         "sound": "ami_fr.mp3"
+      },
+      "de": {
+        "title": "der Freund",
+        "sound": "freund_de.mp3"
       }
     }
   },
@@ -373,6 +429,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -392,6 +451,10 @@
       "fr": {
         "title": "le Professeur",
         "sound": "professeur_fr.mp3"
+      },
+      "de": {
+        "title": "der Lehrer",
+        "sound": "lehrer_de.mp3"
       }
     }
   },
@@ -417,6 +480,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -436,6 +502,10 @@
       "fr": {
         "title": "le Médecin",
         "sound": "medecin_fr.mp3"
+      },
+      "de": {
+        "title": "der Arzt",
+        "sound": "arzt_de.mp3"
       }
     }
   },
@@ -461,6 +531,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -480,6 +553,10 @@
       "fr": {
         "title": "la Tête",
         "sound": "tete_fr.mp3"
+      },
+      "de": {
+        "title": "der Kopf",
+        "sound": "kopf_de.mp3"
       }
     }
   },
@@ -505,6 +582,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -524,6 +604,10 @@
       "fr": {
         "title": "les Cheveux",
         "sound": "cheveux_fr.mp3"
+      },
+      "de": {
+        "title": "das Haar",
+        "sound": "haar_de.mp3"
       }
     }
   },
@@ -549,6 +633,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -568,6 +655,10 @@
       "fr": {
         "title": "l’Œil",
         "sound": "oe_il_fr.mp3"
+      },
+      "de": {
+        "title": "das Auge",
+        "sound": "auge_de.mp3"
       }
     }
   },
@@ -593,6 +684,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -612,6 +706,10 @@
       "fr": {
         "title": "l’Oreille",
         "sound": "oreille_fr.mp3"
+      },
+      "de": {
+        "title": "das Ohr",
+        "sound": "ohr_de.mp3"
       }
     }
   },
@@ -637,6 +735,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -656,6 +757,10 @@
       "fr": {
         "title": "le Nez",
         "sound": "nez_fr.mp3"
+      },
+      "de": {
+        "title": "die Nase",
+        "sound": "nase_de.mp3"
       }
     }
   },
@@ -681,6 +786,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -700,6 +808,10 @@
       "fr": {
         "title": "la Bouche",
         "sound": "bouche_fr.mp3"
+      },
+      "de": {
+        "title": "der Mund",
+        "sound": "mund_de.mp3"
       }
     }
   },
@@ -725,6 +837,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -744,6 +859,10 @@
       "fr": {
         "title": "les Dents",
         "sound": "dents_fr.mp3"
+      },
+      "de": {
+        "title": "die Zähne",
+        "sound": "zahne_de.mp3"
       }
     }
   },
@@ -769,6 +888,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -788,6 +910,10 @@
       "fr": {
         "title": "la Langue",
         "sound": "langue_fr.mp3"
+      },
+      "de": {
+        "title": "die Zunge",
+        "sound": "zunge_de.mp3"
       }
     }
   },
@@ -813,6 +939,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -832,6 +961,10 @@
       "fr": {
         "title": "le Cou",
         "sound": "cou_fr.mp3"
+      },
+      "de": {
+        "title": "der Hals",
+        "sound": "hals_de.mp3"
       }
     }
   },
@@ -857,6 +990,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -876,6 +1012,10 @@
       "fr": {
         "title": "la Main",
         "sound": "main_fr.mp3"
+      },
+      "de": {
+        "title": "die Hand",
+        "sound": "hand_de.mp3"
       }
     }
   },
@@ -901,6 +1041,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -920,6 +1063,10 @@
       "fr": {
         "title": "le Bras",
         "sound": "bras_fr.mp3"
+      },
+      "de": {
+        "title": "der Arm",
+        "sound": "arm_de.mp3"
       }
     }
   },
@@ -945,6 +1092,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -964,6 +1114,10 @@
       "fr": {
         "title": "la Jambe",
         "sound": "jambe_fr.mp3"
+      },
+      "de": {
+        "title": "das Bein",
+        "sound": "bein_de.mp3"
       }
     }
   },
@@ -989,6 +1143,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -1008,6 +1165,10 @@
       "fr": {
         "title": "le Pied",
         "sound": "pied_fr.mp3"
+      },
+      "de": {
+        "title": "der Fuß",
+        "sound": "fuss_de.mp3"
       }
     }
   },
@@ -1033,6 +1194,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -1052,6 +1216,10 @@
       "fr": {
         "title": "le Genou",
         "sound": "genou_fr.mp3"
+      },
+      "de": {
+        "title": "das Knie",
+        "sound": "knie_de.mp3"
       }
     }
   },
@@ -1077,6 +1245,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -1096,6 +1267,10 @@
       "fr": {
         "title": "le Doigt",
         "sound": "doigt_fr.mp3"
+      },
+      "de": {
+        "title": "der Finger",
+        "sound": "finger_de.mp3"
       }
     }
   },
@@ -1121,6 +1296,9 @@
         },
         "fr": {
           "title": "Les gens et le corps"
+        },
+        "de": {
+          "title": "Menschen & Körper"
         }
       }
     },
@@ -1140,6 +1318,10 @@
       "fr": {
         "title": "l’Orteil",
         "sound": "orteil_fr.mp3"
+      },
+      "de": {
+        "title": "die Zehe",
+        "sound": "zehe_de.mp3"
       }
     }
   },
@@ -1165,6 +1347,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1184,6 +1369,10 @@
       "fr": {
         "title": "le chat",
         "sound": "chat_fr.mp3"
+      },
+      "de": {
+        "title": "die Katze",
+        "sound": "katze_de.mp3"
       }
     }
   },
@@ -1209,6 +1398,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1228,6 +1420,10 @@
       "fr": {
         "title": "le chien",
         "sound": "chien_fr.mp3"
+      },
+      "de": {
+        "title": "der Hund",
+        "sound": "hund_de.mp3"
       }
     }
   },
@@ -1253,6 +1449,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1272,6 +1471,10 @@
       "fr": {
         "title": "la vache",
         "sound": "vache_fr.mp3"
+      },
+      "de": {
+        "title": "die Kuh",
+        "sound": "kuh_de.mp3"
       }
     }
   },
@@ -1297,6 +1500,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1316,6 +1522,10 @@
       "fr": {
         "title": "le cochon",
         "sound": "cochon_fr.mp3"
+      },
+      "de": {
+        "title": "das Schwein",
+        "sound": "schwein_de.mp3"
       }
     }
   },
@@ -1341,6 +1551,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1360,6 +1573,10 @@
       "fr": {
         "title": "le cheval",
         "sound": "cheval_fr.mp3"
+      },
+      "de": {
+        "title": "das Pferd",
+        "sound": "pferd_de.mp3"
       }
     }
   },
@@ -1385,6 +1602,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1404,6 +1624,10 @@
       "fr": {
         "title": "le mouton",
         "sound": "mouton_fr.mp3"
+      },
+      "de": {
+        "title": "das Schaf",
+        "sound": "schaf_de.mp3"
       }
     }
   },
@@ -1429,6 +1653,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1448,6 +1675,10 @@
       "fr": {
         "title": "la chèvre",
         "sound": "chevre_fr.mp3"
+      },
+      "de": {
+        "title": "die Ziege",
+        "sound": "ziege_de.mp3"
       }
     }
   },
@@ -1473,6 +1704,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1492,6 +1726,10 @@
       "fr": {
         "title": "le poulet",
         "sound": "poulet_fr.mp3"
+      },
+      "de": {
+        "title": "das Huhn",
+        "sound": "huhn_de.mp3"
       }
     }
   },
@@ -1517,6 +1755,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1536,6 +1777,10 @@
       "fr": {
         "title": "le canard",
         "sound": "canard_fr.mp3"
+      },
+      "de": {
+        "title": "die Ente",
+        "sound": "ente_de.mp3"
       }
     }
   },
@@ -1561,6 +1806,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1580,6 +1828,10 @@
       "fr": {
         "title": "l’oiseau",
         "sound": "oiseau_fr.mp3"
+      },
+      "de": {
+        "title": "der Vogel",
+        "sound": "vogel_de.mp3"
       }
     }
   },
@@ -1605,6 +1857,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1624,6 +1879,10 @@
       "fr": {
         "title": "le poisson",
         "sound": "poisson_fr.mp3"
+      },
+      "de": {
+        "title": "der Fisch",
+        "sound": "fisch_de.mp3"
       }
     }
   },
@@ -1649,6 +1908,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1668,6 +1930,10 @@
       "fr": {
         "title": "la grenouille",
         "sound": "grenouille_fr.mp3"
+      },
+      "de": {
+        "title": "der Frosch",
+        "sound": "frosch_de.mp3"
       }
     }
   },
@@ -1693,6 +1959,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1712,6 +1981,10 @@
       "fr": {
         "title": "l’ours",
         "sound": "ours_fr.mp3"
+      },
+      "de": {
+        "title": "der Bär",
+        "sound": "bar_de.mp3"
       }
     }
   },
@@ -1737,6 +2010,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1756,6 +2032,10 @@
       "fr": {
         "title": "le tigre",
         "sound": "tigre_fr.mp3"
+      },
+      "de": {
+        "title": "der Tiger",
+        "sound": "tiger_de.mp3"
       }
     }
   },
@@ -1781,6 +2061,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1800,6 +2083,10 @@
       "fr": {
         "title": "le lion",
         "sound": "lion_fr.mp3"
+      },
+      "de": {
+        "title": "der Löwe",
+        "sound": "lowe_de.mp3"
       }
     }
   },
@@ -1825,6 +2112,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1844,6 +2134,10 @@
       "fr": {
         "title": "l’éléphant",
         "sound": "elephant_fr.mp3"
+      },
+      "de": {
+        "title": "der Elefant",
+        "sound": "elefant_de.mp3"
       }
     }
   },
@@ -1869,6 +2163,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1888,6 +2185,10 @@
       "fr": {
         "title": "le singe",
         "sound": "singe_fr.mp3"
+      },
+      "de": {
+        "title": "der Affe",
+        "sound": "affe_de.mp3"
       }
     }
   },
@@ -1913,6 +2214,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1932,6 +2236,10 @@
       "fr": {
         "title": "le serpent",
         "sound": "serpent_fr.mp3"
+      },
+      "de": {
+        "title": "die Schlange",
+        "sound": "schlange_de.mp3"
       }
     }
   },
@@ -1957,6 +2265,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -1976,6 +2287,10 @@
       "fr": {
         "title": "la tortue",
         "sound": "tortue_fr.mp3"
+      },
+      "de": {
+        "title": "die Schildkröte",
+        "sound": "schildkrote_de.mp3"
       }
     }
   },
@@ -2001,6 +2316,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2020,6 +2338,10 @@
       "fr": {
         "title": "l’abeille",
         "sound": "abeille_fr.mp3"
+      },
+      "de": {
+        "title": "die Biene",
+        "sound": "biene_de.mp3"
       }
     }
   },
@@ -2045,6 +2367,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2064,6 +2389,10 @@
       "fr": {
         "title": "la fourmi",
         "sound": "fourmi_fr.mp3"
+      },
+      "de": {
+        "title": "die Ameise",
+        "sound": "ameise_de.mp3"
       }
     }
   },
@@ -2089,6 +2418,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2108,6 +2440,10 @@
       "fr": {
         "title": "l’araignée",
         "sound": "araignee_fr.mp3"
+      },
+      "de": {
+        "title": "die Spinne",
+        "sound": "spinne_de.mp3"
       }
     }
   },
@@ -2133,6 +2469,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2152,6 +2491,10 @@
       "fr": {
         "title": "le papillon",
         "sound": "papillon_fr.mp3"
+      },
+      "de": {
+        "title": "der Schmetterling",
+        "sound": "schmetterling_de.mp3"
       }
     }
   },
@@ -2177,6 +2520,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2196,6 +2542,10 @@
       "fr": {
         "title": "la baleine",
         "sound": "baleine_fr.mp3"
+      },
+      "de": {
+        "title": "der Wal",
+        "sound": "wal_de.mp3"
       }
     }
   },
@@ -2221,6 +2571,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2240,6 +2593,10 @@
       "fr": {
         "title": "le dauphin",
         "sound": "dauphin_fr.mp3"
+      },
+      "de": {
+        "title": "der Delfin",
+        "sound": "delfin_de.mp3"
       }
     }
   },
@@ -2265,6 +2622,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2284,6 +2644,10 @@
       "fr": {
         "title": "le requin",
         "sound": "requin_fr.mp3"
+      },
+      "de": {
+        "title": "der Hai",
+        "sound": "hai_de.mp3"
       }
     }
   },
@@ -2309,6 +2673,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2328,6 +2695,10 @@
       "fr": {
         "title": "la pieuvre",
         "sound": "pieuvre_fr.mp3"
+      },
+      "de": {
+        "title": "der Oktopus",
+        "sound": "oktopus_de.mp3"
       }
     }
   },
@@ -2353,6 +2724,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2372,6 +2746,10 @@
       "fr": {
         "title": "le crabe",
         "sound": "crabe_fr.mp3"
+      },
+      "de": {
+        "title": "die Krabbe",
+        "sound": "krabbe_de.mp3"
       }
     }
   },
@@ -2397,6 +2775,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2416,6 +2797,10 @@
       "fr": {
         "title": "le kangourou",
         "sound": "kangourou_fr.mp3"
+      },
+      "de": {
+        "title": "das Känguru",
+        "sound": "kanguru_de.mp3"
       }
     }
   },
@@ -2441,6 +2826,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2460,6 +2848,10 @@
       "fr": {
         "title": "la girafe",
         "sound": "girafe_fr.mp3"
+      },
+      "de": {
+        "title": "die Giraffe",
+        "sound": "giraffe_de.mp3"
       }
     }
   },
@@ -2485,6 +2877,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2504,6 +2899,10 @@
       "fr": {
         "title": "le zèbre",
         "sound": "zebre_fr.mp3"
+      },
+      "de": {
+        "title": "das Zebra",
+        "sound": "zebra_de.mp3"
       }
     }
   },
@@ -2529,6 +2928,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2548,6 +2950,10 @@
       "fr": {
         "title": "le renard",
         "sound": "renard_fr.mp3"
+      },
+      "de": {
+        "title": "der Fuchs",
+        "sound": "fuchs_de.mp3"
       }
     }
   },
@@ -2573,6 +2979,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2592,6 +3001,10 @@
       "fr": {
         "title": "le loup",
         "sound": "loup_fr.mp3"
+      },
+      "de": {
+        "title": "der Wolf",
+        "sound": "wolf_de.mp3"
       }
     }
   },
@@ -2617,6 +3030,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2636,6 +3052,10 @@
       "fr": {
         "title": "la souris",
         "sound": "souris_fr.mp3"
+      },
+      "de": {
+        "title": "die Maus",
+        "sound": "maus_de.mp3"
       }
     }
   },
@@ -2661,6 +3081,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2680,6 +3103,10 @@
       "fr": {
         "title": "le rat",
         "sound": "rat_fr.mp3"
+      },
+      "de": {
+        "title": "die Ratte",
+        "sound": "ratte_de.mp3"
       }
     }
   },
@@ -2705,6 +3132,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2724,6 +3154,10 @@
       "fr": {
         "title": "la chauve-souris",
         "sound": "batte_fr.mp3"
+      },
+      "de": {
+        "title": "die Fledermaus",
+        "sound": "fledermaus_de.mp3"
       }
     }
   },
@@ -2749,6 +3183,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2768,6 +3205,10 @@
       "fr": {
         "title": "le hibou",
         "sound": "hibou_fr.mp3"
+      },
+      "de": {
+        "title": "die Eule",
+        "sound": "eule_de.mp3"
       }
     }
   },
@@ -2793,6 +3234,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2812,6 +3256,10 @@
       "fr": {
         "title": "le cerf",
         "sound": "cerf_fr.mp3"
+      },
+      "de": {
+        "title": "das Reh",
+        "sound": "reh_de.mp3"
       }
     }
   },
@@ -2837,6 +3285,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2856,6 +3307,10 @@
       "fr": {
         "title": "le chameau",
         "sound": "chameau_fr.mp3"
+      },
+      "de": {
+        "title": "das Kamel",
+        "sound": "kamel_de.mp3"
       }
     }
   },
@@ -2881,6 +3336,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2900,6 +3358,10 @@
       "fr": {
         "title": "l’hippopotame",
         "sound": "hippopotame_fr.mp3"
+      },
+      "de": {
+        "title": "das Nilpferd",
+        "sound": "nilpferd_de.mp3"
       }
     }
   },
@@ -2925,6 +3387,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2944,6 +3409,10 @@
       "fr": {
         "title": "le crocodile",
         "sound": "crocodile_fr.mp3"
+      },
+      "de": {
+        "title": "das Krokodil",
+        "sound": "krokodil_de.mp3"
       }
     }
   },
@@ -2969,6 +3438,9 @@
         },
         "fr": {
           "title": "Animaux"
+        },
+        "de": {
+          "title": "Tiere"
         }
       }
     },
@@ -2988,6 +3460,10 @@
       "fr": {
         "title": "le perroquet",
         "sound": "perroquet_fr.mp3"
+      },
+      "de": {
+        "title": "der Papagei",
+        "sound": "papagei_de.mp3"
       }
     }
   },
@@ -3013,6 +3489,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3032,6 +3511,10 @@
       "fr": {
         "title": "la pomme",
         "sound": "pomme_fr.mp3"
+      },
+      "de": {
+        "title": "der Apfel",
+        "sound": "apfel_de.mp3"
       }
     }
   },
@@ -3057,6 +3540,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3076,6 +3562,10 @@
       "fr": {
         "title": "la banane",
         "sound": "banane_fr.mp3"
+      },
+      "de": {
+        "title": "die Banane",
+        "sound": "banane_de.mp3"
       }
     }
   },
@@ -3101,6 +3591,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3120,6 +3613,10 @@
       "fr": {
         "title": "l’orange",
         "sound": "orange_fr.mp3"
+      },
+      "de": {
+        "title": "die Orange",
+        "sound": "orange_de.mp3"
       }
     }
   },
@@ -3145,6 +3642,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3164,6 +3664,10 @@
       "fr": {
         "title": "le raisin",
         "sound": "raisin_fr.mp3"
+      },
+      "de": {
+        "title": "die Traube",
+        "sound": "traube_de.mp3"
       }
     }
   },
@@ -3189,6 +3693,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3208,6 +3715,10 @@
       "fr": {
         "title": "la mangue",
         "sound": "mangue_fr.mp3"
+      },
+      "de": {
+        "title": "die Mango",
+        "sound": "mango_de.mp3"
       }
     }
   },
@@ -3233,6 +3744,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3252,6 +3766,10 @@
       "fr": {
         "title": "la pastèque",
         "sound": "pasteque_fr.mp3"
+      },
+      "de": {
+        "title": "die Wassermelone",
+        "sound": "wassermelone_de.mp3"
       }
     }
   },
@@ -3277,6 +3795,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3296,6 +3817,10 @@
       "fr": {
         "title": "la fraise",
         "sound": "fraise_fr.mp3"
+      },
+      "de": {
+        "title": "die Erdbeere",
+        "sound": "erdbeere_de.mp3"
       }
     }
   },
@@ -3321,6 +3846,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3340,6 +3868,10 @@
       "fr": {
         "title": "le citron",
         "sound": "citron_fr.mp3"
+      },
+      "de": {
+        "title": "die Zitrone",
+        "sound": "zitrone_de.mp3"
       }
     }
   },
@@ -3365,6 +3897,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3384,6 +3919,10 @@
       "fr": {
         "title": "la poire",
         "sound": "poire_fr.mp3"
+      },
+      "de": {
+        "title": "die Birne",
+        "sound": "birne_de.mp3"
       }
     }
   },
@@ -3409,6 +3948,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3428,6 +3970,10 @@
       "fr": {
         "title": "l’ananas",
         "sound": "ananas_fr.mp3"
+      },
+      "de": {
+        "title": "die Ananas",
+        "sound": "ananas_de.mp3"
       }
     }
   },
@@ -3453,6 +3999,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3472,6 +4021,10 @@
       "fr": {
         "title": "la carotte",
         "sound": "carotte_fr.mp3"
+      },
+      "de": {
+        "title": "die Karotte",
+        "sound": "karotte_de.mp3"
       }
     }
   },
@@ -3497,6 +4050,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3516,6 +4072,10 @@
       "fr": {
         "title": "la pomme de terre",
         "sound": "pomme_de_terre_fr.mp3"
+      },
+      "de": {
+        "title": "die Kartoffel",
+        "sound": "kartoffel_de.mp3"
       }
     }
   },
@@ -3541,6 +4101,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3560,6 +4123,10 @@
       "fr": {
         "title": "la tomate",
         "sound": "tomate_fr.mp3"
+      },
+      "de": {
+        "title": "die Tomate",
+        "sound": "tomate_de.mp3"
       }
     }
   },
@@ -3585,6 +4152,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3604,6 +4174,10 @@
       "fr": {
         "title": "l’oignon",
         "sound": "oignon_fr.mp3"
+      },
+      "de": {
+        "title": "die Zwiebel",
+        "sound": "zwiebel_de.mp3"
       }
     }
   },
@@ -3629,6 +4203,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3648,6 +4225,10 @@
       "fr": {
         "title": "le maïs",
         "sound": "mais_fr.mp3"
+      },
+      "de": {
+        "title": "der Mais",
+        "sound": "mais_de.mp3"
       }
     }
   },
@@ -3673,6 +4254,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3692,6 +4276,10 @@
       "fr": {
         "title": "les petits pois",
         "sound": "petits_pois_fr.mp3"
+      },
+      "de": {
+        "title": "die Erbsen",
+        "sound": "erbsen_de.mp3"
       }
     }
   },
@@ -3717,6 +4305,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3736,6 +4327,10 @@
       "fr": {
         "title": "le concombre",
         "sound": "concombre_fr.mp3"
+      },
+      "de": {
+        "title": "die Gurke",
+        "sound": "gurke_de.mp3"
       }
     }
   },
@@ -3761,6 +4356,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3780,6 +4378,10 @@
       "fr": {
         "title": "la laitue",
         "sound": "laitue_fr.mp3"
+      },
+      "de": {
+        "title": "der Kopfsalat",
+        "sound": "kopfsalat_de.mp3"
       }
     }
   },
@@ -3805,6 +4407,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3824,6 +4429,10 @@
       "fr": {
         "title": "le brocoli",
         "sound": "brocoli_fr.mp3"
+      },
+      "de": {
+        "title": "der Brokkoli",
+        "sound": "brokkoli_de.mp3"
       }
     }
   },
@@ -3849,6 +4458,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3868,6 +4480,10 @@
       "fr": {
         "title": "la citrouille",
         "sound": "citrouille_fr.mp3"
+      },
+      "de": {
+        "title": "der Kürbis",
+        "sound": "kurbis_de.mp3"
       }
     }
   },
@@ -3893,6 +4509,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3912,6 +4531,10 @@
       "fr": {
         "title": "le pain",
         "sound": "pain_fr.mp3"
+      },
+      "de": {
+        "title": "das Brot",
+        "sound": "brot_de.mp3"
       }
     }
   },
@@ -3937,6 +4560,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -3956,6 +4582,10 @@
       "fr": {
         "title": "le fromage",
         "sound": "fromage_fr.mp3"
+      },
+      "de": {
+        "title": "der Käse",
+        "sound": "kase_de.mp3"
       }
     }
   },
@@ -3981,6 +4611,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4000,6 +4633,10 @@
       "fr": {
         "title": "l’œuf",
         "sound": "oe_uf_fr.mp3"
+      },
+      "de": {
+        "title": "das Ei",
+        "sound": "ei_de.mp3"
       }
     }
   },
@@ -4025,6 +4662,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4044,6 +4684,10 @@
       "fr": {
         "title": "le lait",
         "sound": "lait_fr.mp3"
+      },
+      "de": {
+        "title": "die Milch",
+        "sound": "milch_de.mp3"
       }
     }
   },
@@ -4069,6 +4713,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4088,6 +4735,10 @@
       "fr": {
         "title": "le beurre",
         "sound": "beurre_fr.mp3"
+      },
+      "de": {
+        "title": "die Butter",
+        "sound": "butter_de.mp3"
       }
     }
   },
@@ -4113,6 +4764,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4132,6 +4786,10 @@
       "fr": {
         "title": "le yaourt",
         "sound": "yaourt_fr.mp3"
+      },
+      "de": {
+        "title": "der Joghurt",
+        "sound": "joghurt_de.mp3"
       }
     }
   },
@@ -4157,6 +4815,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4176,6 +4837,10 @@
       "fr": {
         "title": "le riz",
         "sound": "riz_fr.mp3"
+      },
+      "de": {
+        "title": "der Reis",
+        "sound": "reis_de.mp3"
       }
     }
   },
@@ -4201,6 +4866,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4220,6 +4888,10 @@
       "fr": {
         "title": "les pâtes",
         "sound": "pates_fr.mp3"
+      },
+      "de": {
+        "title": "die Nudeln",
+        "sound": "nudeln_de.mp3"
       }
     }
   },
@@ -4245,6 +4917,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4264,6 +4939,10 @@
       "fr": {
         "title": "la soupe",
         "sound": "soupe_fr.mp3"
+      },
+      "de": {
+        "title": "die Suppe",
+        "sound": "suppe_de.mp3"
       }
     }
   },
@@ -4289,6 +4968,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4308,6 +4990,10 @@
       "fr": {
         "title": "la viande",
         "sound": "viande_fr.mp3"
+      },
+      "de": {
+        "title": "das Fleisch",
+        "sound": "fleisch_de.mp3"
       }
     }
   },
@@ -4333,6 +5019,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4352,6 +5041,10 @@
       "fr": {
         "title": "le poulet",
         "sound": "poulet_fr.mp3"
+      },
+      "de": {
+        "title": "das Hähnchen",
+        "sound": "hahnchen_de.mp3"
       }
     }
   },
@@ -4377,6 +5070,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4396,6 +5092,10 @@
       "fr": {
         "title": "le poisson",
         "sound": "poisson_fr.mp3"
+      },
+      "de": {
+        "title": "der Fisch",
+        "sound": "fisch_de.mp3"
       }
     }
   },
@@ -4421,6 +5121,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4440,6 +5143,10 @@
       "fr": {
         "title": "la saucisse",
         "sound": "saucisse_fr.mp3"
+      },
+      "de": {
+        "title": "die Wurst",
+        "sound": "wurst_de.mp3"
       }
     }
   },
@@ -4465,6 +5172,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4484,6 +5194,10 @@
       "fr": {
         "title": "le burger",
         "sound": "burger_fr.mp3"
+      },
+      "de": {
+        "title": "der Burger",
+        "sound": "burger_de.mp3"
       }
     }
   },
@@ -4509,6 +5223,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4528,6 +5245,10 @@
       "fr": {
         "title": "la pizza",
         "sound": "pizza_fr.mp3"
+      },
+      "de": {
+        "title": "die Pizza",
+        "sound": "pizza_de.mp3"
       }
     }
   },
@@ -4553,6 +5274,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4572,6 +5296,10 @@
       "fr": {
         "title": "le gâteau",
         "sound": "gateau_fr.mp3"
+      },
+      "de": {
+        "title": "der Kuchen",
+        "sound": "kuchen_de.mp3"
       }
     }
   },
@@ -4597,6 +5325,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4616,6 +5347,10 @@
       "fr": {
         "title": "le biscuit",
         "sound": "biscuit_fr.mp3"
+      },
+      "de": {
+        "title": "der Keks",
+        "sound": "keks_de.mp3"
       }
     }
   },
@@ -4641,6 +5376,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4660,6 +5398,10 @@
       "fr": {
         "title": "la glace",
         "sound": "glace_fr.mp3"
+      },
+      "de": {
+        "title": "das Eis",
+        "sound": "eis_de.mp3"
       }
     }
   },
@@ -4685,6 +5427,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4704,6 +5449,10 @@
       "fr": {
         "title": "les bonbons",
         "sound": "bonbons_fr.mp3"
+      },
+      "de": {
+        "title": "die Süßigkeit",
+        "sound": "sussigkeit_de.mp3"
       }
     }
   },
@@ -4729,6 +5478,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4748,6 +5500,10 @@
       "fr": {
         "title": "le jus",
         "sound": "jus_fr.mp3"
+      },
+      "de": {
+        "title": "der Saft",
+        "sound": "saft_de.mp3"
       }
     }
   },
@@ -4773,6 +5529,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4792,6 +5551,10 @@
       "fr": {
         "title": "l’eau",
         "sound": "eau_fr.mp3"
+      },
+      "de": {
+        "title": "das Wasser",
+        "sound": "wasser_de.mp3"
       }
     }
   },
@@ -4817,6 +5580,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4836,6 +5602,10 @@
       "fr": {
         "title": "le thé",
         "sound": "the_fr.mp3"
+      },
+      "de": {
+        "title": "der Tee",
+        "sound": "tee_de.mp3"
       }
     }
   },
@@ -4861,6 +5631,9 @@
         },
         "fr": {
           "title": "Nourriture et boissons"
+        },
+        "de": {
+          "title": "Essen & Trinken"
         }
       }
     },
@@ -4880,6 +5653,10 @@
       "fr": {
         "title": "le café",
         "sound": "cafe_fr.mp3"
+      },
+      "de": {
+        "title": "der Kaffee",
+        "sound": "kaffee_de.mp3"
       }
     }
   },
@@ -4905,6 +5682,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -4924,6 +5704,10 @@
       "fr": {
         "title": "la chemise",
         "sound": "chemise_fr.mp3"
+      },
+      "de": {
+        "title": "das Hemd",
+        "sound": "hemd_de.mp3"
       }
     }
   },
@@ -4949,6 +5733,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -4968,6 +5755,10 @@
       "fr": {
         "title": "le pantalon",
         "sound": "pantalon_fr.mp3"
+      },
+      "de": {
+        "title": "die Hose",
+        "sound": "hose_de.mp3"
       }
     }
   },
@@ -4993,6 +5784,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5012,6 +5806,10 @@
       "fr": {
         "title": "les shorts",
         "sound": "shorts_fr.mp3"
+      },
+      "de": {
+        "title": "die Shorts",
+        "sound": "shorts_de.mp3"
       }
     }
   },
@@ -5037,6 +5835,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5056,6 +5857,10 @@
       "fr": {
         "title": "la jupe",
         "sound": "jupe_fr.mp3"
+      },
+      "de": {
+        "title": "der Rock",
+        "sound": "rock_de.mp3"
       }
     }
   },
@@ -5081,6 +5886,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5100,6 +5908,10 @@
       "fr": {
         "title": "la robe",
         "sound": "robe_fr.mp3"
+      },
+      "de": {
+        "title": "das Kleid",
+        "sound": "kleid_de.mp3"
       }
     }
   },
@@ -5125,6 +5937,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5144,6 +5959,10 @@
       "fr": {
         "title": "la veste",
         "sound": "veste_fr.mp3"
+      },
+      "de": {
+        "title": "die Jacke",
+        "sound": "jacke_de.mp3"
       }
     }
   },
@@ -5169,6 +5988,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5188,6 +6010,10 @@
       "fr": {
         "title": "le pull-over",
         "sound": "pull_over_fr.mp3"
+      },
+      "de": {
+        "title": "der Pullover",
+        "sound": "pullover_de.mp3"
       }
     }
   },
@@ -5213,6 +6039,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5232,6 +6061,10 @@
       "fr": {
         "title": "le manteau",
         "sound": "manteau_fr.mp3"
+      },
+      "de": {
+        "title": "der Mantel",
+        "sound": "mantel_de.mp3"
       }
     }
   },
@@ -5257,6 +6090,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5276,6 +6112,10 @@
       "fr": {
         "title": "les chaussures",
         "sound": "chaussures_fr.mp3"
+      },
+      "de": {
+        "title": "die Schuhe",
+        "sound": "schuhe_de.mp3"
       }
     }
   },
@@ -5301,6 +6141,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5320,6 +6163,10 @@
       "fr": {
         "title": "les bottes",
         "sound": "bottes_fr.mp3"
+      },
+      "de": {
+        "title": "die Stiefel",
+        "sound": "stiefel_de.mp3"
       }
     }
   },
@@ -5345,6 +6192,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5364,6 +6214,10 @@
       "fr": {
         "title": "les sandales",
         "sound": "sandales_fr.mp3"
+      },
+      "de": {
+        "title": "die Sandalen",
+        "sound": "sandalen_de.mp3"
       }
     }
   },
@@ -5389,6 +6243,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5408,6 +6265,10 @@
       "fr": {
         "title": "les chaussettes",
         "sound": "chaussettes_fr.mp3"
+      },
+      "de": {
+        "title": "die Socken",
+        "sound": "socken_de.mp3"
       }
     }
   },
@@ -5433,6 +6294,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5452,6 +6316,10 @@
       "fr": {
         "title": "le chapeau",
         "sound": "chapeau_fr.mp3"
+      },
+      "de": {
+        "title": "der Hut",
+        "sound": "hut_de.mp3"
       }
     }
   },
@@ -5477,6 +6345,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5496,6 +6367,10 @@
       "fr": {
         "title": "le capuchon",
         "sound": "capuchon_fr.mp3"
+      },
+      "de": {
+        "title": "die Mütze",
+        "sound": "mutze_de.mp3"
       }
     }
   },
@@ -5521,6 +6396,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5540,6 +6418,10 @@
       "fr": {
         "title": "les gants",
         "sound": "gants_fr.mp3"
+      },
+      "de": {
+        "title": "die Handschuhe",
+        "sound": "handschuhe_de.mp3"
       }
     }
   },
@@ -5565,6 +6447,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5584,6 +6469,10 @@
       "fr": {
         "title": "le foulard",
         "sound": "foulard_fr.mp3"
+      },
+      "de": {
+        "title": "der Schal",
+        "sound": "schal_de.mp3"
       }
     }
   },
@@ -5609,6 +6498,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5628,6 +6520,10 @@
       "fr": {
         "title": "les pyjamas",
         "sound": "pyjamas_fr.mp3"
+      },
+      "de": {
+        "title": "der Schlafanzug",
+        "sound": "schlafanzug_de.mp3"
       }
     }
   },
@@ -5653,6 +6549,9 @@
         },
         "fr": {
           "title": "Vêtements"
+        },
+        "de": {
+          "title": "Kleidung"
         }
       }
     },
@@ -5672,6 +6571,10 @@
       "fr": {
         "title": "le sous-vêtement",
         "sound": "sous_vetement_fr.mp3"
+      },
+      "de": {
+        "title": "die Unterwäsche",
+        "sound": "unterwasche_de.mp3"
       }
     }
   },
@@ -5697,6 +6600,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5716,6 +6622,10 @@
       "fr": {
         "title": "la maison",
         "sound": "maison_fr.mp3"
+      },
+      "de": {
+        "title": "das Haus",
+        "sound": "haus_de.mp3"
       }
     }
   },
@@ -5741,6 +6651,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5760,6 +6673,10 @@
       "fr": {
         "title": "la porte",
         "sound": "porte_fr.mp3"
+      },
+      "de": {
+        "title": "die Tür",
+        "sound": "tur_de.mp3"
       }
     }
   },
@@ -5785,6 +6702,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5804,6 +6724,10 @@
       "fr": {
         "title": "la fenêtre",
         "sound": "fenetre_fr.mp3"
+      },
+      "de": {
+        "title": "das Fenster",
+        "sound": "fenster_de.mp3"
       }
     }
   },
@@ -5829,6 +6753,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5848,6 +6775,10 @@
       "fr": {
         "title": "le toit",
         "sound": "toit_fr.mp3"
+      },
+      "de": {
+        "title": "das Dach",
+        "sound": "dach_de.mp3"
       }
     }
   },
@@ -5873,6 +6804,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5892,6 +6826,10 @@
       "fr": {
         "title": "le mur",
         "sound": "mur_fr.mp3"
+      },
+      "de": {
+        "title": "die Wand",
+        "sound": "wand_de.mp3"
       }
     }
   },
@@ -5917,6 +6855,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5936,6 +6877,10 @@
       "fr": {
         "title": "le sol",
         "sound": "sol_fr.mp3"
+      },
+      "de": {
+        "title": "der Boden",
+        "sound": "boden_de.mp3"
       }
     }
   },
@@ -5961,6 +6906,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -5980,6 +6928,10 @@
       "fr": {
         "title": "le tableau",
         "sound": "tableau_fr.mp3"
+      },
+      "de": {
+        "title": "der Tisch",
+        "sound": "tisch_de.mp3"
       }
     }
   },
@@ -6005,6 +6957,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6024,6 +6979,10 @@
       "fr": {
         "title": "la chaise",
         "sound": "chaise_fr.mp3"
+      },
+      "de": {
+        "title": "der Stuhl",
+        "sound": "stuhl_de.mp3"
       }
     }
   },
@@ -6049,6 +7008,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6068,6 +7030,10 @@
       "fr": {
         "title": "le canapé",
         "sound": "canape_fr.mp3"
+      },
+      "de": {
+        "title": "das Sofa",
+        "sound": "sofa_de.mp3"
       }
     }
   },
@@ -6093,6 +7059,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6112,6 +7081,10 @@
       "fr": {
         "title": "le lit",
         "sound": "lit_fr.mp3"
+      },
+      "de": {
+        "title": "das Bett",
+        "sound": "bett_de.mp3"
       }
     }
   },
@@ -6137,6 +7110,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6156,6 +7132,10 @@
       "fr": {
         "title": "la lampe",
         "sound": "lampe_fr.mp3"
+      },
+      "de": {
+        "title": "die Lampe",
+        "sound": "lampe_de.mp3"
       }
     }
   },
@@ -6181,6 +7161,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6200,6 +7183,10 @@
       "fr": {
         "title": "le miroir",
         "sound": "miroir_fr.mp3"
+      },
+      "de": {
+        "title": "der Spiegel",
+        "sound": "spiegel_de.mp3"
       }
     }
   },
@@ -6225,6 +7212,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6244,6 +7234,10 @@
       "fr": {
         "title": "la horloge",
         "sound": "horloge_fr.mp3"
+      },
+      "de": {
+        "title": "die Uhr",
+        "sound": "uhr_de.mp3"
       }
     }
   },
@@ -6269,6 +7263,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6288,6 +7285,10 @@
       "fr": {
         "title": "l’image",
         "sound": "image_fr.mp3"
+      },
+      "de": {
+        "title": "das Bild",
+        "sound": "bild_de.mp3"
       }
     }
   },
@@ -6313,6 +7314,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6332,6 +7336,10 @@
       "fr": {
         "title": "le tapis",
         "sound": "tapis_fr.mp3"
+      },
+      "de": {
+        "title": "der Teppich",
+        "sound": "teppich_de.mp3"
       }
     }
   },
@@ -6357,6 +7365,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6376,6 +7387,10 @@
       "fr": {
         "title": "l’étagère",
         "sound": "etagere_fr.mp3"
+      },
+      "de": {
+        "title": "das Regal",
+        "sound": "regal_de.mp3"
       }
     }
   },
@@ -6401,6 +7416,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6420,6 +7438,10 @@
       "fr": {
         "title": "l’oreiller",
         "sound": "oreiller_fr.mp3"
+      },
+      "de": {
+        "title": "das Kissen",
+        "sound": "kissen_de.mp3"
       }
     }
   },
@@ -6445,6 +7467,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6464,6 +7489,10 @@
       "fr": {
         "title": "la couverture",
         "sound": "couverture_fr.mp3"
+      },
+      "de": {
+        "title": "die Decke",
+        "sound": "decke_de.mp3"
       }
     }
   },
@@ -6489,6 +7518,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6508,6 +7540,10 @@
       "fr": {
         "title": "la salle de bain",
         "sound": "salle_de_bain_fr.mp3"
+      },
+      "de": {
+        "title": "das Badezimmer",
+        "sound": "badezimmer_de.mp3"
       }
     }
   },
@@ -6533,6 +7569,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6552,6 +7591,10 @@
       "fr": {
         "title": "les toilettes",
         "sound": "toilettes_fr.mp3"
+      },
+      "de": {
+        "title": "die Toilette",
+        "sound": "toilette_de.mp3"
       }
     }
   },
@@ -6577,6 +7620,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6596,6 +7642,10 @@
       "fr": {
         "title": "le lavabo",
         "sound": "couler_fr.mp3"
+      },
+      "de": {
+        "title": "das Waschbecken",
+        "sound": "waschbecken_de.mp3"
       }
     }
   },
@@ -6621,6 +7671,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6640,6 +7693,10 @@
       "fr": {
         "title": "la baignoire",
         "sound": "baignoire_fr.mp3"
+      },
+      "de": {
+        "title": "die Badewanne",
+        "sound": "badewanne_de.mp3"
       }
     }
   },
@@ -6665,6 +7722,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6684,6 +7744,10 @@
       "fr": {
         "title": "la cuisine",
         "sound": "cuisine_fr.mp3"
+      },
+      "de": {
+        "title": "die Küche",
+        "sound": "kuche_de.mp3"
       }
     }
   },
@@ -6709,6 +7773,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6728,6 +7795,10 @@
       "fr": {
         "title": "le réfrigérateur",
         "sound": "refrigerateur_fr.mp3"
+      },
+      "de": {
+        "title": "der Kühlschrank",
+        "sound": "kuhlschrank_de.mp3"
       }
     }
   },
@@ -6753,6 +7824,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6772,6 +7846,10 @@
       "fr": {
         "title": "la poêle",
         "sound": "poele_fr.mp3"
+      },
+      "de": {
+        "title": "der Herd",
+        "sound": "herd_de.mp3"
       }
     }
   },
@@ -6797,6 +7875,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6816,6 +7897,10 @@
       "fr": {
         "title": "le four",
         "sound": "four_fr.mp3"
+      },
+      "de": {
+        "title": "der Ofen",
+        "sound": "ofen_de.mp3"
       }
     }
   },
@@ -6841,6 +7926,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6860,6 +7948,10 @@
       "fr": {
         "title": "la cuillère",
         "sound": "cuillere_fr.mp3"
+      },
+      "de": {
+        "title": "der Löffel",
+        "sound": "loffel_de.mp3"
       }
     }
   },
@@ -6885,6 +7977,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6904,6 +7999,10 @@
       "fr": {
         "title": "la fourchette",
         "sound": "fourchette_fr.mp3"
+      },
+      "de": {
+        "title": "die Gabel",
+        "sound": "gabel_de.mp3"
       }
     }
   },
@@ -6929,6 +8028,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6948,6 +8050,10 @@
       "fr": {
         "title": "le couteau",
         "sound": "couteau_fr.mp3"
+      },
+      "de": {
+        "title": "das Messer",
+        "sound": "messer_de.mp3"
       }
     }
   },
@@ -6973,6 +8079,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -6992,6 +8101,10 @@
       "fr": {
         "title": "la plaque",
         "sound": "plaque_fr.mp3"
+      },
+      "de": {
+        "title": "der Teller",
+        "sound": "teller_de.mp3"
       }
     }
   },
@@ -7017,6 +8130,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -7036,6 +8152,10 @@
       "fr": {
         "title": "la tasse",
         "sound": "tasse_fr.mp3"
+      },
+      "de": {
+        "title": "die Tasse",
+        "sound": "tasse_de.mp3"
       }
     }
   },
@@ -7061,6 +8181,9 @@
         },
         "fr": {
           "title": "Maison et meubles"
+        },
+        "de": {
+          "title": "Zuhause & Möbel"
         }
       }
     },
@@ -7080,6 +8203,10 @@
       "fr": {
         "title": "le bol",
         "sound": "bol_fr.mp3"
+      },
+      "de": {
+        "title": "die Schüssel",
+        "sound": "schussel_de.mp3"
       }
     }
   },
@@ -7105,6 +8232,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7124,6 +8254,10 @@
       "fr": {
         "title": "le soleil",
         "sound": "soleil_fr.mp3"
+      },
+      "de": {
+        "title": "die Sonne",
+        "sound": "sonne_de.mp3"
       }
     }
   },
@@ -7149,6 +8283,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7168,6 +8305,10 @@
       "fr": {
         "title": "la lune",
         "sound": "lune_fr.mp3"
+      },
+      "de": {
+        "title": "der Mond",
+        "sound": "mond_de.mp3"
       }
     }
   },
@@ -7193,6 +8334,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7212,6 +8356,10 @@
       "fr": {
         "title": "l’étoile",
         "sound": "etoile_fr.mp3"
+      },
+      "de": {
+        "title": "der Stern",
+        "sound": "stern_de.mp3"
       }
     }
   },
@@ -7237,6 +8385,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7256,6 +8407,10 @@
       "fr": {
         "title": "le ciel",
         "sound": "ciel_fr.mp3"
+      },
+      "de": {
+        "title": "der Himmel",
+        "sound": "himmel_de.mp3"
       }
     }
   },
@@ -7281,6 +8436,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7300,6 +8458,10 @@
       "fr": {
         "title": "le nuage",
         "sound": "nuage_fr.mp3"
+      },
+      "de": {
+        "title": "die Wolke",
+        "sound": "wolke_de.mp3"
       }
     }
   },
@@ -7325,6 +8487,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7344,6 +8509,10 @@
       "fr": {
         "title": "la pluie",
         "sound": "pluie_fr.mp3"
+      },
+      "de": {
+        "title": "der Regen",
+        "sound": "regen_de.mp3"
       }
     }
   },
@@ -7369,6 +8538,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7388,6 +8560,10 @@
       "fr": {
         "title": "la neige",
         "sound": "neige_fr.mp3"
+      },
+      "de": {
+        "title": "der Schnee",
+        "sound": "schnee_de.mp3"
       }
     }
   },
@@ -7413,6 +8589,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7432,6 +8611,10 @@
       "fr": {
         "title": "le tonnerre",
         "sound": "tonnerre_fr.mp3"
+      },
+      "de": {
+        "title": "der Donner",
+        "sound": "donner_de.mp3"
       }
     }
   },
@@ -7457,6 +8640,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7476,6 +8662,10 @@
       "fr": {
         "title": "la foudre",
         "sound": "foudre_fr.mp3"
+      },
+      "de": {
+        "title": "der Blitz",
+        "sound": "blitz_de.mp3"
       }
     }
   },
@@ -7501,6 +8691,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7520,6 +8713,10 @@
       "fr": {
         "title": "l’arc-en-ciel",
         "sound": "arc_en_ciel_fr.mp3"
+      },
+      "de": {
+        "title": "der Regenbogen",
+        "sound": "regenbogen_de.mp3"
       }
     }
   },
@@ -7545,6 +8742,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7564,6 +8764,10 @@
       "fr": {
         "title": "le vent",
         "sound": "vent_fr.mp3"
+      },
+      "de": {
+        "title": "der Wind",
+        "sound": "wind_de.mp3"
       }
     }
   },
@@ -7589,6 +8793,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7608,6 +8815,10 @@
       "fr": {
         "title": "l’arbre",
         "sound": "arbre_fr.mp3"
+      },
+      "de": {
+        "title": "der Baum",
+        "sound": "baum_de.mp3"
       }
     }
   },
@@ -7633,6 +8844,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7652,6 +8866,10 @@
       "fr": {
         "title": "la feuille",
         "sound": "feuille_fr.mp3"
+      },
+      "de": {
+        "title": "das Blatt",
+        "sound": "blatt_de.mp3"
       }
     }
   },
@@ -7677,6 +8895,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7696,6 +8917,10 @@
       "fr": {
         "title": "la fleur",
         "sound": "fleur_fr.mp3"
+      },
+      "de": {
+        "title": "die Blume",
+        "sound": "blume_de.mp3"
       }
     }
   },
@@ -7721,6 +8946,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7740,6 +8968,10 @@
       "fr": {
         "title": "l’herbe",
         "sound": "herbe_fr.mp3"
+      },
+      "de": {
+        "title": "das Gras",
+        "sound": "gras_de.mp3"
       }
     }
   },
@@ -7765,6 +8997,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7784,6 +9019,10 @@
       "fr": {
         "title": "le rocher",
         "sound": "rocher_fr.mp3"
+      },
+      "de": {
+        "title": "der Felsen",
+        "sound": "felsen_de.mp3"
       }
     }
   },
@@ -7809,6 +9048,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7828,6 +9070,10 @@
       "fr": {
         "title": "la montagne",
         "sound": "montagne_fr.mp3"
+      },
+      "de": {
+        "title": "der Berg",
+        "sound": "berg_de.mp3"
       }
     }
   },
@@ -7853,6 +9099,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7872,6 +9121,10 @@
       "fr": {
         "title": "la rivière",
         "sound": "riviere_fr.mp3"
+      },
+      "de": {
+        "title": "der Fluss",
+        "sound": "fluss_de.mp3"
       }
     }
   },
@@ -7897,6 +9150,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7916,6 +9172,10 @@
       "fr": {
         "title": "le lac",
         "sound": "lac_fr.mp3"
+      },
+      "de": {
+        "title": "der See",
+        "sound": "see_de.mp3"
       }
     }
   },
@@ -7941,6 +9201,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -7960,6 +9223,10 @@
       "fr": {
         "title": "l’océan",
         "sound": "ocean_fr.mp3"
+      },
+      "de": {
+        "title": "der Ozean",
+        "sound": "ozean_de.mp3"
       }
     }
   },
@@ -7985,6 +9252,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -8004,6 +9274,10 @@
       "fr": {
         "title": "le sable",
         "sound": "sable_fr.mp3"
+      },
+      "de": {
+        "title": "der Sand",
+        "sound": "sand_de.mp3"
       }
     }
   },
@@ -8029,6 +9303,9 @@
         },
         "fr": {
           "title": "Nature et météo"
+        },
+        "de": {
+          "title": "Natur & Wetter"
         }
       }
     },
@@ -8048,6 +9325,10 @@
       "fr": {
         "title": "la boue",
         "sound": "boue_fr.mp3"
+      },
+      "de": {
+        "title": "der Schlamm",
+        "sound": "schlamm_de.mp3"
       }
     }
   },
@@ -8073,6 +9354,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8092,6 +9376,10 @@
       "fr": {
         "title": "le rouge",
         "sound": "rouge_fr.mp3"
+      },
+      "de": {
+        "title": "rot",
+        "sound": "rot_de.mp3"
       }
     }
   },
@@ -8117,6 +9405,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8136,6 +9427,10 @@
       "fr": {
         "title": "le bleu",
         "sound": "bleu_fr.mp3"
+      },
+      "de": {
+        "title": "blau",
+        "sound": "blau_de.mp3"
       }
     }
   },
@@ -8161,6 +9456,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8180,6 +9478,10 @@
       "fr": {
         "title": "le jaune",
         "sound": "jaune_fr.mp3"
+      },
+      "de": {
+        "title": "gelb",
+        "sound": "gelb_de.mp3"
       }
     }
   },
@@ -8205,6 +9507,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8224,6 +9529,10 @@
       "fr": {
         "title": "le vert",
         "sound": "vert_fr.mp3"
+      },
+      "de": {
+        "title": "grün",
+        "sound": "grun_de.mp3"
       }
     }
   },
@@ -8249,6 +9558,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8268,6 +9580,10 @@
       "fr": {
         "title": "l’orange",
         "sound": "orange_fr.mp3"
+      },
+      "de": {
+        "title": "orange",
+        "sound": "orange_de.mp3"
       }
     }
   },
@@ -8293,6 +9609,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8312,6 +9631,10 @@
       "fr": {
         "title": "le violet",
         "sound": "violet_fr.mp3"
+      },
+      "de": {
+        "title": "lila",
+        "sound": "lila_de.mp3"
       }
     }
   },
@@ -8337,6 +9660,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8356,6 +9682,10 @@
       "fr": {
         "title": "le rose",
         "sound": "rose_fr.mp3"
+      },
+      "de": {
+        "title": "rosa",
+        "sound": "rosa_de.mp3"
       }
     }
   },
@@ -8381,6 +9711,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8400,6 +9733,10 @@
       "fr": {
         "title": "le brun",
         "sound": "brun_fr.mp3"
+      },
+      "de": {
+        "title": "braun",
+        "sound": "braun_de.mp3"
       }
     }
   },
@@ -8425,6 +9762,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8444,6 +9784,10 @@
       "fr": {
         "title": "le noir",
         "sound": "noir_fr.mp3"
+      },
+      "de": {
+        "title": "schwarz",
+        "sound": "schwarz_de.mp3"
       }
     }
   },
@@ -8469,6 +9813,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8488,6 +9835,10 @@
       "fr": {
         "title": "le blanc",
         "sound": "blanc_fr.mp3"
+      },
+      "de": {
+        "title": "weiß",
+        "sound": "weiss_de.mp3"
       }
     }
   },
@@ -8513,6 +9864,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8532,6 +9886,10 @@
       "fr": {
         "title": "le gris",
         "sound": "gris_fr.mp3"
+      },
+      "de": {
+        "title": "grau",
+        "sound": "grau_de.mp3"
       }
     }
   },
@@ -8557,6 +9915,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8576,6 +9937,10 @@
       "fr": {
         "title": "le cercle",
         "sound": "cercle_fr.mp3"
+      },
+      "de": {
+        "title": "der Kreis",
+        "sound": "kreis_de.mp3"
       }
     }
   },
@@ -8601,6 +9966,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8620,6 +9988,10 @@
       "fr": {
         "title": "le carré",
         "sound": "carre_fr.mp3"
+      },
+      "de": {
+        "title": "das Quadrat",
+        "sound": "quadrat_de.mp3"
       }
     }
   },
@@ -8645,6 +10017,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8664,6 +10039,10 @@
       "fr": {
         "title": "le triangle",
         "sound": "triangle_fr.mp3"
+      },
+      "de": {
+        "title": "das Dreieck",
+        "sound": "dreieck_de.mp3"
       }
     }
   },
@@ -8689,6 +10068,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8708,6 +10090,10 @@
       "fr": {
         "title": "le rectangle",
         "sound": "rectangle_fr.mp3"
+      },
+      "de": {
+        "title": "das Rechteck",
+        "sound": "rechteck_de.mp3"
       }
     }
   },
@@ -8733,6 +10119,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8752,6 +10141,10 @@
       "fr": {
         "title": "l’étoile",
         "sound": "etoile_fr.mp3"
+      },
+      "de": {
+        "title": "der Stern",
+        "sound": "stern_de.mp3"
       }
     }
   },
@@ -8777,6 +10170,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8796,6 +10192,10 @@
       "fr": {
         "title": "le cœur",
         "sound": "coe_ur_fr.mp3"
+      },
+      "de": {
+        "title": "das Herz",
+        "sound": "herz_de.mp3"
       }
     }
   },
@@ -8821,6 +10221,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8840,6 +10243,10 @@
       "fr": {
         "title": "l’ovale",
         "sound": "ovale_fr.mp3"
+      },
+      "de": {
+        "title": "das Oval",
+        "sound": "oval_de.mp3"
       }
     }
   },
@@ -8865,6 +10272,9 @@
         },
         "fr": {
           "title": "Couleurs et formes"
+        },
+        "de": {
+          "title": "Farben & Formen"
         }
       }
     },
@@ -8884,6 +10294,10 @@
       "fr": {
         "title": "le diamant",
         "sound": "diamant_fr.mp3"
+      },
+      "de": {
+        "title": "die Raute",
+        "sound": "raute_de.mp3"
       }
     }
   },
@@ -8909,6 +10323,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -8928,6 +10345,10 @@
       "fr": {
         "title": "le zéro",
         "sound": "zero_fr.mp3"
+      },
+      "de": {
+        "title": "null",
+        "sound": "null_de.mp3"
       }
     }
   },
@@ -8953,6 +10374,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -8972,6 +10396,10 @@
       "fr": {
         "title": "un",
         "sound": "un_fr.mp3"
+      },
+      "de": {
+        "title": "eins",
+        "sound": "eins_de.mp3"
       }
     }
   },
@@ -8997,6 +10425,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9016,6 +10447,10 @@
       "fr": {
         "title": "deux",
         "sound": "deux_fr.mp3"
+      },
+      "de": {
+        "title": "zwei",
+        "sound": "zwei_de.mp3"
       }
     }
   },
@@ -9041,6 +10476,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9060,6 +10498,10 @@
       "fr": {
         "title": "trois",
         "sound": "trois_fr.mp3"
+      },
+      "de": {
+        "title": "drei",
+        "sound": "drei_de.mp3"
       }
     }
   },
@@ -9085,6 +10527,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9104,6 +10549,10 @@
       "fr": {
         "title": "quatre",
         "sound": "quatre_fr.mp3"
+      },
+      "de": {
+        "title": "vier",
+        "sound": "vier_de.mp3"
       }
     }
   },
@@ -9129,6 +10578,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9148,6 +10600,10 @@
       "fr": {
         "title": "cinq",
         "sound": "cinq_fr.mp3"
+      },
+      "de": {
+        "title": "fünf",
+        "sound": "funf_de.mp3"
       }
     }
   },
@@ -9173,6 +10629,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9192,6 +10651,10 @@
       "fr": {
         "title": "six",
         "sound": "six_fr.mp3"
+      },
+      "de": {
+        "title": "sechs",
+        "sound": "sechs_de.mp3"
       }
     }
   },
@@ -9217,6 +10680,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9236,6 +10702,10 @@
       "fr": {
         "title": "sept",
         "sound": "sept_fr.mp3"
+      },
+      "de": {
+        "title": "sieben",
+        "sound": "sieben_de.mp3"
       }
     }
   },
@@ -9261,6 +10731,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9280,6 +10753,10 @@
       "fr": {
         "title": "huit",
         "sound": "huit_fr.mp3"
+      },
+      "de": {
+        "title": "acht",
+        "sound": "acht_de.mp3"
       }
     }
   },
@@ -9305,6 +10782,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9324,6 +10804,10 @@
       "fr": {
         "title": "neuf",
         "sound": "neuf_fr.mp3"
+      },
+      "de": {
+        "title": "neun",
+        "sound": "neun_de.mp3"
       }
     }
   },
@@ -9349,6 +10833,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9368,6 +10855,10 @@
       "fr": {
         "title": "dix",
         "sound": "dix_fr.mp3"
+      },
+      "de": {
+        "title": "zehn",
+        "sound": "zehn_de.mp3"
       }
     }
   },
@@ -9393,6 +10884,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9412,6 +10906,10 @@
       "fr": {
         "title": "onze",
         "sound": "onze_fr.mp3"
+      },
+      "de": {
+        "title": "elf",
+        "sound": "elf_de.mp3"
       }
     }
   },
@@ -9437,6 +10935,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9456,6 +10957,10 @@
       "fr": {
         "title": "douze",
         "sound": "douze_fr.mp3"
+      },
+      "de": {
+        "title": "zwölf",
+        "sound": "zwolf_de.mp3"
       }
     }
   },
@@ -9481,6 +10986,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9500,6 +11008,10 @@
       "fr": {
         "title": "treize",
         "sound": "treize_fr.mp3"
+      },
+      "de": {
+        "title": "dreizehn",
+        "sound": "dreizehn_de.mp3"
       }
     }
   },
@@ -9525,6 +11037,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9544,6 +11059,10 @@
       "fr": {
         "title": "quatorze",
         "sound": "quatorze_fr.mp3"
+      },
+      "de": {
+        "title": "vierzehn",
+        "sound": "vierzehn_de.mp3"
       }
     }
   },
@@ -9569,6 +11088,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9588,6 +11110,10 @@
       "fr": {
         "title": "quinze",
         "sound": "quinze_fr.mp3"
+      },
+      "de": {
+        "title": "fünfzehn",
+        "sound": "funfzehn_de.mp3"
       }
     }
   },
@@ -9613,6 +11139,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9632,6 +11161,10 @@
       "fr": {
         "title": "seize",
         "sound": "seize_fr.mp3"
+      },
+      "de": {
+        "title": "sechzehn",
+        "sound": "sechzehn_de.mp3"
       }
     }
   },
@@ -9657,6 +11190,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9676,6 +11212,10 @@
       "fr": {
         "title": "dix-sept",
         "sound": "dix_sept_fr.mp3"
+      },
+      "de": {
+        "title": "siebzehn",
+        "sound": "siebzehn_de.mp3"
       }
     }
   },
@@ -9701,6 +11241,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9720,6 +11263,10 @@
       "fr": {
         "title": "dix-huit",
         "sound": "dix_huit_fr.mp3"
+      },
+      "de": {
+        "title": "achtzehn",
+        "sound": "achtzehn_de.mp3"
       }
     }
   },
@@ -9745,6 +11292,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9764,6 +11314,10 @@
       "fr": {
         "title": "dix-neuf",
         "sound": "dix_neuf_fr.mp3"
+      },
+      "de": {
+        "title": "neunzehn",
+        "sound": "neunzehn_de.mp3"
       }
     }
   },
@@ -9789,6 +11343,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9808,6 +11365,10 @@
       "fr": {
         "title": "vingt",
         "sound": "vingt_fr.mp3"
+      },
+      "de": {
+        "title": "zwanzig",
+        "sound": "zwanzig_de.mp3"
       }
     }
   },
@@ -9833,6 +11394,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9852,6 +11416,10 @@
       "fr": {
         "title": "trente",
         "sound": "trente_fr.mp3"
+      },
+      "de": {
+        "title": "dreißig",
+        "sound": "dreissig_de.mp3"
       }
     }
   },
@@ -9877,6 +11445,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9896,6 +11467,10 @@
       "fr": {
         "title": "quarante",
         "sound": "quarante_fr.mp3"
+      },
+      "de": {
+        "title": "vierzig",
+        "sound": "vierzig_de.mp3"
       }
     }
   },
@@ -9921,6 +11496,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9940,6 +11518,10 @@
       "fr": {
         "title": "cinquante",
         "sound": "cinquante_fr.mp3"
+      },
+      "de": {
+        "title": "fünfzig",
+        "sound": "funfzig_de.mp3"
       }
     }
   },
@@ -9965,6 +11547,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -9984,6 +11569,10 @@
       "fr": {
         "title": "soixante",
         "sound": "soixante_fr.mp3"
+      },
+      "de": {
+        "title": "sechzig",
+        "sound": "sechzig_de.mp3"
       }
     }
   },
@@ -10009,6 +11598,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10028,6 +11620,10 @@
       "fr": {
         "title": "soixante-dix",
         "sound": "soixante_dix_fr.mp3"
+      },
+      "de": {
+        "title": "siebzig",
+        "sound": "siebzig_de.mp3"
       }
     }
   },
@@ -10053,6 +11649,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10072,6 +11671,10 @@
       "fr": {
         "title": "quatre-vingts",
         "sound": "quatre_vingts_fr.mp3"
+      },
+      "de": {
+        "title": "achtzig",
+        "sound": "achtzig_de.mp3"
       }
     }
   },
@@ -10097,6 +11700,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10116,6 +11722,10 @@
       "fr": {
         "title": "quatre-vingt-dix",
         "sound": "quatre_vingt_dix_fr.mp3"
+      },
+      "de": {
+        "title": "neunzig",
+        "sound": "neunzig_de.mp3"
       }
     }
   },
@@ -10141,6 +11751,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10160,6 +11773,10 @@
       "fr": {
         "title": "cent",
         "sound": "cent_fr.mp3"
+      },
+      "de": {
+        "title": "einhundert",
+        "sound": "einhundert_de.mp3"
       }
     }
   },
@@ -10185,6 +11802,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10204,6 +11824,10 @@
       "fr": {
         "title": "beaucoup",
         "sound": "beaucoup_fr.mp3"
+      },
+      "de": {
+        "title": "viele",
+        "sound": "viele_de.mp3"
       }
     }
   },
@@ -10229,6 +11853,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10248,6 +11875,10 @@
       "fr": {
         "title": "peu",
         "sound": "peu_fr.mp3"
+      },
+      "de": {
+        "title": "wenige",
+        "sound": "wenige_de.mp3"
       }
     }
   },
@@ -10273,6 +11904,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10292,6 +11926,10 @@
       "fr": {
         "title": "plus",
         "sound": "plus_fr.mp3"
+      },
+      "de": {
+        "title": "mehr",
+        "sound": "mehr_de.mp3"
       }
     }
   },
@@ -10317,6 +11955,9 @@
         },
         "fr": {
           "title": "Nombres et comptage"
+        },
+        "de": {
+          "title": "Zahlen & Zählen"
         }
       }
     },
@@ -10336,6 +11977,10 @@
       "fr": {
         "title": "moins",
         "sound": "moins_fr.mp3"
+      },
+      "de": {
+        "title": "weniger",
+        "sound": "weniger_de.mp3"
       }
     }
   },
@@ -10361,6 +12006,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10380,6 +12028,10 @@
       "fr": {
         "title": "Manger",
         "sound": "manger_fr.mp3"
+      },
+      "de": {
+        "title": "essen",
+        "sound": "essen_de.mp3"
       }
     }
   },
@@ -10405,6 +12057,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10424,6 +12079,10 @@
       "fr": {
         "title": "Boire",
         "sound": "boire_fr.mp3"
+      },
+      "de": {
+        "title": "trinken",
+        "sound": "trinken_de.mp3"
       }
     }
   },
@@ -10449,6 +12108,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10468,6 +12130,10 @@
       "fr": {
         "title": "Dormir",
         "sound": "dormir_fr.mp3"
+      },
+      "de": {
+        "title": "schlafen",
+        "sound": "schlafen_de.mp3"
       }
     }
   },
@@ -10493,6 +12159,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10512,6 +12181,10 @@
       "fr": {
         "title": "Courir",
         "sound": "courir_fr.mp3"
+      },
+      "de": {
+        "title": "laufen",
+        "sound": "laufen_de.mp3"
       }
     }
   },
@@ -10537,6 +12210,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10556,6 +12232,10 @@
       "fr": {
         "title": "Marcher",
         "sound": "marcher_fr.mp3"
+      },
+      "de": {
+        "title": "gehen",
+        "sound": "gehen_de.mp3"
       }
     }
   },
@@ -10581,6 +12261,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10600,6 +12283,10 @@
       "fr": {
         "title": "Sauter",
         "sound": "sauter_fr.mp3"
+      },
+      "de": {
+        "title": "springen",
+        "sound": "springen_de.mp3"
       }
     }
   },
@@ -10625,6 +12312,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10644,6 +12334,10 @@
       "fr": {
         "title": "Nager",
         "sound": "nager_fr.mp3"
+      },
+      "de": {
+        "title": "schwimmen",
+        "sound": "schwimmen_de.mp3"
       }
     }
   },
@@ -10669,6 +12363,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10688,6 +12385,10 @@
       "fr": {
         "title": "À lire",
         "sound": "a_lire_fr.mp3"
+      },
+      "de": {
+        "title": "lesen",
+        "sound": "lesen_de.mp3"
       }
     }
   },
@@ -10713,6 +12414,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10732,6 +12436,10 @@
       "fr": {
         "title": "Écrire",
         "sound": "ecrire_fr.mp3"
+      },
+      "de": {
+        "title": "schreiben",
+        "sound": "schreiben_de.mp3"
       }
     }
   },
@@ -10757,6 +12465,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10776,6 +12487,10 @@
       "fr": {
         "title": "Jouer",
         "sound": "jouer_fr.mp3"
+      },
+      "de": {
+        "title": "spielen",
+        "sound": "spielen_de.mp3"
       }
     }
   },
@@ -10801,6 +12516,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10820,6 +12538,10 @@
       "fr": {
         "title": "Chanter",
         "sound": "chanter_fr.mp3"
+      },
+      "de": {
+        "title": "singen",
+        "sound": "singen_de.mp3"
       }
     }
   },
@@ -10845,6 +12567,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10864,6 +12589,10 @@
       "fr": {
         "title": "Danser",
         "sound": "danser_fr.mp3"
+      },
+      "de": {
+        "title": "tanzen",
+        "sound": "tanzen_de.mp3"
       }
     }
   },
@@ -10889,6 +12618,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10908,6 +12640,10 @@
       "fr": {
         "title": "Dessiner",
         "sound": "dessiner_fr.mp3"
+      },
+      "de": {
+        "title": "zeichnen",
+        "sound": "zeichnen_de.mp3"
       }
     }
   },
@@ -10933,6 +12669,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10952,6 +12691,10 @@
       "fr": {
         "title": "Parler",
         "sound": "parler_fr.mp3"
+      },
+      "de": {
+        "title": "sprechen",
+        "sound": "sprechen_de.mp3"
       }
     }
   },
@@ -10977,6 +12720,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -10996,6 +12742,10 @@
       "fr": {
         "title": "Pour écouter",
         "sound": "pour_ecouter_fr.mp3"
+      },
+      "de": {
+        "title": "zuhören",
+        "sound": "zuhoren_de.mp3"
       }
     }
   },
@@ -11021,6 +12771,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11040,6 +12793,10 @@
       "fr": {
         "title": "Regarder",
         "sound": "regarder_fr.mp3"
+      },
+      "de": {
+        "title": "sehen",
+        "sound": "sehen_de.mp3"
       }
     }
   },
@@ -11065,6 +12822,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11084,6 +12844,10 @@
       "fr": {
         "title": "Pour ouvrir",
         "sound": "pour_ouvrir_fr.mp3"
+      },
+      "de": {
+        "title": "öffnen",
+        "sound": "offnen_de.mp3"
       }
     }
   },
@@ -11109,6 +12873,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11128,6 +12895,10 @@
       "fr": {
         "title": "Pour fermer",
         "sound": "pour_fermer_fr.mp3"
+      },
+      "de": {
+        "title": "schließen",
+        "sound": "schliessen_de.mp3"
       }
     }
   },
@@ -11153,6 +12924,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11172,6 +12946,10 @@
       "fr": {
         "title": "Pour aider",
         "sound": "pour_aider_fr.mp3"
+      },
+      "de": {
+        "title": "helfen",
+        "sound": "helfen_de.mp3"
       }
     }
   },
@@ -11197,6 +12975,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11216,6 +12997,10 @@
       "fr": {
         "title": "Faire",
         "sound": "faire_fr.mp3"
+      },
+      "de": {
+        "title": "machen",
+        "sound": "machen_de.mp3"
       }
     }
   },
@@ -11241,6 +13026,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11260,6 +13048,10 @@
       "fr": {
         "title": "Prendre",
         "sound": "prendre_fr.mp3"
+      },
+      "de": {
+        "title": "nehmen",
+        "sound": "nehmen_de.mp3"
       }
     }
   },
@@ -11285,6 +13077,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11304,6 +13099,10 @@
       "fr": {
         "title": "Donner",
         "sound": "donner_fr.mp3"
+      },
+      "de": {
+        "title": "geben",
+        "sound": "geben_de.mp3"
       }
     }
   },
@@ -11329,6 +13128,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11348,6 +13150,10 @@
       "fr": {
         "title": "Se laver",
         "sound": "se_laver_fr.mp3"
+      },
+      "de": {
+        "title": "waschen",
+        "sound": "waschen_de.mp3"
       }
     }
   },
@@ -11373,6 +13179,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11392,6 +13201,10 @@
       "fr": {
         "title": "Apprendre",
         "sound": "apprendre_fr.mp3"
+      },
+      "de": {
+        "title": "lernen",
+        "sound": "lernen_de.mp3"
       }
     }
   },
@@ -11417,6 +13230,9 @@
         },
         "fr": {
           "title": "Verbes"
+        },
+        "de": {
+          "title": "Verben"
         }
       }
     },
@@ -11436,6 +13252,10 @@
       "fr": {
         "title": "Compter",
         "sound": "compter_fr.mp3"
+      },
+      "de": {
+        "title": "zählen",
+        "sound": "zahlen_de.mp3"
       }
     }
   },
@@ -11461,6 +13281,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11480,6 +13303,10 @@
       "fr": {
         "title": "Grand",
         "sound": "grand_fr.mp3"
+      },
+      "de": {
+        "title": "groß",
+        "sound": "gross_de.mp3"
       }
     }
   },
@@ -11505,6 +13332,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11524,6 +13354,10 @@
       "fr": {
         "title": "Petit",
         "sound": "petit_fr.mp3"
+      },
+      "de": {
+        "title": "klein",
+        "sound": "klein_de.mp3"
       }
     }
   },
@@ -11549,6 +13383,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11568,6 +13405,10 @@
       "fr": {
         "title": "Long",
         "sound": "long_fr.mp3"
+      },
+      "de": {
+        "title": "lang",
+        "sound": "lang_de.mp3"
       }
     }
   },
@@ -11593,6 +13434,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11612,6 +13456,10 @@
       "fr": {
         "title": "Court",
         "sound": "court_fr.mp3"
+      },
+      "de": {
+        "title": "kurz",
+        "sound": "kurz_de.mp3"
       }
     }
   },
@@ -11637,6 +13485,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11656,6 +13507,10 @@
       "fr": {
         "title": "Rapide",
         "sound": "rapide_fr.mp3"
+      },
+      "de": {
+        "title": "schnell",
+        "sound": "schnell_de.mp3"
       }
     }
   },
@@ -11681,6 +13536,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11700,6 +13558,10 @@
       "fr": {
         "title": "Lent",
         "sound": "lent_fr.mp3"
+      },
+      "de": {
+        "title": "langsam",
+        "sound": "langsam_de.mp3"
       }
     }
   },
@@ -11725,6 +13587,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11744,6 +13609,10 @@
       "fr": {
         "title": "Chaud",
         "sound": "chaud_fr.mp3"
+      },
+      "de": {
+        "title": "heiß",
+        "sound": "heiss_de.mp3"
       }
     }
   },
@@ -11769,6 +13638,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11788,6 +13660,10 @@
       "fr": {
         "title": "Froid",
         "sound": "froid_fr.mp3"
+      },
+      "de": {
+        "title": "kalt",
+        "sound": "kalt_de.mp3"
       }
     }
   },
@@ -11813,6 +13689,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11832,6 +13711,10 @@
       "fr": {
         "title": "Heureux",
         "sound": "heureux_fr.mp3"
+      },
+      "de": {
+        "title": "glücklich",
+        "sound": "glucklich_de.mp3"
       }
     }
   },
@@ -11857,6 +13740,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11876,6 +13762,10 @@
       "fr": {
         "title": "Triste",
         "sound": "triste_fr.mp3"
+      },
+      "de": {
+        "title": "traurig",
+        "sound": "traurig_de.mp3"
       }
     }
   },
@@ -11901,6 +13791,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11920,6 +13813,10 @@
       "fr": {
         "title": "En colère",
         "sound": "en_colere_fr.mp3"
+      },
+      "de": {
+        "title": "wütend",
+        "sound": "wutend_de.mp3"
       }
     }
   },
@@ -11945,6 +13842,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -11964,6 +13864,10 @@
       "fr": {
         "title": "Drôle",
         "sound": "drole_fr.mp3"
+      },
+      "de": {
+        "title": "lustig",
+        "sound": "lustig_de.mp3"
       }
     }
   },
@@ -11989,6 +13893,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12008,6 +13915,10 @@
       "fr": {
         "title": "Fort",
         "sound": "fort_fr.mp3"
+      },
+      "de": {
+        "title": "laut",
+        "sound": "laut_de.mp3"
       }
     }
   },
@@ -12033,6 +13944,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12052,6 +13966,10 @@
       "fr": {
         "title": "Calme",
         "sound": "calme_fr.mp3"
+      },
+      "de": {
+        "title": "leise",
+        "sound": "leise_de.mp3"
       }
     }
   },
@@ -12077,6 +13995,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12096,6 +14017,10 @@
       "fr": {
         "title": "Doux",
         "sound": "doux_fr.mp3"
+      },
+      "de": {
+        "title": "weich",
+        "sound": "weich_de.mp3"
       }
     }
   },
@@ -12121,6 +14046,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12140,6 +14068,10 @@
       "fr": {
         "title": "Dur",
         "sound": "dur_fr.mp3"
+      },
+      "de": {
+        "title": "hart",
+        "sound": "hart_de.mp3"
       }
     }
   },
@@ -12165,6 +14097,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12184,6 +14119,10 @@
       "fr": {
         "title": "Faire le ménage",
         "sound": "faire_le_menage_fr.mp3"
+      },
+      "de": {
+        "title": "sauber",
+        "sound": "sauber_de.mp3"
       }
     }
   },
@@ -12209,6 +14148,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12228,6 +14170,10 @@
       "fr": {
         "title": "Sale",
         "sound": "sale_fr.mp3"
+      },
+      "de": {
+        "title": "schmutzig",
+        "sound": "schmutzig_de.mp3"
       }
     }
   },
@@ -12253,6 +14199,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12272,6 +14221,10 @@
       "fr": {
         "title": "Complet",
         "sound": "complet_fr.mp3"
+      },
+      "de": {
+        "title": "voll",
+        "sound": "voll_de.mp3"
       }
     }
   },
@@ -12297,6 +14250,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12316,6 +14272,10 @@
       "fr": {
         "title": "Vide",
         "sound": "vide_fr.mp3"
+      },
+      "de": {
+        "title": "leer",
+        "sound": "leer_de.mp3"
       }
     }
   },
@@ -12341,6 +14301,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12360,6 +14323,10 @@
       "fr": {
         "title": "Nouveau",
         "sound": "nouveau_fr.mp3"
+      },
+      "de": {
+        "title": "neu",
+        "sound": "neu_de.mp3"
       }
     }
   },
@@ -12385,6 +14352,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12404,6 +14374,10 @@
       "fr": {
         "title": "Vieux",
         "sound": "vieux_fr.mp3"
+      },
+      "de": {
+        "title": "alt",
+        "sound": "alt_de.mp3"
       }
     }
   },
@@ -12429,6 +14403,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12448,6 +14425,10 @@
       "fr": {
         "title": "Bien",
         "sound": "bien_fr.mp3"
+      },
+      "de": {
+        "title": "gut",
+        "sound": "gut_de.mp3"
       }
     }
   },
@@ -12473,6 +14454,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12492,6 +14476,10 @@
       "fr": {
         "title": "Mauvais",
         "sound": "mauvais_fr.mp3"
+      },
+      "de": {
+        "title": "schlecht",
+        "sound": "schlecht_de.mp3"
       }
     }
   },
@@ -12517,6 +14505,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12536,6 +14527,10 @@
       "fr": {
         "title": "Beau",
         "sound": "beau_fr.mp3"
+      },
+      "de": {
+        "title": "schön",
+        "sound": "schon_de.mp3"
       }
     }
   },
@@ -12561,6 +14556,9 @@
         },
         "fr": {
           "title": "Adjectifs"
+        },
+        "de": {
+          "title": "Adjektive"
         }
       }
     },
@@ -12580,6 +14578,10 @@
       "fr": {
         "title": "Laid",
         "sound": "laid_fr.mp3"
+      },
+      "de": {
+        "title": "hässlich",
+        "sound": "hasslich_de.mp3"
       }
     }
   },
@@ -12605,6 +14607,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12624,6 +14629,10 @@
       "fr": {
         "title": "La maison",
         "sound": "maison_fr.mp3"
+      },
+      "de": {
+        "title": "das Haus",
+        "sound": "haus_de.mp3"
       }
     }
   },
@@ -12649,6 +14658,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12668,6 +14680,10 @@
       "fr": {
         "title": "L’école",
         "sound": "ecole_fr.mp3"
+      },
+      "de": {
+        "title": "die Schule",
+        "sound": "schule_de.mp3"
       }
     }
   },
@@ -12693,6 +14709,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12712,6 +14731,10 @@
       "fr": {
         "title": "Le parc",
         "sound": "parc_fr.mp3"
+      },
+      "de": {
+        "title": "der Park",
+        "sound": "park_de.mp3"
       }
     }
   },
@@ -12737,6 +14760,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12756,6 +14782,10 @@
       "fr": {
         "title": "L’aire de jeux",
         "sound": "aire_de_jeux_fr.mp3"
+      },
+      "de": {
+        "title": "der Spielplatz",
+        "sound": "spielplatz_de.mp3"
       }
     }
   },
@@ -12781,6 +14811,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12800,6 +14833,10 @@
       "fr": {
         "title": "Le magasin",
         "sound": "magasin_fr.mp3"
+      },
+      "de": {
+        "title": "das Geschäft",
+        "sound": "geschaft_de.mp3"
       }
     }
   },
@@ -12825,6 +14862,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12844,6 +14884,10 @@
       "fr": {
         "title": "L’hôpital",
         "sound": "hopital_fr.mp3"
+      },
+      "de": {
+        "title": "das Krankenhaus",
+        "sound": "krankenhaus_de.mp3"
       }
     }
   },
@@ -12869,6 +14913,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12888,6 +14935,10 @@
       "fr": {
         "title": "La bibliothèque",
         "sound": "bibliotheque_fr.mp3"
+      },
+      "de": {
+        "title": "die Bibliothek",
+        "sound": "bibliothek_de.mp3"
       }
     }
   },
@@ -12913,6 +14964,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12932,6 +14986,10 @@
       "fr": {
         "title": "Le zoo",
         "sound": "zoo_fr.mp3"
+      },
+      "de": {
+        "title": "der Zoo",
+        "sound": "zoo_de.mp3"
       }
     }
   },
@@ -12957,6 +15015,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -12976,6 +15037,10 @@
       "fr": {
         "title": "La plage",
         "sound": "plage_fr.mp3"
+      },
+      "de": {
+        "title": "der Strand",
+        "sound": "strand_de.mp3"
       }
     }
   },
@@ -13001,6 +15066,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13020,6 +15088,10 @@
       "fr": {
         "title": "La forêt",
         "sound": "foret_fr.mp3"
+      },
+      "de": {
+        "title": "der Wald",
+        "sound": "wald_de.mp3"
       }
     }
   },
@@ -13045,6 +15117,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13064,6 +15139,10 @@
       "fr": {
         "title": "La ville",
         "sound": "ville_fr.mp3"
+      },
+      "de": {
+        "title": "die Stadt",
+        "sound": "stadt_de.mp3"
       }
     }
   },
@@ -13089,6 +15168,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13108,6 +15190,10 @@
       "fr": {
         "title": "Le village",
         "sound": "village_fr.mp3"
+      },
+      "de": {
+        "title": "das Dorf",
+        "sound": "dorf_de.mp3"
       }
     }
   },
@@ -13133,6 +15219,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13152,6 +15241,10 @@
       "fr": {
         "title": "La voiture",
         "sound": "voiture_fr.mp3"
+      },
+      "de": {
+        "title": "das Auto",
+        "sound": "auto_de.mp3"
       }
     }
   },
@@ -13177,6 +15270,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13196,6 +15292,10 @@
       "fr": {
         "title": "Le bus",
         "sound": "bus_fr.mp3"
+      },
+      "de": {
+        "title": "der Bus",
+        "sound": "bus_de.mp3"
       }
     }
   },
@@ -13221,6 +15321,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13240,6 +15343,10 @@
       "fr": {
         "title": "Le train",
         "sound": "former_fr.mp3"
+      },
+      "de": {
+        "title": "der Zug",
+        "sound": "zug_de.mp3"
       }
     }
   },
@@ -13265,6 +15372,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13284,6 +15394,10 @@
       "fr": {
         "title": "L’avion",
         "sound": "avion_fr.mp3"
+      },
+      "de": {
+        "title": "das Flugzeug",
+        "sound": "flugzeug_de.mp3"
       }
     }
   },
@@ -13309,6 +15423,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13328,6 +15445,10 @@
       "fr": {
         "title": "Le bateau",
         "sound": "bateau_fr.mp3"
+      },
+      "de": {
+        "title": "das Boot",
+        "sound": "boot_de.mp3"
       }
     }
   },
@@ -13353,6 +15474,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13372,6 +15496,10 @@
       "fr": {
         "title": "Le vélo",
         "sound": "velo_fr.mp3"
+      },
+      "de": {
+        "title": "das Fahrrad",
+        "sound": "fahrrad_de.mp3"
       }
     }
   },
@@ -13397,6 +15525,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13416,6 +15547,10 @@
       "fr": {
         "title": "La moto",
         "sound": "moto_fr.mp3"
+      },
+      "de": {
+        "title": "das Motorrad",
+        "sound": "motorrad_de.mp3"
       }
     }
   },
@@ -13441,6 +15576,9 @@
         },
         "fr": {
           "title": "Lieux et transports"
+        },
+        "de": {
+          "title": "Orte & Verkehrsmittel"
         }
       }
     },
@@ -13460,6 +15598,10 @@
       "fr": {
         "title": "Le camion",
         "sound": "camion_fr.mp3"
+      },
+      "de": {
+        "title": "der Lastwagen",
+        "sound": "lastwagen_de.mp3"
       }
     }
   },
@@ -13485,6 +15627,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13504,6 +15649,10 @@
       "fr": {
         "title": "Le livre",
         "sound": "livre_fr.mp3"
+      },
+      "de": {
+        "title": "das Buch",
+        "sound": "buch_de.mp3"
       }
     }
   },
@@ -13529,6 +15678,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13548,6 +15700,10 @@
       "fr": {
         "title": "Le crayon",
         "sound": "crayon_fr.mp3"
+      },
+      "de": {
+        "title": "der Bleistift",
+        "sound": "bleistift_de.mp3"
       }
     }
   },
@@ -13573,6 +15729,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13592,6 +15751,10 @@
       "fr": {
         "title": "Le stylo",
         "sound": "stylo_fr.mp3"
+      },
+      "de": {
+        "title": "der Stift",
+        "sound": "stift_de.mp3"
       }
     }
   },
@@ -13617,6 +15780,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13636,6 +15802,10 @@
       "fr": {
         "title": "La gomme",
         "sound": "gomme_fr.mp3"
+      },
+      "de": {
+        "title": "der Radiergummi",
+        "sound": "radiergummi_de.mp3"
       }
     }
   },
@@ -13661,6 +15831,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13680,6 +15853,10 @@
       "fr": {
         "title": "Le carnet de notes",
         "sound": "carnet_de_notes_fr.mp3"
+      },
+      "de": {
+        "title": "das Notizbuch",
+        "sound": "notizbuch_de.mp3"
       }
     }
   },
@@ -13705,6 +15882,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13724,6 +15904,10 @@
       "fr": {
         "title": "Le sac à dos",
         "sound": "sac_a_dos_fr.mp3"
+      },
+      "de": {
+        "title": "der Rucksack",
+        "sound": "rucksack_de.mp3"
       }
     }
   },
@@ -13749,6 +15933,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13768,6 +15955,10 @@
       "fr": {
         "title": "La chaise",
         "sound": "chaise_fr.mp3"
+      },
+      "de": {
+        "title": "der Stuhl",
+        "sound": "stuhl_de.mp3"
       }
     }
   },
@@ -13793,6 +15984,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13812,6 +16006,10 @@
       "fr": {
         "title": "Le bureau",
         "sound": "bureau_fr.mp3"
+      },
+      "de": {
+        "title": "der Schreibtisch",
+        "sound": "schreibtisch_de.mp3"
       }
     }
   },
@@ -13837,6 +16035,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13856,6 +16057,10 @@
       "fr": {
         "title": "Le tableau",
         "sound": "conseil_fr.mp3"
+      },
+      "de": {
+        "title": "die Tafel",
+        "sound": "tafel_de.mp3"
       }
     }
   },
@@ -13881,6 +16086,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13900,6 +16108,10 @@
       "fr": {
         "title": "Le professeur",
         "sound": "professeur_fr.mp3"
+      },
+      "de": {
+        "title": "der Lehrer / die Lehrerin",
+        "sound": "lehrer_/_die_lehrerin_de.mp3"
       }
     }
   },
@@ -13925,6 +16137,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13944,6 +16159,10 @@
       "fr": {
         "title": "L’étudiant",
         "sound": "etudiant_fr.mp3"
+      },
+      "de": {
+        "title": "der Schüler / die Schülerin",
+        "sound": "schuler_/_die_schulerin_de.mp3"
       }
     }
   },
@@ -13969,6 +16188,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -13988,6 +16210,10 @@
       "fr": {
         "title": "La classe",
         "sound": "classe_fr.mp3"
+      },
+      "de": {
+        "title": "die Klasse",
+        "sound": "klasse_de.mp3"
       }
     }
   },
@@ -14013,6 +16239,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -14032,6 +16261,10 @@
       "fr": {
         "title": "La leçon",
         "sound": "lecon_fr.mp3"
+      },
+      "de": {
+        "title": "die Lektion",
+        "sound": "lektion_de.mp3"
       }
     }
   },
@@ -14057,6 +16290,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -14076,6 +16312,10 @@
       "fr": {
         "title": "Les nombres",
         "sound": "nombres_fr.mp3"
+      },
+      "de": {
+        "title": "die Zahlen",
+        "sound": "zahlen_de.mp3"
       }
     }
   },
@@ -14101,6 +16341,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -14120,6 +16363,10 @@
       "fr": {
         "title": "Les lettres",
         "sound": "courrier_fr.mp3"
+      },
+      "de": {
+        "title": "die Buchstaben",
+        "sound": "buchstaben_de.mp3"
       }
     }
   },
@@ -14145,6 +16392,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -14164,6 +16414,10 @@
       "fr": {
         "title": "Les formes",
         "sound": "formes_fr.mp3"
+      },
+      "de": {
+        "title": "die Formen",
+        "sound": "formen_de.mp3"
       }
     }
   },
@@ -14189,6 +16443,9 @@
         },
         "fr": {
           "title": "École et apprentissage"
+        },
+        "de": {
+          "title": "Schule & Lernen"
         }
       }
     },
@@ -14208,6 +16465,10 @@
       "fr": {
         "title": "Les couleurs",
         "sound": "couleurs_fr.mp3"
+      },
+      "de": {
+        "title": "die Farben",
+        "sound": "farben_de.mp3"
       }
     }
   },
@@ -14233,6 +16494,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14252,6 +16516,10 @@
       "fr": {
         "title": "Réveillez-vous",
         "sound": "reveillez_vous_fr.mp3"
+      },
+      "de": {
+        "title": "aufwachen",
+        "sound": "aufwachen_de.mp3"
       }
     }
   },
@@ -14277,6 +16545,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14296,6 +16567,10 @@
       "fr": {
         "title": "Se lever",
         "sound": "se_lever_fr.mp3"
+      },
+      "de": {
+        "title": "aufstehen",
+        "sound": "aufstehen_de.mp3"
       }
     }
   },
@@ -14321,6 +16596,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14340,6 +16618,10 @@
       "fr": {
         "title": "Se brosser les dents",
         "sound": "se_brosser_les_dents_fr.mp3"
+      },
+      "de": {
+        "title": "Zähne putzen",
+        "sound": "putzen_de.mp3"
       }
     }
   },
@@ -14365,6 +16647,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14384,6 +16669,10 @@
       "fr": {
         "title": "Se laver le visage",
         "sound": "se_laver_le_visage_fr.mp3"
+      },
+      "de": {
+        "title": "das Gesicht waschen",
+        "sound": "gesicht_waschen_de.mp3"
       }
     }
   },
@@ -14409,6 +16698,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14428,6 +16720,10 @@
       "fr": {
         "title": "Prendre un bain",
         "sound": "prendre_un_bain_fr.mp3"
+      },
+      "de": {
+        "title": "baden",
+        "sound": "baden_de.mp3"
       }
     }
   },
@@ -14453,6 +16749,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14472,6 +16771,10 @@
       "fr": {
         "title": "S'habiller",
         "sound": "s_habiller_fr.mp3"
+      },
+      "de": {
+        "title": "sich anziehen",
+        "sound": "anziehen_de.mp3"
       }
     }
   },
@@ -14497,6 +16800,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14516,6 +16822,10 @@
       "fr": {
         "title": "Prendre le petit déjeuner",
         "sound": "prendre_le_petit_dejeuner_fr.mp3"
+      },
+      "de": {
+        "title": "frühstücken",
+        "sound": "anziehen_de.mp4"
       }
     }
   },
@@ -14541,6 +16851,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14560,6 +16873,10 @@
       "fr": {
         "title": "Aller à l'école",
         "sound": "aller_a_l_ecole_fr.mp3"
+      },
+      "de": {
+        "title": "zur Schule gehen",
+        "sound": "schule_gehen_de.mp3"
       }
     }
   },
@@ -14585,6 +16902,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14604,6 +16924,10 @@
       "fr": {
         "title": "Rentrer à la maison",
         "sound": "rentrer_a_la_maison_fr.mp3"
+      },
+      "de": {
+        "title": "nach Hause kommen",
+        "sound": "hause_kommen_de.mp3"
       }
     }
   },
@@ -14629,6 +16953,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14648,6 +16975,10 @@
       "fr": {
         "title": "Déjeuner",
         "sound": "dejeuner_fr.mp3"
+      },
+      "de": {
+        "title": "Mittag essen",
+        "sound": "essen_de.mp3"
       }
     }
   },
@@ -14673,6 +17004,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14692,6 +17026,10 @@
       "fr": {
         "title": "Faire ses devoirs",
         "sound": "faire_ses_devoirs_fr.mp3"
+      },
+      "de": {
+        "title": "Hausaufgaben machen",
+        "sound": "machen_de.mp3"
       }
     }
   },
@@ -14717,6 +17055,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14736,6 +17077,10 @@
       "fr": {
         "title": "Jouer",
         "sound": "jouer_fr.mp3"
+      },
+      "de": {
+        "title": "spielen",
+        "sound": "spielen_de.mp3"
       }
     }
   },
@@ -14761,6 +17106,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14780,6 +17128,10 @@
       "fr": {
         "title": "Dîner",
         "sound": "diner_fr.mp3"
+      },
+      "de": {
+        "title": "Abendessen essen",
+        "sound": "abendessen _essen_de.mp3"
       }
     }
   },
@@ -14805,6 +17157,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14824,6 +17179,10 @@
       "fr": {
         "title": "Aller au lit",
         "sound": "aller_au_lit_fr.mp3"
+      },
+      "de": {
+        "title": "ins Bett gehen",
+        "sound": "bett_gehen_de.mp3"
       }
     }
   },
@@ -14849,6 +17208,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14868,6 +17230,10 @@
       "fr": {
         "title": "Dormir",
         "sound": "dormir_fr.mp3"
+      },
+      "de": {
+        "title": "schlafen",
+        "sound": "schlafen_de.mp3"
       }
     }
   },
@@ -14893,6 +17259,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14912,6 +17281,10 @@
       "fr": {
         "title": "Bonjour",
         "sound": "bonjour_fr.mp3"
+      },
+      "de": {
+        "title": "Hallo",
+        "sound": "hallo_de.mp3"
       }
     }
   },
@@ -14937,6 +17310,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -14956,6 +17332,10 @@
       "fr": {
         "title": "Au revoir",
         "sound": "au_revoir_fr.mp3"
+      },
+      "de": {
+        "title": "Auf Wiedersehen",
+        "sound": "wiedersehen_de.mp3"
       }
     }
   },
@@ -14981,6 +17361,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15000,6 +17383,10 @@
       "fr": {
         "title": "S'il te plaît",
         "sound": "s_il_te_plait_fr.mp3"
+      },
+      "de": {
+        "title": "Bitte",
+        "sound": "bitte_de.mp3"
       }
     }
   },
@@ -15025,6 +17412,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15044,6 +17434,10 @@
       "fr": {
         "title": "Merci",
         "sound": "merci_fr.mp3"
+      },
+      "de": {
+        "title": "Danke",
+        "sound": "danke_de.mp3"
       }
     }
   },
@@ -15069,6 +17463,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15088,6 +17485,10 @@
       "fr": {
         "title": "Vous êtes les bienvenus",
         "sound": "vous_etes_les_bienvenus_fr.mp3"
+      },
+      "de": {
+        "title": "Bitte schön / Gern geschehen",
+        "sound": "schon_/_gern_geschehen_de.mp3"
       }
     }
   },
@@ -15113,6 +17514,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15132,6 +17536,10 @@
       "fr": {
         "title": "Désolé",
         "sound": "desole_fr.mp3"
+      },
+      "de": {
+        "title": "Entschuldigung",
+        "sound": "entschuldigung_de.mp3"
       }
     }
   },
@@ -15157,6 +17565,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15176,6 +17587,10 @@
       "fr": {
         "title": "Oui",
         "sound": "oui_fr.mp3"
+      },
+      "de": {
+        "title": "Ja",
+        "sound": "ja_de.mp3"
       }
     }
   },
@@ -15201,6 +17616,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15220,6 +17638,10 @@
       "fr": {
         "title": "Non",
         "sound": "non_fr.mp3"
+      },
+      "de": {
+        "title": "Nein",
+        "sound": "nein_de.mp3"
       }
     }
   },
@@ -15245,6 +17667,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15264,6 +17689,10 @@
       "fr": {
         "title": "Qu'est-ce que c'est?",
         "sound": "qu_est_ce_que_c_est__fr.mp3"
+      },
+      "de": {
+        "title": "Was ist das?",
+        "sound": "ist_das_de.mp3"
       }
     }
   },
@@ -15289,6 +17718,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15308,6 +17740,10 @@
       "fr": {
         "title": "Je ne sais pas",
         "sound": "je_ne_sais_pas_fr.mp3"
+      },
+      "de": {
+        "title": "Ich weiß nicht",
+        "sound": "weiss_nicht_de.mp3"
       }
     }
   },
@@ -15333,6 +17769,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15352,6 +17791,10 @@
       "fr": {
         "title": "J'aime ça",
         "sound": "j_aime_ca_fr.mp3"
+      },
+      "de": {
+        "title": "Ich mag es",
+        "sound": "mag_es_de.mp3"
       }
     }
   },
@@ -15377,6 +17820,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15396,6 +17842,10 @@
       "fr": {
         "title": "Je n'aime pas ça",
         "sound": "je_n_aime_pas_ca_fr.mp3"
+      },
+      "de": {
+        "title": "Ich mag es nicht",
+        "sound": "mag_es_nicht_de.mp3"
       }
     }
   },
@@ -15421,6 +17871,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15440,6 +17893,10 @@
       "fr": {
         "title": "Aide!",
         "sound": "aide__fr.mp3"
+      },
+      "de": {
+        "title": "Hilfe!",
+        "sound": "hilfe_de.mp3"
       }
     }
   },
@@ -15465,6 +17922,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15484,6 +17944,10 @@
       "fr": {
         "title": "Allons-y",
         "sound": "allons_y_fr.mp3"
+      },
+      "de": {
+        "title": "Lass uns gehen",
+        "sound": "uns_gehen_de.mp3"
       }
     }
   },
@@ -15509,6 +17973,9 @@
         },
         "fr": {
           "title": "Actions / Phrases courantes"
+        },
+        "de": {
+          "title": "Handlungen / Alltägliche Ausdrücke"
         }
       }
     },
@@ -15528,6 +17995,10 @@
       "fr": {
         "title": "Attendez",
         "sound": "attendez_fr.mp3"
+      },
+      "de": {
+        "title": "Warte!",
+        "sound": "warte_de.mp3"
       }
     }
   },
@@ -15553,6 +18024,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15562,7 +18036,7 @@
         "sound": "toy.mp3"
       },
       "es": {
-        "title": "Juguete",
+        "title": "El juguete",
         "sound": "juguete_es.mp3"
       },
       "hr": {
@@ -15570,8 +18044,12 @@
         "sound": "igracka.mp3"
       },
       "fr": {
-        "title": "Jouet",
+        "title": "Le jouet",
         "sound": "jouet_fr.mp3"
+      },
+      "de": {
+        "title": "das Spielzeug",
+        "sound": "spielzeug_de.mp3"
       }
     }
   },
@@ -15597,6 +18075,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15606,7 +18087,7 @@
         "sound": "ball.mp3"
       },
       "es": {
-        "title": "Pelota",
+        "title": "La pelota",
         "sound": "pelota_es.mp3"
       },
       "hr": {
@@ -15614,8 +18095,12 @@
         "sound": "lopta.mp3"
       },
       "fr": {
-        "title": "Balle",
+        "title": "La balle",
         "sound": "balle_fr.mp3"
+      },
+      "de": {
+        "title": "der Ball",
+        "sound": "ball_de.mp3"
       }
     }
   },
@@ -15641,6 +18126,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15650,7 +18138,7 @@
         "sound": "doll.mp3"
       },
       "es": {
-        "title": "Muñeca",
+        "title": "La muñeca",
         "sound": "muneca_es.mp3"
       },
       "hr": {
@@ -15658,8 +18146,12 @@
         "sound": "lutka.mp3"
       },
       "fr": {
-        "title": "Poupée",
+        "title": "La poupée",
         "sound": "poupee_fr.mp3"
+      },
+      "de": {
+        "title": "die Puppe",
+        "sound": "puppe_de.mp3"
       }
     }
   },
@@ -15685,6 +18177,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15694,7 +18189,7 @@
         "sound": "puzzle.mp3"
       },
       "es": {
-        "title": "Rompecabezas",
+        "title": "El rompecabezas",
         "sound": "rompecabezas_es.mp3"
       },
       "hr": {
@@ -15702,8 +18197,12 @@
         "sound": "slagalica.mp3"
       },
       "fr": {
-        "title": "Puzzle",
+        "title": "Le puzzle",
         "sound": "puzzle_fr.mp3"
+      },
+      "de": {
+        "title": "das Puzzle",
+        "sound": "puzzle_de.mp3"
       }
     }
   },
@@ -15729,6 +18228,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15738,7 +18240,7 @@
         "sound": "blocks.mp3"
       },
       "es": {
-        "title": "Bloques",
+        "title": "Los bloques",
         "sound": "bloques_es.mp3"
       },
       "hr": {
@@ -15746,8 +18248,12 @@
         "sound": "kocke.mp3"
       },
       "fr": {
-        "title": "Blocs",
+        "title": "Les blocs",
         "sound": "blocs_fr.mp3"
+      },
+      "de": {
+        "title": "die Bausteine",
+        "sound": "bausteine_de.mp3"
       }
     }
   },
@@ -15773,6 +18279,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15782,7 +18291,7 @@
         "sound": "car_(toy).mp3"
       },
       "es": {
-        "title": "Coche (de juguete)",
+        "title": "El coche (de juguete)",
         "sound": "coche_de_juguete__es.mp3"
       },
       "hr": {
@@ -15790,8 +18299,12 @@
         "sound": "autic.mp3"
       },
       "fr": {
-        "title": "Voiture (jouet)",
+        "title": "La voiture (jouet)",
         "sound": "voiture_jouet__fr.mp3"
+      },
+      "de": {
+        "title": "das Auto (Spielzeug)",
+        "sound": "auto_spielzeug_de.mp3"
       }
     }
   },
@@ -15817,6 +18330,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15826,7 +18342,7 @@
         "sound": "teddy_bear.mp3"
       },
       "es": {
-        "title": "Oso de peluche",
+        "title": "El oso de peluche",
         "sound": "oso_de_peluche_es.mp3"
       },
       "hr": {
@@ -15834,8 +18350,12 @@
         "sound": "medvjedic.mp3"
       },
       "fr": {
-        "title": "Ours en peluche",
+        "title": "L’ours en peluche",
         "sound": "ours_en_peluche_fr.mp3"
+      },
+      "de": {
+        "title": "der Teddybär",
+        "sound": "teddybar_de.mp3"
       }
     }
   },
@@ -15861,6 +18381,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15870,7 +18393,7 @@
         "sound": "game.mp3"
       },
       "es": {
-        "title": "Juego",
+        "title": "El juego",
         "sound": "juego_es.mp3"
       },
       "hr": {
@@ -15878,8 +18401,12 @@
         "sound": "igra.mp3"
       },
       "fr": {
-        "title": "Jeu",
+        "title": "Le jeu",
         "sound": "jeu_fr.mp3"
+      },
+      "de": {
+        "title": "das Spiel",
+        "sound": "spiel_de.mp3"
       }
     }
   },
@@ -15905,6 +18432,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15914,7 +18444,7 @@
         "sound": "swing.mp3"
       },
       "es": {
-        "title": "Balancearse",
+        "title": "El columpio",
         "sound": "balancearse_es.mp3"
       },
       "hr": {
@@ -15922,8 +18452,12 @@
         "sound": "ljuljacka.mp3"
       },
       "fr": {
-        "title": "Balançoire",
+        "title": "La balançoire",
         "sound": "balancoire_fr.mp3"
+      },
+      "de": {
+        "title": "die Schaukel",
+        "sound": "schaukel_de.mp3"
       }
     }
   },
@@ -15949,6 +18483,9 @@
         },
         "fr": {
           "title": "Jouets et divertissement"
+        },
+        "de": {
+          "title": "Spielzeug & Spaß"
         }
       }
     },
@@ -15958,7 +18495,7 @@
         "sound": "slide.mp3"
       },
       "es": {
-        "title": "Deslizar",
+        "title": "El tobogán",
         "sound": "deslizar_es.mp3"
       },
       "hr": {
@@ -15966,8 +18503,12 @@
         "sound": "tobogan.mp3"
       },
       "fr": {
-        "title": "Glisser",
+        "title": "Le toboggan",
         "sound": "glisser_fr.mp3"
+      },
+      "de": {
+        "title": "die Rutsche",
+        "sound": "rutsche_de.mp3"
       }
     }
   },
@@ -15993,6 +18534,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16002,7 +18546,7 @@
         "sound": "tired.mp3"
       },
       "es": {
-        "title": "Cansado",
+        "title": "Cansado / Cansada (adj.)",
         "sound": "cansado_es.mp3"
       },
       "hr": {
@@ -16010,8 +18554,12 @@
         "sound": "umoran.mp3"
       },
       "fr": {
-        "title": "Fatigué",
+        "title": "Fatigué / Fatiguée (adj.)",
         "sound": "fatigue_fr.mp3"
+      },
+      "de": {
+        "title": "müde",
+        "sound": "müde_de.mp3"
       }
     }
   },
@@ -16037,6 +18585,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16046,7 +18597,7 @@
         "sound": "excited.mp3"
       },
       "es": {
-        "title": "Entusiasmado",
+        "title": "Entusiasmado / Entusiasmada",
         "sound": "entusiasmado_es.mp3"
       },
       "hr": {
@@ -16054,8 +18605,12 @@
         "sound": "uzbuden.mp3"
       },
       "fr": {
-        "title": "Excité",
+        "title": "Excité / Excitée",
         "sound": "excite_fr.mp3"
+      },
+      "de": {
+        "title": "aufgeregt",
+        "sound": "aufgeregt_de.mp3"
       }
     }
   },
@@ -16081,6 +18636,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16090,7 +18648,7 @@
         "sound": "scared.mp3"
       },
       "es": {
-        "title": "Asustado",
+        "title": "Asustado / Asustada",
         "sound": "asustado_es.mp3"
       },
       "hr": {
@@ -16098,8 +18656,12 @@
         "sound": "uplasen.mp3"
       },
       "fr": {
-        "title": "Effrayé",
+        "title": "Effrayé / Effrayée",
         "sound": "effraye_fr.mp3"
+      },
+      "de": {
+        "title": "ängstlich",
+        "sound": "ängstlich_de.mp3"
       }
     }
   },
@@ -16125,6 +18687,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16134,7 +18699,7 @@
         "sound": "brave.mp3"
       },
       "es": {
-        "title": "Corajudo",
+        "title": "Valiente",
         "sound": "corajudo_es.mp3"
       },
       "hr": {
@@ -16142,8 +18707,12 @@
         "sound": "hrabro.mp3"
       },
       "fr": {
-        "title": "Courageux",
+        "title": "Courageux / Courageuse",
         "sound": "courageux_fr.mp3"
+      },
+      "de": {
+        "title": "mutig",
+        "sound": "mutig_de.mp3"
       }
     }
   },
@@ -16169,6 +18738,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16178,7 +18750,7 @@
         "sound": "shy.mp3"
       },
       "es": {
-        "title": "Tímido",
+        "title": "Tímido / Tímida",
         "sound": "timido_es.mp3"
       },
       "hr": {
@@ -16188,6 +18760,10 @@
       "fr": {
         "title": "Timide",
         "sound": "timide_fr.mp3"
+      },
+      "de": {
+        "title": "schüchtern",
+        "sound": "schüchtern_de.mp3"
       }
     }
   },
@@ -16213,6 +18789,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16230,8 +18809,12 @@
         "sound": "prijateljski.mp3"
       },
       "fr": {
-        "title": "Amical",
+        "title": "Amical / Amicale",
         "sound": "amical_fr.mp3"
+      },
+      "de": {
+        "title": "freundlich",
+        "sound": "freundlich_de.mp3"
       }
     }
   },
@@ -16257,6 +18840,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16274,8 +18860,12 @@
         "sound": "ljubazan.mp3"
       },
       "fr": {
-        "title": "Gentil",
+        "title": "Gentil / Gentille",
         "sound": "gentil_fr.mp3"
+      },
+      "de": {
+        "title": "nett",
+        "sound": "nett_de.mp3"
       }
     }
   },
@@ -16301,6 +18891,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16310,7 +18903,7 @@
         "sound": "silly.mp3"
       },
       "es": {
-        "title": "Tonto",
+        "title": "Tonto / Tonta",
         "sound": "tonto_es.mp3"
       },
       "hr": {
@@ -16318,8 +18911,12 @@
         "sound": "blesav.mp3"
       },
       "fr": {
-        "title": "Idiot",
+        "title": "Idiot / Idiote",
         "sound": "idiot_fr.mp3"
+      },
+      "de": {
+        "title": "albern",
+        "sound": "albern_de.mp3"
       }
     }
   },
@@ -16345,6 +18942,9 @@
         },
         "fr": {
           "title": "Sentiments et personnalité"
+        },
+        "de": {
+          "title": "Gefühle & Persönlichkeit"
         }
       }
     },
@@ -16354,7 +18954,7 @@
         "sound": "smart.mp3"
       },
       "es": {
-        "title": "Elegante",
+        "title": "Inteligente",
         "sound": "elegante_es.mp3"
       },
       "hr": {
@@ -16362,8 +18962,12 @@
         "sound": "pametan.mp3"
       },
       "fr": {
-        "title": "Intelligent",
+        "title": "Intelligent / Intelligente",
         "sound": "intelligent_fr.mp3"
+      },
+      "de": {
+        "title": "klug",
+        "sound": "klug_de.mp3"
       }
     }
   },
@@ -16389,6 +18993,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16398,7 +19005,7 @@
         "sound": "morning.mp3"
       },
       "es": {
-        "title": "Mañana",
+        "title": "La mañana",
         "sound": "manana_es.mp3"
       },
       "hr": {
@@ -16406,8 +19013,12 @@
         "sound": "jutro.mp3"
       },
       "fr": {
-        "title": "Matin",
+        "title": "Le matin",
         "sound": "matin_fr.mp3"
+      },
+      "de": {
+        "title": "der Morgen",
+        "sound": "morgen_de.mp3"
       }
     }
   },
@@ -16433,6 +19044,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16442,7 +19056,7 @@
         "sound": "afternoon.mp3"
       },
       "es": {
-        "title": "Tarde",
+        "title": "La tarde",
         "sound": "tarde_es.mp3"
       },
       "hr": {
@@ -16450,8 +19064,12 @@
         "sound": "poslijepodne.mp3"
       },
       "fr": {
-        "title": "Après-midi",
+        "title": "L’après-midi",
         "sound": "apres_midi_fr.mp3"
+      },
+      "de": {
+        "title": "der Nachmittag",
+        "sound": "nachmittag_de.mp3"
       }
     }
   },
@@ -16477,6 +19095,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16486,7 +19107,7 @@
         "sound": "evening.mp3"
       },
       "es": {
-        "title": "Noche",
+        "title": "La noche (contextual)",
         "sound": "noche_es.mp3"
       },
       "hr": {
@@ -16494,8 +19115,12 @@
         "sound": "vecer.mp3"
       },
       "fr": {
-        "title": "Soirée",
+        "title": "La soirée",
         "sound": "soiree_fr.mp3"
+      },
+      "de": {
+        "title": "der Abend",
+        "sound": "abend_de.mp3"
       }
     }
   },
@@ -16521,6 +19146,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16530,7 +19158,7 @@
         "sound": "night.mp3"
       },
       "es": {
-        "title": "Noche",
+        "title": "La noche",
         "sound": "noche_es.mp3"
       },
       "hr": {
@@ -16538,8 +19166,12 @@
         "sound": "noc.mp3"
       },
       "fr": {
-        "title": "Nuit",
+        "title": "La nuit",
         "sound": "nuit_fr.mp3"
+      },
+      "de": {
+        "title": "die Nacht",
+        "sound": "nacht_de.mp3"
       }
     }
   },
@@ -16565,6 +19197,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16574,7 +19209,7 @@
         "sound": "day.mp3"
       },
       "es": {
-        "title": "Día",
+        "title": "El día",
         "sound": "dia_es.mp3"
       },
       "hr": {
@@ -16582,8 +19217,12 @@
         "sound": "dan.mp3"
       },
       "fr": {
-        "title": "Jour",
+        "title": "Le jour",
         "sound": "jour_fr.mp3"
+      },
+      "de": {
+        "title": "der Tag",
+        "sound": "tag_de.mp3"
       }
     }
   },
@@ -16609,6 +19248,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16618,7 +19260,7 @@
         "sound": "week.mp3"
       },
       "es": {
-        "title": "Semana",
+        "title": "La semana",
         "sound": "semana_es.mp3"
       },
       "hr": {
@@ -16626,8 +19268,12 @@
         "sound": "tjedan.mp3"
       },
       "fr": {
-        "title": "Semaine",
+        "title": "La semaine",
         "sound": "semaine_fr.mp3"
+      },
+      "de": {
+        "title": "die Woche",
+        "sound": "woche_de.mp3"
       }
     }
   },
@@ -16653,6 +19299,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16662,7 +19311,7 @@
         "sound": "month.mp3"
       },
       "es": {
-        "title": "Mes",
+        "title": "El mes",
         "sound": "mes_es.mp3"
       },
       "hr": {
@@ -16670,8 +19319,12 @@
         "sound": "mjesec.mp3"
       },
       "fr": {
-        "title": "Mois",
+        "title": "Le mois",
         "sound": "mois_fr.mp3"
+      },
+      "de": {
+        "title": "der Monat",
+        "sound": "monat_de.mp3"
       }
     }
   },
@@ -16697,6 +19350,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16706,7 +19362,7 @@
         "sound": "year.mp3"
       },
       "es": {
-        "title": "Año",
+        "title": "El año",
         "sound": "ano_es.mp3"
       },
       "hr": {
@@ -16714,8 +19370,12 @@
         "sound": "godina.mp3"
       },
       "fr": {
-        "title": "Année",
+        "title": "L’année",
         "sound": "annee_fr.mp3"
+      },
+      "de": {
+        "title": "das Jahr",
+        "sound": "jahr_de.mp3"
       }
     }
   },
@@ -16741,6 +19401,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16760,6 +19423,10 @@
       "fr": {
         "title": "Hier",
         "sound": "hier_fr.mp3"
+      },
+      "de": {
+        "title": "gestern",
+        "sound": "gestern_de.mp3"
       }
     }
   },
@@ -16785,6 +19452,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16802,8 +19472,12 @@
         "sound": "danas.mp3"
       },
       "fr": {
-        "title": "Aujourd'hui",
+        "title": "Aujourd’hui",
         "sound": "aujourd_hui_fr.mp3"
+      },
+      "de": {
+        "title": "heute",
+        "sound": "heute_de.mp3"
       }
     }
   },
@@ -16829,6 +19503,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16848,6 +19525,10 @@
       "fr": {
         "title": "Demain",
         "sound": "demain_fr.mp3"
+      },
+      "de": {
+        "title": "morgen",
+        "sound": "morgen_de.mp3"
       }
     }
   },
@@ -16873,6 +19554,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16892,6 +19576,10 @@
       "fr": {
         "title": "Maintenant",
         "sound": "maintenant_fr.mp3"
+      },
+      "de": {
+        "title": "jetzt",
+        "sound": "jetzt_de.mp3"
       }
     }
   },
@@ -16917,6 +19605,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16936,6 +19627,10 @@
       "fr": {
         "title": "Plus tard",
         "sound": "plus_tard_fr.mp3"
+      },
+      "de": {
+        "title": "später",
+        "sound": "später_de.mp3"
       }
     }
   },
@@ -16961,6 +19656,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -16980,6 +19678,10 @@
       "fr": {
         "title": "Tôt",
         "sound": "tot_fr.mp3"
+      },
+      "de": {
+        "title": "früh",
+        "sound": "früh_de.mp3"
       }
     }
   },
@@ -17005,6 +19707,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17024,6 +19729,10 @@
       "fr": {
         "title": "En retard",
         "sound": "en_retard_fr.mp3"
+      },
+      "de": {
+        "title": "spät",
+        "sound": "spät_de.mp3"
       }
     }
   },
@@ -17049,6 +19758,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17058,7 +19770,7 @@
         "sound": "hour.mp3"
       },
       "es": {
-        "title": "Hora",
+        "title": "La hora",
         "sound": "hora_es.mp3"
       },
       "hr": {
@@ -17066,8 +19778,12 @@
         "sound": "sat.mp3"
       },
       "fr": {
-        "title": "Heure",
+        "title": "L’heure",
         "sound": "heure_fr.mp3"
+      },
+      "de": {
+        "title": "die Stunde",
+        "sound": "stunde_de.mp3"
       }
     }
   },
@@ -17093,6 +19809,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17102,7 +19821,7 @@
         "sound": "minute.mp3"
       },
       "es": {
-        "title": "Minuto",
+        "title": "El minuto",
         "sound": "minuto_es.mp3"
       },
       "hr": {
@@ -17110,8 +19829,12 @@
         "sound": "minuta.mp3"
       },
       "fr": {
-        "title": "Minute",
+        "title": "La minute",
         "sound": "minute_fr.mp3"
+      },
+      "de": {
+        "title": "die Minute",
+        "sound": "minute_de.mp3"
       }
     }
   },
@@ -17137,6 +19860,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17146,7 +19872,7 @@
         "sound": "second.mp3"
       },
       "es": {
-        "title": "Segundo",
+        "title": "El segundo (time unit)",
         "sound": "segundo_es.mp3"
       },
       "hr": {
@@ -17154,8 +19880,12 @@
         "sound": "sekunda.mp3"
       },
       "fr": {
-        "title": "Deuxième",
+        "title": "La seconde (time)",
         "sound": "deuxieme_fr.mp3"
+      },
+      "de": {
+        "title": "die Sekunde",
+        "sound": "sekunde_de.mp3"
       }
     }
   },
@@ -17181,6 +19911,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17190,7 +19923,7 @@
         "sound": "calendar.mp3"
       },
       "es": {
-        "title": "Calendario",
+        "title": "El calendario",
         "sound": "calendario_es.mp3"
       },
       "hr": {
@@ -17198,8 +19931,12 @@
         "sound": "kalendar.mp3"
       },
       "fr": {
-        "title": "Calendrier",
+        "title": "Le calendrier",
         "sound": "calendrier_fr.mp3"
+      },
+      "de": {
+        "title": "der Kalender",
+        "sound": "kalender_de.mp3"
       }
     }
   },
@@ -17225,6 +19962,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17234,7 +19974,7 @@
         "sound": "clock.mp3"
       },
       "es": {
-        "title": "Reloj",
+        "title": "El reloj",
         "sound": "reloj_es.mp3"
       },
       "hr": {
@@ -17242,8 +19982,12 @@
         "sound": "sat.mp3"
       },
       "fr": {
-        "title": "Horloge",
+        "title": "L’horloge",
         "sound": "horloge_fr.mp3"
+      },
+      "de": {
+        "title": "die Uhr",
+        "sound": "uhr_de.mp3"
       }
     }
   },
@@ -17269,6 +20013,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17288,6 +20035,10 @@
       "fr": {
         "title": "Réveillez-vous",
         "sound": "reveillez_vous_fr.mp3"
+      },
+      "de": {
+        "title": "aufwachen",
+        "sound": "aufwachen_de.mp3"
       }
     }
   },
@@ -17313,6 +20064,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17332,6 +20086,10 @@
       "fr": {
         "title": "Se lever",
         "sound": "se_lever_fr.mp3"
+      },
+      "de": {
+        "title": "aufstehen",
+        "sound": "aufstehen_de.mp3"
       }
     }
   },
@@ -17357,6 +20115,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17376,6 +20137,10 @@
       "fr": {
         "title": "Se brosser les dents",
         "sound": "se_brosser_les_dents_fr.mp3"
+      },
+      "de": {
+        "title": "Zähne putzen",
+        "sound": "putzen_de.mp3"
       }
     }
   },
@@ -17401,6 +20166,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17420,6 +20188,10 @@
       "fr": {
         "title": "Se laver le visage",
         "sound": "se_laver_le_visage_fr.mp3"
+      },
+      "de": {
+        "title": "das Gesicht waschen",
+        "sound": "gesicht_waschen_de.mp3"
       }
     }
   },
@@ -17445,6 +20217,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17464,6 +20239,10 @@
       "fr": {
         "title": "Prendre une douche",
         "sound": "prendre_une_douche_fr.mp3"
+      },
+      "de": {
+        "title": "duschen",
+        "sound": "duschen_de.mp3"
       }
     }
   },
@@ -17489,6 +20268,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17508,6 +20290,10 @@
       "fr": {
         "title": "S'habiller",
         "sound": "s_habiller_fr.mp3"
+      },
+      "de": {
+        "title": "sich anziehen",
+        "sound": "anziehen_de.mp3"
       }
     }
   },
@@ -17533,6 +20319,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17552,6 +20341,10 @@
       "fr": {
         "title": "Prendre le petit déjeuner",
         "sound": "prendre_le_petit_dejeuner_fr.mp3"
+      },
+      "de": {
+        "title": "frühstücken",
+        "sound": "anziehen_de.mp4"
       }
     }
   },
@@ -17577,6 +20370,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17596,6 +20392,10 @@
       "fr": {
         "title": "Aller à l'école",
         "sound": "aller_a_l_ecole_fr.mp3"
+      },
+      "de": {
+        "title": "zur Schule gehen",
+        "sound": "schule_gehen_de.mp3"
       }
     }
   },
@@ -17621,6 +20421,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17640,6 +20443,10 @@
       "fr": {
         "title": "Étudier / Apprendre",
         "sound": "etudier_apprendre_fr.mp3"
+      },
+      "de": {
+        "title": "lernen",
+        "sound": "lernen_de.mp3"
       }
     }
   },
@@ -17665,6 +20472,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17684,6 +20494,10 @@
       "fr": {
         "title": "Rentrer à la maison",
         "sound": "rentrer_a_la_maison_fr.mp3"
+      },
+      "de": {
+        "title": "nach Hause kommen",
+        "sound": "hause_kommen_de.mp3"
       }
     }
   },
@@ -17709,6 +20523,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17728,6 +20545,10 @@
       "fr": {
         "title": "Faire ses devoirs",
         "sound": "faire_ses_devoirs_fr.mp3"
+      },
+      "de": {
+        "title": "Hausaufgaben machen",
+        "sound": "machen_de.mp3"
       }
     }
   },
@@ -17753,6 +20574,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17772,6 +20596,10 @@
       "fr": {
         "title": "Jouer",
         "sound": "jouer_fr.mp3"
+      },
+      "de": {
+        "title": "spielen",
+        "sound": "spielen_de.mp3"
       }
     }
   },
@@ -17797,6 +20625,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17816,6 +20647,10 @@
       "fr": {
         "title": "Déjeuner",
         "sound": "dejeuner_fr.mp3"
+      },
+      "de": {
+        "title": "Mittag essen",
+        "sound": "essen_de.mp3"
       }
     }
   },
@@ -17841,6 +20676,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17860,6 +20698,10 @@
       "fr": {
         "title": "Faire une sieste",
         "sound": "faire_une_sieste_fr.mp3"
+      },
+      "de": {
+        "title": "ein Nickerchen machen",
+        "sound": "nickerchen_machen_de.mp3"
       }
     }
   },
@@ -17885,6 +20727,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17904,6 +20749,10 @@
       "fr": {
         "title": "Regarder la télévision",
         "sound": "regarder_la_television_fr.mp3"
+      },
+      "de": {
+        "title": "fernsehen",
+        "sound": "fernsehen_de.mp3"
       }
     }
   },
@@ -17929,6 +20778,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17948,6 +20800,10 @@
       "fr": {
         "title": "Dîner",
         "sound": "diner_fr.mp3"
+      },
+      "de": {
+        "title": "Abendessen essen",
+        "sound": "essen_de.mp3"
       }
     }
   },
@@ -17973,6 +20829,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -17992,6 +20851,10 @@
       "fr": {
         "title": "Prendre un bain",
         "sound": "prendre_un_bain_fr.mp3"
+      },
+      "de": {
+        "title": "baden",
+        "sound": "baden_de.mp3"
       }
     }
   },
@@ -18017,6 +20880,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -18036,6 +20902,10 @@
       "fr": {
         "title": "Mettre un pyjama",
         "sound": "mettre_un_pyjama_fr.mp3"
+      },
+      "de": {
+        "title": "den Schlafanzug anziehen",
+        "sound": "schlafanzug_anziehen_de.mp3"
       }
     }
   },
@@ -18061,6 +20931,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -18080,6 +20953,10 @@
       "fr": {
         "title": "Lire un livre",
         "sound": "lire_un_livre_fr.mp3"
+      },
+      "de": {
+        "title": "ein Buch lesen",
+        "sound": "buch_lesen_de.mp3"
       }
     }
   },
@@ -18105,6 +20982,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -18124,6 +21004,10 @@
       "fr": {
         "title": "Aller au lit",
         "sound": "aller_au_lit_fr.mp3"
+      },
+      "de": {
+        "title": "ins Bett gehen",
+        "sound": "bett_gehen_de.mp3"
       }
     }
   },
@@ -18149,6 +21033,9 @@
         },
         "fr": {
           "title": "Heure et routine quotidienne"
+        },
+        "de": {
+          "title": "Zeit & Tagesablauf"
         }
       }
     },
@@ -18168,6 +21055,10 @@
       "fr": {
         "title": "Dormir",
         "sound": "dormir_fr.mp3"
+      },
+      "de": {
+        "title": "schlafen",
+        "sound": "schlafen_de.mp3"
       }
     }
   },
@@ -18193,6 +21084,9 @@
         },
         "fr": {
           "title": ""
+        },
+        "de": {
+          "title": ""
         }
       }
     },
@@ -18210,6 +21104,10 @@
         "sound": ""
       },
       "fr": {
+        "title": "",
+        "sound": ""
+      },
+      "de": {
         "title": "",
         "sound": ""
       }
