@@ -6,7 +6,7 @@
    rounded
     clearable
     debounce="300"
-    placeholder="Pretraži kategorije..."
+    :label="$t('Search categories')"
     class="q-ma-md"
    
   >

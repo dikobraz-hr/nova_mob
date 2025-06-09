@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md bg-grey-2">
-    <q-btn flat icon="arrow_back" @click="$router.push('/category-all')" class="q-mb-md q-ml-xl q-pt-none" />
+    <q-btn flat icon="arrow_back" @click="$router.push('/category-all')" class="q-mb-md q-pa-md" />
 
     <div class="text-h5 q-mb-md" >
       {{ categoryName }}
@@ -9,7 +9,7 @@
   standout="bg-primary text-white"
   rounded
   v-model="searchQuery"
-  label="Pretraga simbola"
+  :label="$t('Search symbols')"
   class="q-mb-md"
   clearable
   debounce="300"

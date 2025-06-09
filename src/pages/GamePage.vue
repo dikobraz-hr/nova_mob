@@ -1,8 +1,8 @@
 <template>
   <q-page class="q-pa-md">
-    <q-btn flat icon="arrow_back" class="q-mb-md q-ml-xl q-pt-none" @click="goBack" />
+    <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" />
     <div v-if="symbol">
-      <div class="fit row wrap justify-between items-start content-start">
+      <div class="fit row wrap justify-center items-start content-start">
         <q-btn icon="shuffle" class="q-mb-md" color="accent" text-color="dark" @click="goRandom" size="lg" />
       </div>
 

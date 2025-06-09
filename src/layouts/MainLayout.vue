@@ -18,32 +18,29 @@
  <div class="q-pa-md"><LanguageSwitcher /></div>
         <h6>{{$t('contact')}}</h6>
 
-        <q-item-label header>Address</q-item-label>
+        <q-item-label header>{{$t('address')}}</q-item-label>
         <div class="q-pa-md text-body2">
           Ulica Božidara Magovca 107<br />
           10000 Zagreb
 
           <br><br>
-          or
+          {{$t('or')}}
         </div>
-<router-link to="contact" class="q-pa-md text-body2">Contact</router-link>
+<router-link to="contact" class="q-pa-md text-body2">{{$t('contact')}}</router-link>
+
+
 
         <q-separator spaced />
 
-        <q-item-label header>Opening hours</q-item-label>
-        <div class="q-pa-md text-body2">
-          08:00—16:00
-        </div>
-
-        <q-separator spaced />
-
-        <q-item-label header>Email</q-item-label>
+        <q-item-label header>{{$t('email')}}</q-item-label>
         <div class="q-pa-md text-body2">
           <a href="mailto:info@dikobraz.hr">info@dikobraz.hr</a>
         </div>
                 <div class="q-pt-md text-body2">
-        <router-link to="instructions" class=" q-pa-md  text-body2">Instructions</router-link>
-        <router-link to="terms" class="q-pa-md text-body2">Terms and Contitions</router-link></div>
+        <router-link to="instructions" class=" q-pa-md  text-body2">{{$t('Instructions')}}</router-link>
+                </div>
+                   <div class="q-pt-md text-body2">
+        <router-link to="terms" class="q-pa-md text-body2">{{$t('Terms')}}</router-link></div>
       </q-list>
     </q-drawer>
 
@@ -59,7 +56,7 @@
         aria-label="Home"
       >
         <q-icon name="home" />
-        <span>Početna</span>
+        <span>{{$t('home')}}</span>
       </button>
 
       <button
@@ -69,16 +66,16 @@
         aria-label="Categories"
       >
         <q-icon name="category" />
-        <span>Kategorije</span>
+        <span>{{$t('Categories')}}</span>
       </button>
  <button
         class="toolbar-btn"
         :class="{ active: activeTab === 3 }"
-        @click="goTo('/category-all')"
+        @click="goTo('/game')"
         aria-label="game"
       >
         <q-icon name="smart_toy" />
-        <span>Igra</span>
+        <span>{{$t('Game')}}</span>
       </button>
       <button
         class="toolbar-btn"
@@ -87,7 +84,7 @@
         aria-label="Profile"
       >
         <q-icon name="person" />
-        <span>Profil</span>
+        <span>{{$t('profile')}}</span>
       </button>
     </div>
   </q-layout>
