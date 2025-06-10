@@ -74,16 +74,32 @@ function loadSymbol() {
     router.replace(`/category/${categoryId}`)
   }
 }
+// Global audio instance
+let currentAudio = null;
+
 function playSound() {
-  const sound = symbol.value?.translations?.[locale.value]?.sound
+  const sound = symbol.value?.translations?.[locale.value]?.sound;
   if (sound) {
-    new Audio(`/sounds/${locale.value}/${sound}`).play()
+    // Stop any currently playing audio
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
+    currentAudio = new Audio(`/sounds/${locale.value}/${sound}`);
+    currentAudio.play();
   }
 }
+
 function playMainSound() {
-  const sound = symbol.value?.sound
+  const sound = symbol.value?.sound;
   if (sound) {
-    new Audio(`/sounds/descriptive/${sound}`).play()
+    // Stop any currently playing audio
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
+    currentAudio = new Audio(`/sounds/descriptive/${sound}`);
+    currentAudio.play();
   }
 }
 function toggleFavorite() {
