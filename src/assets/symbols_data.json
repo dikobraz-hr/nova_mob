@@ -7530,7 +7530,7 @@
         "sound": "bathroom.mp3"
       },
       "es": {
-        "title": "el baño (salle de bain)",
+        "title": "el baño",
         "sound": "bano_es.mp3"
       },
       "hr": {
@@ -7581,8 +7581,8 @@
         "sound": "toilet.mp3"
       },
       "es": {
-        "title": "el baño (toilette)",
-        "sound": "bano_es.mp3"
+        "title": "el baño",
+        "sound": "bano_toilet_es.mp3"
       },
       "hr": {
         "title": "WC",
@@ -7734,7 +7734,7 @@
         "sound": "kitchen.mp3"
       },
       "es": {
-        "title": "la cocina (room)",
+        "title": "la cocina",
         "sound": "cocina_es.mp3"
       },
       "hr": {
@@ -7836,8 +7836,8 @@
         "sound": "stove.mp3"
       },
       "es": {
-        "title": "la cocina (stove)",
-        "sound": "cocina_es.mp3"
+        "title": "la cocina",
+        "sound": "cocina_stove_es.mp3"
       },
       "hr": {
         "title": "Štednjak",
@@ -19516,7 +19516,7 @@
       },
       "es": {
         "title": "Mañana",
-        "sound": "manana_es.mp3"
+        "sound": "manana2_es.mp3"
       },
       "hr": {
         "title": "Sutra",
@@ -19720,7 +19720,7 @@
       },
       "es": {
         "title": "Tarde",
-        "sound": "tarde_es.mp3"
+        "sound": "tarde2_es.mp3"
       },
       "hr": {
         "title": "Kasno",
