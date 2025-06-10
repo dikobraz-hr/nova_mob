@@ -10,7 +10,7 @@
 
    
 
-    <q-page-container class="">
+    <q-page-container class="q-pb-xl q-mb-lg">
       <router-view />
     </q-page-container>
 
