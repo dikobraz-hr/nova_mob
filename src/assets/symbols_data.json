@@ -2451,7 +2451,7 @@
     "id": 49,
     "name": "butterfly",
     "image": "butterfly.svg",
-    "sound": "",
+    "sound": "butterfly.mp3",
     "category": {
       "id": 2,
       "slug": "animals",
@@ -2655,7 +2655,7 @@
     "id": 53,
     "name": "octopus",
     "image": "octopus.svg",
-    "sound": "",
+    "sound": "octopus.mp3",
     "category": {
       "id": 2,
       "slug": "animals",
@@ -5052,7 +5052,7 @@
     "id": 100,
     "name": "fish",
     "image": "fish.svg",
-    "sound": "",
+    "sound": "fish.mp3",
     "category": {
       "id": 3,
       "slug": "food_drinks",
