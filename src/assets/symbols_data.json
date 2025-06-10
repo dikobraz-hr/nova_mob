@@ -4063,7 +4063,7 @@
       },
       "es": {
         "title": "la papa",
-        "sound": "papa_es.mp3"
+        "sound": "papafood_es.mp3"
       },
       "hr": {
         "title": "Krumpir",
@@ -5095,7 +5095,7 @@
       },
       "de": {
         "title": "der Fisch",
-        "sound": "fisch_de.mp3"
+        "sound": "fischfood_de.mp3"
       }
     }
   },
