@@ -1839,7 +1839,7 @@
     "id": 37,
     "name": "fish",
     "image": "fish.svg",
-    "sound": "",
+    "sound": "fish.mp3",
     "category": {
       "id": 2,
       "slug": "animals",
@@ -2349,7 +2349,7 @@
     "id": 47,
     "name": "ant",
     "image": "ant.svg",
-    "sound": "",
+    "sound": "ant.mp3",
     "category": {
       "id": 2,
       "slug": "animals",
@@ -2400,7 +2400,7 @@
     "id": 48,
     "name": "spider",
     "image": "spider.svg",
-    "sound": "",
+    "sound": "spider.mp3",
     "category": {
       "id": 2,
       "slug": "animals",
@@ -2757,7 +2757,7 @@
     "id": 55,
     "name": "kangaroo",
     "image": "kangaroo.svg",
-    "sound": "kangaroo.mp3",
+    "sound": "",
     "category": {
       "id": 2,
       "slug": "animals",
