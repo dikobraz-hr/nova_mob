@@ -11,11 +11,11 @@
         :key="category.id"
         clickable
         @click="goToCategory(category.id)"
-        class="category-card"
-        :style="{ backgroundColor: category.color || '#fff' }"
+        class="category-card q-pb-lg"
+        :style="{ backgroundColor: category.color ? category.color + '80' : '#fff' }"
       >
-        <q-img :src="`/src/assets/${category.image}`" style="height: 140px" />
-        <div class="category-name">
+        <q-img :src="`/category_images/${category.image}`" style="height: 130px"  fit="contain"/>
+        <div class="category-name ">
           {{ getTranslatedTitle(category).value }}
         </div>
       </q-card>

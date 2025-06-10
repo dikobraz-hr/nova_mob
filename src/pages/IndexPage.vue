@@ -37,7 +37,7 @@ onMounted(() => {
     id: cat.id,
     name: cat.translations?.[locale.value].title || cat.category,
     translations: cat.translations,
-    image: `/src/assets/${cat.image}`,  //slike
+    image: cat.image,  //slike
     color:cat.color
   }))
 })

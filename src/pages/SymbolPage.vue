@@ -68,7 +68,8 @@ function loadSymbol() {
   )
   if (found) {
     symbol.value = found
-    categoryColor.value = found.category?.color || '#ffffff'
+    categoryColor.value = found.category?.color ? found.category.color + '80' : '#ffffff80';
+
   } else {
     router.replace(`/category/${categoryId}`)
   }

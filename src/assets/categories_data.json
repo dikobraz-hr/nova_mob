@@ -3,7 +3,7 @@
     "id": 1,
     "category": "People & Body",
     "slug": "people_body",
-    "image": "people.png",
+    "image": "people.svg",
     "color": "#FAE2D0",
     "translations": {
       "en": {
@@ -27,7 +27,7 @@
     "id": 2,
     "category": "Animals",
     "slug": "animals",
-    "image": "animals.png",
+    "image": "animals.svg",
     "color": "#D2F1D9",
     "translations": {
       "en": {
@@ -51,7 +51,7 @@
     "id": 3,
     "category": "Food & Drinks",
     "slug": "food_drinks",
-    "image": "food.png",
+    "image": "food.svg",
     "color": "#FBCBC8",
     "translations": {
       "en": {
@@ -75,7 +75,7 @@
     "id": 4,
     "category": "Clothes",
     "slug": "clothes",
-    "image": "clothes.png",
+    "image": "clothes.svg",
     "color": "#DEC3EE",
     "translations": {
       "en": {
@@ -99,7 +99,7 @@
     "id": 5,
     "category": "Home & Furniture",
     "slug": "home_furniture",
-    "image": "home.png",
+    "image": "home.svg",
     "color": "#E0C8C0",
     "translations": {
       "en": {
@@ -123,7 +123,7 @@
     "id": 6,
     "category": "Nature & Weather",
     "slug": "nature_weather",
-    "image": "nature.png",
+    "image": "nature.svg",
     "color": "#D0F3FD",
     "translations": {
       "en": {
@@ -147,7 +147,7 @@
     "id": 7,
     "category": "Colors & Shapes",
     "slug": "colors_shapes",
-    "image": "colors.png",
+    "image": "colors.svg",
     "color": "#EBBEEF",
     "translations": {
       "en": {
@@ -171,7 +171,7 @@
     "id": 8,
     "category": "Numbers & Counting",
     "slug": "numbers_counting",
-    "image": "numbers.png",
+    "image": "numbers.svg",
     "color": "#FFF7D1",
     "translations": {
       "en": {
@@ -195,7 +195,7 @@
     "id": 9,
     "category": "Verbs",
     "slug": "verbs",
-    "image": "verbs.png",
+    "image": "verbs.svg",
     "color": "#B3EAE6",
     "translations": {
       "en": {
@@ -219,7 +219,7 @@
     "id": 10,
     "category": "Adjectives",
     "slug": "adjectives",
-    "image": "adjectives.png",
+    "image": "adjectives.svg",
     "color": "#FED8A3",
     "translations": {
       "en": {
@@ -243,7 +243,7 @@
     "id": 11,
     "category": "Places & Transport",
     "slug": "places_transport",
-    "image": "places.png",
+    "image": "places.svg",
     "color": "#F5DFF5",
     "translations": {
       "en": {
@@ -267,7 +267,7 @@
     "id": 12,
     "category": "Time & Daily Routine",
     "slug": "time_daily_routine",
-    "image": "time.png",
+    "image": "time.svg",
     "color": "#C9D6DD",
     "translations": {
       "en": {
@@ -291,7 +291,7 @@
     "id": 13,
     "category": "School & Learning",
     "slug": "school_learning",
-    "image": "school.png",
+    "image": "school.svg",
     "color": "#FEEDB3",
     "translations": {
       "en": {
@@ -315,7 +315,7 @@
     "id": 14,
     "category": "Actions / Everyday Phrases",
     "slug": "actions_everyday_phrases",
-    "image": "actions.png",
+    "image": "actions.svg",
     "color": "#E2E6FC",
     "translations": {
       "en": {
@@ -339,7 +339,7 @@
     "id": 15,
     "category": "Toys & Fun",
     "slug": "toys_fun",
-    "image": "toys.png",
+    "image": "toys.svg",
     "color": "#FFBFA7",
     "translations": {
       "en": {
@@ -363,7 +363,7 @@
     "id": 16,
     "category": "Feelings & Personality",
     "slug": "feelings_personality",
-    "image": "feelings.png",
+    "image": "feelings.svg",
     "color": "#FDDCE7",
     "translations": {
       "en": {

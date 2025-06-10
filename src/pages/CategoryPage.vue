@@ -25,12 +25,12 @@
         :key="pojam.id"
         clickable
         @click="goToPojam(pojam)"
-        class="pojam-card"
-        :style="{ backgroundColor: pojam.category?.color+'' || '#ffffff' }"
+        class="pojam-card q-pb-xl"
+         :style="{ backgroundColor: pojam.category.color ? pojam.category.color + '80' : '#fff' }"
       >
         <q-img
           :src="`/symbols/${pojam.image || 'default.svg'}`"
-          style="height: 140px"
+          style="height: 130px"
           fit="contain"
         />
         <div class="pojam-name">
