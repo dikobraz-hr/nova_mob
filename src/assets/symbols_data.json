@@ -20402,7 +20402,7 @@
   {
     "id": 401,
     "name": "study / learn",
-    "image": "study_/_learn.svg",
+    "image": "study.svg",
     "sound": "",
     "category": {
       "id": 12,
@@ -20429,8 +20429,8 @@
     },
     "translations": {
       "en": {
-        "title": "Study / Learn",
-        "sound": "study_/_learn.mp3"
+        "title": "Study",
+        "sound": "study.mp3"
       },
       "es": {
         "title": "Estudiar / Aprender",
