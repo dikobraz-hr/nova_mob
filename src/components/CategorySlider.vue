@@ -51,15 +51,15 @@ function goToCategory(id) {
 
 .category-slide-item {
   flex: 0 0 auto;
-  width: 350px;
+  width: 260px;
   cursor: pointer;
   text-align: center;
   user-select: none;
 }
 
 .category-image {
-  width: 350px;
-  height: 300px;
+  width: 260px;
+  height: 260px;
   object-fit: contain;
   border-radius: 20px;
   margin-bottom: 8px;

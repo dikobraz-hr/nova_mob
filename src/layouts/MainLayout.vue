@@ -88,7 +88,11 @@ watch(
   { immediate: true }
 )
 </script>
-
+<style>
+.q-page{
+min-height:calc(100vh - 90px -90px)!important
+}
+</style>
 <style scoped>
 .hamburger-btn {
   position: fixed;
