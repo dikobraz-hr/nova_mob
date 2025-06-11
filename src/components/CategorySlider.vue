@@ -60,10 +60,10 @@ function goToCategory(id) {
 .category-image {
   width: 350px;
   height: 300px;
-  object-fit: cover;
-  border-radius: 15px;
+  object-fit: contain;
+  border-radius: 20px;
   margin-bottom: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
 }
 
 .category-name {

@@ -102,12 +102,12 @@ watch(
   bottom: 0;
   left: 0;
   right: 0;
-  height: 64px;
+  /* height: 64px; */
   background-color: #f0f0f0;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 0 24px;
+ padding: 10px 5px;
   box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
   border-top: 1px solid #ddd;
   z-index: 5000;
@@ -130,23 +130,30 @@ watch(
   position: relative;
   width: 64px;
   height: 64px;
+
   justify-content: center;
 }
-
-.toolbar-btn q-icon {
-  font-size: 24px;
+.q-icon{
+  width: 1em;
+}
+.toolbar-btn .q-icon {
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
   margin-bottom: 2px;
+  margin-top: 10px;
+  padding: 0 1px 2px;
 }
 
 .toolbar-btn:hover {
   color: #818e9b;
 }
 
-.toolbar-btn.active {
-  color: #5e4b8b;
-  background-color: #e5dbf8;
+.toolbar-btn.active .q-icon{
+  color: #fff;
+  background-color: #ff8a25;
   border-radius: 50%;
-  box-shadow: 0 0 6px rgba(94, 75, 139, 0.3);
+ 
 }
 
 .drawer-content {
@@ -156,4 +163,5 @@ watch(
 h6 {
   margin: 12px;
 }
+
 </style>
