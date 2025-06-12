@@ -16110,8 +16110,8 @@
         "sound": "professeur_fr.mp3"
       },
       "de": {
-        "title": "der Lehrer / die Lehrerin",
-        "sound": "lehrer_/_die_lehrerin_de.mp3"
+        "title": "der Lehrer",
+        "sound": "lehrer_de.mp3"
       }
     }
   },
@@ -16161,8 +16161,8 @@
         "sound": "etudiant_fr.mp3"
       },
       "de": {
-        "title": "der Schüler / die Schülerin",
-        "sound": "schuler_/_die_schulerin_de.mp3"
+        "title": "die Schülerin",
+        "sound": "die_schulerin_de.mp3"
       }
     }
   },
@@ -17488,7 +17488,7 @@
       },
       "de": {
         "title": "Bitte schön / Gern geschehen",
-        "sound": "schon_/_gern_geschehen_de.mp3"
+        "sound": "schon_de.mp3"
       }
     }
   },
@@ -19528,7 +19528,7 @@
       },
       "de": {
         "title": "morgen",
-        "sound": "morgen_de.mp3"
+        "sound": "morgen_tomorow_de.mp3"
       }
     }
   },
@@ -20803,7 +20803,7 @@
       },
       "de": {
         "title": "Abendessen essen",
-        "sound": "essen_de.mp3"
+        "sound": "abendessen_essen_de.mp3"
       }
     }
   },
