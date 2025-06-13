@@ -9539,7 +9539,7 @@
   {
     "id": 188,
     "name": "orange",
-    "image": "orange.svg",
+    "image": "orange2.svg",
     "sound": "",
     "category": {
       "id": 7,
@@ -10100,7 +10100,7 @@
   {
     "id": 199,
     "name": "star",
-    "image": "star.svg",
+    "image": "star2.svg",
     "sound": "",
     "category": {
       "id": 7,
