@@ -2,6 +2,7 @@
   "languages": [
     {
       "code": "en",
+      "flag": "us",
       "labels": {
         "en": "English",
         "hr": "Engleski",
@@ -12,6 +13,7 @@
     },
     {
       "code": "hr",
+      "flag": "hr",
       "labels": {
         "en": "Croatian",
         "hr": "Hrvatski",
@@ -22,6 +24,7 @@
     },
     {
       "code": "es",
+      "flag": "es",
       "labels": {
         "en": "Spanish",
         "hr": "Španjolski",
@@ -32,6 +35,7 @@
     },
     {
       "code": "fr",
+      "flag": "fr",
       "labels": {
         "en": "French",
         "hr": "Francuski",
@@ -42,6 +46,7 @@
     },
     {
       "code": "de",
+      "flag": "de",
       "labels": {
         "en": "German",
         "hr": "Njemački",

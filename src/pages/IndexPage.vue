@@ -43,7 +43,7 @@ const categories = computed(() =>
   }))
 )
 function goToRandom() {
-  router.push('/random-game')
+  router.push('/game')
 }
 
 function goToCategories() {
