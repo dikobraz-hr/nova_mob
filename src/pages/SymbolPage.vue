@@ -29,7 +29,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted,watch } from 'vue'
+import { ref, onMounted,watch  } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import symbolsData from 'src/assets/symbols_data.json'
@@ -62,6 +62,7 @@ onMounted(() => {
 watch(() => route.params.symbolId, () => {
   loadSymbol()
 })
+
 function loadSymbol() {
   const id = Number(route.params.symbolId)
   const found = symbolsData.find(
@@ -109,6 +110,10 @@ function toggleFavorite() {
 }
 
 function goBack() {
+   if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
   router.push(`/category/${categoryId}`)
 }
 function getSymbolsInCategory() {
@@ -117,6 +122,10 @@ function getSymbolsInCategory() {
 }
 
 function goNext() {
+   if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
   const symbolsInCategory = getSymbolsInCategory()
   const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
   const nextIndex = (currentIndex + 1) % symbolsInCategory.length
@@ -124,6 +133,10 @@ function goNext() {
   router.push(`/pojam/${categoryId}/${nextSymbol.id}`)
 }
 function goRandom() {
+   if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
   const symbolsInCategory = getSymbolsInCategory()
   const currentId = symbolId.value
 
@@ -141,10 +154,15 @@ function goRandom() {
   router.push(`/pojam/${categoryId}/${randomSymbol.id}`)
 }
 function goPrev() {
+   if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
   const symbolsInCategory = getSymbolsInCategory()
   const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
   const prevIndex = (currentIndex - 1 + symbolsInCategory.length) % symbolsInCategory.length
   const prevSymbol = symbolsInCategory[prevIndex]
   router.push(`/pojam/${categoryId}/${prevSymbol.id}`)
 }
+
 </script>

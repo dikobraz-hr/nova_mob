@@ -68,6 +68,10 @@ onMounted(() => {
 })
 
 function goRandom() {
+   if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+    }
   loadRandomSymbol()
 }
 
