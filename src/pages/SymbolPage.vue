@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md">
-    <q-btn flat icon="category" class="q-mb-md q-pa-md" @click="goBack" />
+    <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" :label="categoryName"/>
 <div v-if="symbol">
   <div class="fit row no-wrap justify-between items-start content-start">
         <q-btn round icon="arrow_back" class="q-mb-md "  color="secondary" text-color="dark" @click="goPrev" size="lg"/>
@@ -51,6 +51,7 @@ const categoryId = Number(route.params.categoryId)
 const symbolId = computed(() => Number(route.params.symbolId))
 
 const symbol = ref(null)
+const categoryName = ref(null)
 const categoryColor = ref('#ffffff')
 const isFavorite = ref(false)
 
@@ -68,7 +69,8 @@ function loadSymbol() {
   )
   if (found) {
     symbol.value = found
-    categoryColor.value = found.category?.color ? found.category.color + '80' : '#ffffff80';
+    categoryColor.value = found.category?.color ? found.category.color + '80' : '#ffffff80'
+    categoryName.value=found.category.translations[locale.value].title;
 
   } else {
     router.replace(`/category/${categoryId}`)

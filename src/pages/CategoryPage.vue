@@ -1,10 +1,32 @@
 <template>
   <q-page class="q-pa-md ">
-    <q-btn flat icon="arrow_back" @click="$router.push('/category-all')" class="q-mb-md q-pa-md" />
+    <div class="row items-center q-mb-md">
+  <!-- Back button on the left -->
+  <div class="col-auto">
+    <q-btn
+      flat
+      icon="arrow_back"
+      @click="$router.push('/category-all')"
+      class="q-pa-md"
+    />
+  </div>
 
-    <div class="text-h5 q-mb-md">
+  <!-- Spacer to push h5 to center -->
+  <div class="col text-center">
+    <h5 class="text-h5 q-my-none">
       {{ categoryName }}
-    </div>
+    </h5>
+  </div>
+
+  <!-- Placeholder on the right to balance layout (optional) -->
+  <div class="col-auto" style="visibility: hidden">
+    <q-btn
+      flat
+      icon="arrow_back"
+      class="q-pa-md"
+    />
+  </div>
+</div>
     <q-input bg-color="white"
      standout="text-primary" rounded v-model="searchQuery" :label="$t('Search symbols')"
       class="q-mb-md" clearable debounce="300">
