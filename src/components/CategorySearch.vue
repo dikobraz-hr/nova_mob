@@ -2,12 +2,12 @@
   <q-input
     :model-value="modelValue"
     @update:model-value="updateValue"
-  
-   rounded
+  bg-color="white"
+    rounded outlined
     clearable
     debounce="300"
-    bg-color="white"
-     standout="text-primary"
+  
+ 
     :label="$t('Search categories')"
     class="q-ma-md"
    
@@ -31,3 +31,8 @@ function updateValue(val) {
   emit('update:modelValue', val)
 }
 </script>
+<style>
+.q-field--outlined .q-field__control::before {
+  border-color: #ff8a2550;
+}
+</style>

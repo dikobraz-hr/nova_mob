@@ -28,7 +28,7 @@
   </div>
 </div>
     <q-input bg-color="white"
-     standout="text-primary" rounded v-model="searchQuery" :label="$t('Search symbols')"
+     rounded outlined v-model="searchQuery" :label="$t('Search symbols')"
       class="q-mb-md" clearable debounce="300">
       <template #prepend>
         <q-icon name="search" />
@@ -65,7 +65,7 @@ const allPojmovi = ref([])
 const searchQuery = ref('')
 const pojmovi = computed(() => {
   if (!searchQuery.value) return allPojmovi.value
-  const q = searchQuery.value.toLowerCase()
+  const q = (searchQuery.value || '').toLowerCase()
   return allPojmovi.value.filter((item) =>
     translatedTitle(item).value.toLowerCase().includes(q)
   )
@@ -135,5 +135,9 @@ function goToPojam(pojam) {
 .q-card {
   box-shadow: none;
   background-color: transparent;
+}
+
+.q-field--outlined .q-field__control::before {
+  border-color: #ff8a2550;
 }
 </style>

@@ -53,7 +53,7 @@ function goToCategory(id) {
 
 .category-button {
   background-color: #f5f5f5;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 5px solid rgba(255, 255, 255, 1);
   font-weight: 300;
   white-space: nowrap;
   padding: 4px 12px;

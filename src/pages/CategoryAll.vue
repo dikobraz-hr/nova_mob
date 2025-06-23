@@ -55,7 +55,7 @@ watch(locale, () => {
 
 // Filter categories by translated title reactive to locale and search
 const filteredCategories = computed(() => {
-  const term = search.value.toLowerCase()
+  const term = (search.value || '').toLowerCase()
   return categories.value.filter(category => {
     const titleRef = translatedTitlesMap.value.get(category.id)
     if (!titleRef) return false
