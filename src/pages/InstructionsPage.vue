@@ -1,5 +1,8 @@
 <template>
   <q-page class="q-pa-md">
+    <div class="col-auto">
+      <q-btn flat icon="arrow_back" @click="$router.push('/contact')" class="q-pa-md" />
+    </div>
     <h2 class="text-h5 q-mb-md">How to Use the App</h2>
     <q-card class="q-pa-md q-mb-md">
       <p>Welcome! Here's how to get started:</p>

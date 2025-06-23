@@ -60,7 +60,7 @@ function loadRandomSymbol() {
 
   symbol.value = randomSymbol
   console.log(randomSymbol)
-  categoryColor.value = randomSymbol.category?.color || '#ffffff'
+  categoryColor.value = randomSymbol.category?.color+ '80' || '#ffffff'
 }
 
 onMounted(() => {

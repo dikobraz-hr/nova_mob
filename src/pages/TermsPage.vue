@@ -1,5 +1,8 @@
 <template>
   <q-page class="q-pa-md">
+    <div class="col-auto">
+      <q-btn flat icon="arrow_back" @click="$router.push('/contact')" class="q-pa-md" />
+    </div>
     <h2 class="text-h5 q-mb-md">Terms and Conditions</h2>
     <q-card class="q-pa-md">
       <p>By using this app, you agree to the following terms:</p>
