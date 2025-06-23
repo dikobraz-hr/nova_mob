@@ -3552,7 +3552,7 @@
         "sound": "banana.mp3"
       },
       "es": {
-        "title": "el plátano",
+        "title": "la banana",
         "sound": "banana_es.mp3"
       },
       "hr": {
@@ -5052,7 +5052,7 @@
     "id": 100,
     "name": "fish",
     "image": "fishfood.svg",
-    "sound": "fish.mp3",
+    "sound": "",
     "category": {
       "id": 3,
       "slug": "food_drinks",
@@ -6561,7 +6561,7 @@
         "sound": "underwear.mp3"
       },
       "es": {
-        "title": "la ropa interior",
+        "title": "la ropa intima",
         "sound": "ropa_interior_es.mp3"
       },
       "hr": {
