@@ -21062,55 +21062,135 @@
       }
     }
   },
+  
   {
-    "id": 0,
-    "name": "",
-    "image": "",
-    "sound": "",
+    "id": 414,
+    "name": "goose",
+    "image": "goose.svg",
+    "sound": "goose.mp3",
     "category": {
-      "id": null,
-      "slug": "",
-      "image": "",
-      "color": "",
+      "id": 2,
+      "slug": "animals",
+      "image": "animals.png",
+      "color": "#D2F1D9",
       "translations": {
-        "en": {
-          "title": ""
-        },
-        "es": {
-          "title": ""
-        },
-        "hr": {
-          "title": ""
-        },
-        "fr": {
-          "title": ""
-        },
-        "de": {
-          "title": ""
-        }
+        "en": { "title": "Animals" },
+        "es": { "title": "Animales" },
+        "hr": { "title": "Životinje" },
+        "fr": { "title": "Animaux" },
+        "de": { "title": "Tiere" }
       }
     },
     "translations": {
-      "en": {
-        "title": "",
-        "sound": ""
-      },
-      "es": {
-        "title": "",
-        "sound": ""
-      },
-      "hr": {
-        "title": "",
-        "sound": ""
-      },
-      "fr": {
-        "title": "",
-        "sound": ""
-      },
-      "de": {
-        "title": "",
-        "sound": ""
+      "en": { "title": "Goose", "sound": "goose.mp3" },
+      "es": { "title": "el ganso", "sound": "ganso_es.mp3" },
+      "hr": { "title": "Guska", "sound": "guska.mp3" },
+      "fr": { "title": "l’oie", "sound": "oie_fr.mp3" },
+      "de": { "title": "die Gans", "sound": "gans_de.mp3" }
+    }
+  },
+  {
+    "id": 415,
+    "name": "donkey",
+    "image": "donkey.svg",
+    "sound": "donkey.mp3",
+    "category": {
+      "id": 2,
+      "slug": "animals",
+      "image": "animals.png",
+      "color": "#D2F1D9",
+      "translations": {
+        "en": { "title": "Animals" },
+        "es": { "title": "Animales" },
+        "hr": { "title": "Životinje" },
+        "fr": { "title": "Animaux" },
+        "de": { "title": "Tiere" }
       }
+    },
+    "translations": {
+      "en": { "title": "Donkey", "sound": "donkey.mp3" },
+      "es": { "title": "el burro", "sound": "burro_es.mp3" },
+      "hr": { "title": "Magarac", "sound": "magarac.mp3" },
+      "fr": { "title": "l’âne", "sound": "ane_fr.mp3" },
+      "de": { "title": "der Esel", "sound": "esel_de.mp3" }
+    }
+  },
+  {
+    "id": 416,
+    "name": "turkey",
+    "image": "turkey.svg",
+    "sound": "turkey.mp3",
+    "category": {
+      "id": 2,
+      "slug": "animals",
+      "image": "animals.png",
+      "color": "#D2F1D9",
+      "translations": {
+        "en": { "title": "Animals" },
+        "es": { "title": "Animales" },
+        "hr": { "title": "Životinje" },
+        "fr": { "title": "Animaux" },
+        "de": { "title": "Tiere" }
+      }
+    },
+    "translations": {
+      "en": { "title": "Turkey", "sound": "turkey.mp3" },
+      "es": { "title": "el pavo", "sound": "pavo_es.mp3" },
+      "hr": { "title": "Puran", "sound": "puran.mp3" },
+      "fr": { "title": "la dinde", "sound": "dinde_fr.mp3" },
+      "de": { "title": "der Truthahn", "sound": "truthahn_de.mp3" }
+    }
+  },
+  {
+    "id": 417,
+    "name": "chick",
+    "image": "chick.svg",
+    "sound": "chick.mp3",
+    "category": {
+      "id": 2,
+      "slug": "animals",
+      "image": "animals.png",
+      "color": "#D2F1D9",
+      "translations": {
+        "en": { "title": "Animals" },
+        "es": { "title": "Animales" },
+        "hr": { "title": "Životinje" },
+        "fr": { "title": "Animaux" },
+        "de": { "title": "Tiere" }
+      }
+    },
+    "translations": {
+      "en": { "title": "Chick", "sound": "chick.mp3" },
+      "es": { "title": "el pollito", "sound": "pollito_es.mp3" },
+      "hr": { "title": "Pile", "sound": "pile.mp3" },
+      "fr": { "title": "le poussin", "sound": "poussin_fr.mp3" },
+      "de": { "title": "das Küken", "sound": "kueken_de.mp3" }
+    }
+  },
+  {
+    "id": 418,
+    "name": "rabbit",
+    "image": "rabbit.svg",
+    "sound": "rabbit.mp3",
+    "category": {
+      "id": 2,
+      "slug": "animals",
+      "image": "animals.png",
+      "color": "#D2F1D9",
+      "translations": {
+        "en": { "title": "Animals" },
+        "es": { "title": "Animales" },
+        "hr": { "title": "Životinje" },
+        "fr": { "title": "Animaux" },
+        "de": { "title": "Tiere" }
+      }
+    },
+    "translations": {
+      "en": { "title": "Rabbit", "sound": "rabbit.mp3" },
+      "es": { "title": "el conejo", "sound": "conejo_es.mp3" },
+      "hr": { "title": "Zec", "sound": "zec.mp3" },
+      "fr": { "title": "le lapin", "sound": "lapin_fr.mp3" },
+      "de": { "title": "das Kaninchen", "sound": "kaninchen_de.mp3" }
     }
   }
 ]
