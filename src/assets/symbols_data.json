@@ -6310,8 +6310,8 @@
         "sound": "sombrero_es.mp3"
       },
       "hr": {
-        "title": "Kapa",
-        "sound": "kapa.mp3"
+        "title": "Šešir",
+        "sound": "sesir.mp3"
       },
       "fr": {
         "title": "le chapeau",
@@ -6361,8 +6361,8 @@
         "sound": "tapa_es.mp3"
       },
       "hr": {
-        "title": "Šešir",
-        "sound": "sesir.mp3"
+        "title": "Kapa",
+        "sound": "kapa.mp3"
       },
       "fr": {
         "title": "le capuchon",
