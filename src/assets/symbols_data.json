@@ -9583,7 +9583,7 @@
       },
       "de": {
         "title": "orange",
-        "sound": "orange_de.mp3"
+        "sound": "orangecolor_de.mp3"
       }
     }
   },
@@ -16315,7 +16315,7 @@
       },
       "de": {
         "title": "die Zahlen",
-        "sound": "zahlen_de.mp3"
+        "sound": "diezahlen_de.mp3"
       }
     }
   },
@@ -16680,7 +16680,7 @@
     "id": 328,
     "name": "take a bath",
     "image": "take_a_bath.svg",
-    "sound": "",
+    "sound": "take_a_bath.mp3",
     "category": {
       "id": 14,
       "slug": "actions_everyday_phrases",
@@ -16782,7 +16782,7 @@
     "id": 330,
     "name": "eat breakfast",
     "image": "eat_breakfast.svg",
-    "sound": "",
+    "sound": "eat_breakfast.mp3",
     "category": {
       "id": 14,
       "slug": "actions_everyday_phrases",
@@ -16935,7 +16935,7 @@
     "id": 333,
     "name": "eat lunch",
     "image": "eat_lunch.svg",
-    "sound": "",
+    "sound": "eat_lunch.mp3",
     "category": {
       "id": 14,
       "slug": "actions_everyday_phrases",
@@ -16978,7 +16978,7 @@
       },
       "de": {
         "title": "Mittag essen",
-        "sound": "essen_de.mp3"
+        "sound": "mittagessen_de.mp3"
       }
     }
   },
@@ -17029,7 +17029,7 @@
       },
       "de": {
         "title": "Hausaufgaben machen",
-        "sound": "machen_de.mp3"
+        "sound": "hausaufgabenmachen_de.mp3"
       }
     }
   },
@@ -17088,7 +17088,7 @@
     "id": 336,
     "name": "eat dinner",
     "image": "eat_dinner.svg",
-    "sound": "",
+    "sound": "eat_dinner.mp3",
     "category": {
       "id": 14,
       "slug": "actions_everyday_phrases",
@@ -17131,7 +17131,7 @@
       },
       "de": {
         "title": "Abendessen essen",
-        "sound": "abendessen _essen_de.mp3"
+        "sound": "abendessen_essen_de.mp3"
       }
     }
   },
@@ -17487,8 +17487,8 @@
         "sound": "vous_etes_les_bienvenus_fr.mp3"
       },
       "de": {
-        "title": "Bitte schön / Gern geschehen",
-        "sound": "schon_de.mp3"
+        "title": "Bitte schön",
+        "sound": "bitteschon_de.mp3"
       }
     }
   },
@@ -17504,7 +17504,7 @@
       "color": "#E2E6FC",
       "translations": {
         "en": {
-          "title": "Actions / Everyday Phrases"
+          "title": "Actions and Everyday Phrases"
         },
         "es": {
           "title": "Acciones / Frases cotidianas"
@@ -18026,7 +18026,7 @@
           "title": "Jouets et divertissement"
         },
         "de": {
-          "title": "Spielzeug & Spaß"
+          "title": "Spielzeug und Spaß"
         }
       }
     },
@@ -18291,7 +18291,7 @@
         "sound": "car_(toy).mp3"
       },
       "es": {
-        "title": "El coche (de juguete)",
+        "title": "El coche",
         "sound": "coche_de_juguete__es.mp3"
       },
       "hr": {
@@ -18299,11 +18299,11 @@
         "sound": "autic.mp3"
       },
       "fr": {
-        "title": "La voiture (jouet)",
+        "title": "La voiture",
         "sound": "voiture_jouet__fr.mp3"
       },
       "de": {
-        "title": "das Auto (Spielzeug)",
+        "title": "das Auto",
         "sound": "auto_spielzeug_de.mp3"
       }
     }
@@ -20548,7 +20548,7 @@
       },
       "de": {
         "title": "Hausaufgaben machen",
-        "sound": "machen_de.mp3"
+        "sound": "hausaufgabenmachen_de.mp3"
       }
     }
   },
@@ -20650,7 +20650,7 @@
       },
       "de": {
         "title": "Mittag essen",
-        "sound": "essen_de.mp3"
+        "sound": "mittagessen_de.mp3"
       }
     }
   },

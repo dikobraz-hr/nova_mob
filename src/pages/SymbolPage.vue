@@ -23,6 +23,8 @@
       :onPlaySound="playSound"
       :onPlayMainSound="playMainSound"
       :onToggleFavorite="toggleFavorite"
+      :isPlaying="isPlaying"
+      :isPlayingMain="isPlayingMain"
     />
   </div>
   </q-page>
@@ -54,7 +56,8 @@ const symbol = ref(null)
 const categoryName = ref(null)
 const categoryColor = ref('#ffffff')
 const isFavorite = ref(false)
-
+const isPlaying = ref(false);
+const isPlayingMain = ref(false);
 onMounted(() => {
   loadSymbol()
 })
@@ -86,10 +89,19 @@ function playSound() {
     // Stop any currently playing audio
     if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
     currentAudio = new Audio(`/sounds/${locale.value}/${sound}`);
+    isPlaying.value = true;
     currentAudio.play();
+    currentAudio.onended = () => {
+      isPlaying.value = false;
+    };
+    currentAudio.onerror = () => {
+      isPlaying.value = false;
+    };
   }
 }
 
@@ -97,12 +109,22 @@ function playMainSound() {
   const sound = symbol.value?.sound;
   if (sound) {
     // Stop any currently playing audio
+    // Stop any currently playing audio
     if (currentAudio) {
       currentAudio.pause();
+      isPlayingMain.value = false;
+      isPlaying.value = false;
       currentAudio.currentTime = 0;
     }
     currentAudio = new Audio(`/sounds/descriptive/${sound}`);
+    isPlayingMain.value = true;
     currentAudio.play();
+    currentAudio.onended = () => {
+      isPlayingMain.value = false;
+    };
+    currentAudio.onerror = () => {
+      isPlayingMain.value = false;
+    };
   }
 }
 function toggleFavorite() {
@@ -124,6 +146,8 @@ function getSymbolsInCategory() {
 function goNext() {
    if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
   const symbolsInCategory = getSymbolsInCategory()
@@ -135,6 +159,8 @@ function goNext() {
 function goRandom() {
    if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
   const symbolsInCategory = getSymbolsInCategory()
@@ -156,6 +182,8 @@ function goRandom() {
 function goPrev() {
    if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
   const symbolsInCategory = getSymbolsInCategory()

@@ -2,8 +2,8 @@
   <div class="info-row">
     <div class="symbol-title">{{ title }}</div>
     <div class="icon-buttons">
-      <q-btn round icon="record_voice_over" @click="onPlaySound" color="primary" text-color="dark" size="lg"/>
-      <q-btn round icon="volume_up" @click="onPlayMainSound" v-if="symbol.sound" size="lg" color="secondary" text-color="dark"/>
+      <q-btn round icon="record_voice_over" @click="onPlaySound" color="primary" text-color="dark" size="lg" :class="{ playing: isPlaying }"/>
+      <q-btn round icon="volume_up" @click="onPlayMainSound" v-if="symbol.sound" size="lg" color="secondary" text-color="dark" :class="{ playingMain: isPlayingMain }"/>
       <!-- <q-btn
         flat
         round
@@ -22,7 +22,9 @@ defineProps({
   isFavorite: Boolean,
   onPlaySound: Function,
   onPlayMainSound:Function,
-  onToggleFavorite: Function
+  onToggleFavorite: Function,
+  isPlaying: Boolean,
+  isPlayingMain: Boolean
 })
 </script>
 
@@ -53,5 +55,23 @@ defineProps({
   max-width: 64px;
   min-height: 3em;
 
+}
+.playing,.playingMain {
+  animation: pulse 1s infinite;
+
+}
+.playing{
+  box-shadow: 0 0 2px 2px #ff8b25c1;
+
+}
+.playingMain{
+  box-shadow: 0 0 2px 2px #8be9ffc1;
+
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
 }
 </style>

@@ -21,6 +21,8 @@
         :onPlaySound="playSound"
         :onPlayMainSound="playMainSound"
         :onToggleFavorite="toggleFavorite"
+         :isPlaying="isPlaying"
+      :isPlayingMain="isPlayingMain"
       />
     </div>
   </q-page>
@@ -43,6 +45,8 @@ const isFavorite = ref(false)
 
 const translatedTitle = computed(() => symbol.value?.translations?.[locale.value]?.title)
 const translatedSound = computed(() => symbol.value?.translations?.[locale.value]?.sound)
+const isPlaying = ref(false);
+const isPlayingMain = ref(false);
 
 function getAllSymbols() {
   return symbolsData
@@ -70,6 +74,8 @@ onMounted(() => {
 function goRandom() {
    if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
   loadRandomSymbol()
@@ -84,10 +90,19 @@ function playSound() {
     // Stop any currently playing audio
     if (currentAudio) {
       currentAudio.pause();
+      isPlaying.value = false;
+      isPlayingMain.value = false;
       currentAudio.currentTime = 0;
     }
     currentAudio = new Audio(`/sounds/${locale.value}/${sound}`);
+    isPlaying.value = true;
     currentAudio.play();
+    currentAudio.onended = () => {
+      isPlaying.value = false;
+    };
+    currentAudio.onerror = () => {
+      isPlaying.value = false;
+    };
   }
 }
 
@@ -95,12 +110,22 @@ function playMainSound() {
   const sound = symbol.value?.sound;
   if (sound) {
     // Stop any currently playing audio
+    // Stop any currently playing audio
     if (currentAudio) {
       currentAudio.pause();
+      isPlayingMain.value = false;
+      isPlaying.value = false;
       currentAudio.currentTime = 0;
     }
     currentAudio = new Audio(`/sounds/descriptive/${sound}`);
+    isPlayingMain.value = true;
     currentAudio.play();
+    currentAudio.onended = () => {
+      isPlayingMain.value = false;
+    };
+    currentAudio.onerror = () => {
+      isPlayingMain.value = false;
+    };
   }
 }
 
