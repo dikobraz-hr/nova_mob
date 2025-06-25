@@ -1,12 +1,19 @@
 <template>
     <q-page class="q-pa-md">
-      
+
         <div class="q-pt-md q-mt-lg q-pb-sm">
-            
+
             <LanguageSwitcher />
             </div>
-       
 
+      <q-btn rounded
+
+          @click="goTo('/Buy')"
+          aria-label="Categories"
+      >
+        <q-icon name="cart" />
+        <span>{{$t('Buy')}}</span>
+      </q-btn>
         <div class="q-card q-my-md q-mb-lg">
         <div class="q-pt-md text-body2">
             <router-link to="/instructions" class=" q-pa-md  text-body2">{{ $t('Instructions') }}</router-link>
@@ -16,7 +23,7 @@
             <router-link to="/terms" class="q-pa-md text-body2">{{ $t('Terms') }}</router-link>
         </div>
         </div>
-        
+
         <div class="q-card q-pa-md q-mt-lg q-pt-sm">
         <h2 class="text-h5 q-mb-md q-mt-sm">{{$t('contact')}}</h2>
         <div class="q-py-md text-body2 text-center">
@@ -48,6 +55,10 @@
 <script setup>
 import { ref } from 'vue'
 import LanguageSwitcher from 'components/LanguageSwitcher.vue'
+import { useRouter } from 'vue-router'
+
+const router = useRouter()
+
 const name = ref('')
 const email = ref('')
 const message = ref('')
@@ -61,6 +72,9 @@ function submitForm() {
     name.value = ''
     email.value = ''
     message.value = ''
+}
+const goTo = (path) => {
+  router.push(path)
 }
 </script>
 <style>
