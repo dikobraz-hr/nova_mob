@@ -3,7 +3,7 @@
     <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" />
     <div v-if="symbol" v-touch-swipe="goRandom">
       <div class="fit row wrap justify-center items-start content-start">
-        <q-btn round icon="shuffle" class="q-mb-md" color="accent" text-color="dark" @click="goRandom" size="lg" />
+        <q-btn round  class="q-mb-md "  color="accent" text-color="dark" @click="goRandom" size="lg">  <q-img src="wand.svg"  width="35px" /></q-btn>
       </div>
 
       <SymbolImage

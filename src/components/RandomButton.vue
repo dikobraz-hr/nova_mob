@@ -1,7 +1,7 @@
 <template>
   <div class="random-btn-wrapper">
     <q-btn
-      :label="$t('random selection')"
+      :label="$t('game')"
       class="random-btn"
       rounded
       unelevated
