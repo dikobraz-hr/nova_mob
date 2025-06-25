@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" :label="categoryName"/>
-<div v-if="symbol">
+<div v-if="symbol" v-touch-swipe="onSwipe">
   <div class="fit row no-wrap justify-between items-start content-start">
         <q-btn round icon="arrow_back" class="q-mb-md "  color="secondary" text-color="dark" @click="goPrev" size="lg"/>
          <q-btn round icon="shuffle" class="q-mb-md "  color="accent" text-color="dark" @click="goRandom" size="lg"/>
@@ -155,6 +155,13 @@ function goNext() {
   const nextIndex = (currentIndex + 1) % symbolsInCategory.length
   const nextSymbol = symbolsInCategory[nextIndex]
   router.push(`/pojam/${categoryId}/${nextSymbol.id}`)
+}
+function onSwipe({ direction }) {
+  if (direction === 'left') {
+    goNext()
+  } else if (direction === 'right') {
+    goPrev()
+  }
 }
 function goRandom() {
    if (currentAudio) {
