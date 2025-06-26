@@ -18287,7 +18287,7 @@
     },
     "translations": {
       "en": {
-        "title": "Car (toy)",
+        "title": "Toy car",
         "sound": "car_(toy).mp3"
       },
       "es": {
@@ -18546,7 +18546,7 @@
         "sound": "tired.mp3"
       },
       "es": {
-        "title": "Cansado / Cansada (adj.)",
+        "title": "Cansado",
         "sound": "cansado_es.mp3"
       },
       "hr": {
@@ -18554,7 +18554,7 @@
         "sound": "umoran.mp3"
       },
       "fr": {
-        "title": "Fatigué / Fatiguée (adj.)",
+        "title": "Fatigué",
         "sound": "fatigue_fr.mp3"
       },
       "de": {
@@ -18597,7 +18597,7 @@
         "sound": "excited.mp3"
       },
       "es": {
-        "title": "Entusiasmado / Entusiasmada",
+        "title": "Entusiasmado",
         "sound": "entusiasmado_es.mp3"
       },
       "hr": {
@@ -18605,7 +18605,7 @@
         "sound": "uzbuden.mp3"
       },
       "fr": {
-        "title": "Excité / Excitée",
+        "title": "Excité",
         "sound": "excite_fr.mp3"
       },
       "de": {
@@ -18648,7 +18648,7 @@
         "sound": "scared.mp3"
       },
       "es": {
-        "title": "Asustado / Asustada",
+        "title": "Asustado",
         "sound": "asustado_es.mp3"
       },
       "hr": {
@@ -18656,7 +18656,7 @@
         "sound": "uplasen.mp3"
       },
       "fr": {
-        "title": "Effrayé / Effrayée",
+        "title": "Effrayé",
         "sound": "effraye_fr.mp3"
       },
       "de": {
@@ -18707,7 +18707,7 @@
         "sound": "hrabro.mp3"
       },
       "fr": {
-        "title": "Courageux / Courageuse",
+        "title": "Courageux",
         "sound": "courageux_fr.mp3"
       },
       "de": {
@@ -18750,7 +18750,7 @@
         "sound": "shy.mp3"
       },
       "es": {
-        "title": "Tímido / Tímida",
+        "title": "Tímido",
         "sound": "timido_es.mp3"
       },
       "hr": {
@@ -18809,7 +18809,7 @@
         "sound": "prijateljski.mp3"
       },
       "fr": {
-        "title": "Amical / Amicale",
+        "title": "Amical",
         "sound": "amical_fr.mp3"
       },
       "de": {
@@ -18860,7 +18860,7 @@
         "sound": "ljubazan.mp3"
       },
       "fr": {
-        "title": "Gentil / Gentille",
+        "title": "Gentil",
         "sound": "gentil_fr.mp3"
       },
       "de": {
@@ -18903,7 +18903,7 @@
         "sound": "silly.mp3"
       },
       "es": {
-        "title": "Tonto / Tonta",
+        "title": "Tonto",
         "sound": "tonto_es.mp3"
       },
       "hr": {
@@ -18911,7 +18911,7 @@
         "sound": "blesav.mp3"
       },
       "fr": {
-        "title": "Idiot / Idiote",
+        "title": "Idiot",
         "sound": "idiot_fr.mp3"
       },
       "de": {
@@ -18962,7 +18962,7 @@
         "sound": "pametan.mp3"
       },
       "fr": {
-        "title": "Intelligent / Intelligente",
+        "title": "Intelligent",
         "sound": "intelligent_fr.mp3"
       },
       "de": {
@@ -19107,7 +19107,7 @@
         "sound": "evening.mp3"
       },
       "es": {
-        "title": "La noche (contextual)",
+        "title": "La noche",
         "sound": "noche_es.mp3"
       },
       "hr": {
@@ -19872,7 +19872,7 @@
         "sound": "second.mp3"
       },
       "es": {
-        "title": "El segundo (time unit)",
+        "title": "El segundo",
         "sound": "segundo_es.mp3"
       },
       "hr": {
@@ -19880,7 +19880,7 @@
         "sound": "sekunda.mp3"
       },
       "fr": {
-        "title": "La seconde (time)",
+        "title": "La seconde",
         "sound": "deuxieme_fr.mp3"
       },
       "de": {
@@ -20433,7 +20433,7 @@
         "sound": "study.mp3"
       },
       "es": {
-        "title": "Estudiar / Aprender",
+        "title": "Estudiar",
         "sound": "estudiar_aprender_es.mp3"
       },
       "hr": {
@@ -20441,7 +20441,7 @@
         "sound": "uciti.mp3"
       },
       "fr": {
-        "title": "Étudier / Apprendre",
+        "title": "Étudier",
         "sound": "etudier_apprendre_fr.mp3"
       },
       "de": {
@@ -21062,7 +21062,7 @@
       }
     }
   },
-  
+
   {
     "id": 414,
     "name": "goose",
