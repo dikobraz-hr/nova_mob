@@ -40,8 +40,9 @@
         @click="goTo('/game')"
         aria-label="game"
       >
-        <q-icon name="smart_toy" />
-        <span>{{$t('Game')}}</span>
+<div class="custom-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M182.15-140 140-182.15 445.23-488l-174.84-43.08L453-644.46 437.16-860l164.76 139.08L801-802l-80.08 199.69L860-438.16 644.46-453l-114 182.61L487-445.23 182.15-140Zm23.62-523.85L140-729.62l65.77-65.76 65.77 65.76-65.77 65.77ZM555-422.61l57.23-93.24 109.54 8.16L651-591.77l41.16-101.39L590.77-652l-84.08-70.16 8.16 108.93L422-555.38l106.15 26.23L555-422.61ZM729.62-140l-65.77-65.77 65.77-65.77 65.76 65.77L729.62-140ZM572.08-572.69Z"/></svg>
+     </div>   <span>{{$t('Game')}}</span>
       </button>
       <button
         class="toolbar-btn"
@@ -77,7 +78,7 @@ watch(
       activeTab.value = 1
     } else if (newPath === '/') {
       activeTab.value = 0
-    } else if (newPath.startsWith('/account')) {
+    } else if (newPath.startsWith('/contact')) {
       activeTab.value = 2
     }else if (newPath === '/game') {
       activeTab.value = 3
@@ -148,6 +149,32 @@ min-height:calc(100vh - 90px -90px)!important
   margin-top: 10px;
   padding: 0 1px 2px;
 }
+.custom-icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 2px;
+  margin-top: 10px;
+  padding: 6px 7px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: rgb(119, 119, 119);
+}
+
+.custom-icon svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+  transition: background-color 0.3s ease, fill 0.3s ease;
+}
+
+.toolbar-btn.active .custom-icon {
+  color: #fff;
+  background-color: #ff8a25;
+  border-radius: 50%;
+
+}
 
 .toolbar-btn:hover {
   color: #818e9b;
@@ -159,6 +186,7 @@ min-height:calc(100vh - 90px -90px)!important
   border-radius: 50%;
  
 }
+
 
 .drawer-content {
   padding-top: 40px;
