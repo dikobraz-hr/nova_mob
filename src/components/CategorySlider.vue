@@ -51,7 +51,7 @@ function goToCategory(id) {
 
 .category-slide-item {
   flex: 0 0 auto;
-  width: 260px;
+  width: 230px;
   cursor: pointer;
   text-align: center;
   user-select: none;
