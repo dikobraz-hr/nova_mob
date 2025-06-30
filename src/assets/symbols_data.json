@@ -41,7 +41,7 @@
         "sound": "mama.mp3"
       },
       "fr": {
-        "title": "la Maman",
+        "title": "la maman",
         "sound": "maman_fr.mp3"
       },
       "de": {
@@ -92,7 +92,7 @@
         "sound": "tata.mp3"
       },
       "fr": {
-        "title": "le Papa",
+        "title": "le papa",
         "sound": "papa_fr.mp3"
       },
       "de": {
@@ -143,7 +143,7 @@
         "sound": "beba.mp3"
       },
       "fr": {
-        "title": "le Bébé",
+        "title": "le bébé",
         "sound": "bebe_fr.mp3"
       },
       "de": {
@@ -194,7 +194,7 @@
         "sound": "djecak.mp3"
       },
       "fr": {
-        "title": "le Garçon",
+        "title": "le garçon",
         "sound": "garcon_fr.mp3"
       },
       "de": {
@@ -245,7 +245,7 @@
         "sound": "djevojcica.mp3"
       },
       "fr": {
-        "title": "la Fille",
+        "title": "la fille",
         "sound": "fille_fr.mp3"
       },
       "de": {
@@ -296,7 +296,7 @@
         "sound": "baka.mp3"
       },
       "fr": {
-        "title": "la Grand-mère",
+        "title": "la grand-mère",
         "sound": "grand_mere_fr.mp3"
       },
       "de": {
@@ -347,7 +347,7 @@
         "sound": "djed.mp3"
       },
       "fr": {
-        "title": "le Grand-père",
+        "title": "le grand-père",
         "sound": "grand_pere_fr.mp3"
       },
       "de": {
@@ -398,7 +398,7 @@
         "sound": "prijatelj.mp3"
       },
       "fr": {
-        "title": "l’Ami",
+        "title": "l’ami",
         "sound": "ami_fr.mp3"
       },
       "de": {
@@ -449,7 +449,7 @@
         "sound": "ucitelj.mp3"
       },
       "fr": {
-        "title": "le Professeur",
+        "title": "le professeur",
         "sound": "professeur_fr.mp3"
       },
       "de": {
@@ -500,7 +500,7 @@
         "sound": "doktor.mp3"
       },
       "fr": {
-        "title": "le Médecin",
+        "title": "le médecin",
         "sound": "medecin_fr.mp3"
       },
       "de": {
@@ -551,7 +551,7 @@
         "sound": "glava.mp3"
       },
       "fr": {
-        "title": "la Tête",
+        "title": "la tête",
         "sound": "tete_fr.mp3"
       },
       "de": {
@@ -602,7 +602,7 @@
         "sound": "kosa.mp3"
       },
       "fr": {
-        "title": "les Cheveux",
+        "title": "les cheveux",
         "sound": "cheveux_fr.mp3"
       },
       "de": {
@@ -653,7 +653,7 @@
         "sound": "oko.mp3"
       },
       "fr": {
-        "title": "l’Œil",
+        "title": "l’œil",
         "sound": "oe_il_fr.mp3"
       },
       "de": {
@@ -704,7 +704,7 @@
         "sound": "uho.mp3"
       },
       "fr": {
-        "title": "l’Oreille",
+        "title": "l’oreille",
         "sound": "oreille_fr.mp3"
       },
       "de": {
@@ -755,7 +755,7 @@
         "sound": "nos.mp3"
       },
       "fr": {
-        "title": "le Nez",
+        "title": "le nez",
         "sound": "nez_fr.mp3"
       },
       "de": {
@@ -806,7 +806,7 @@
         "sound": "usta.mp3"
       },
       "fr": {
-        "title": "la Bouche",
+        "title": "la bouche",
         "sound": "bouche_fr.mp3"
       },
       "de": {
@@ -857,7 +857,7 @@
         "sound": "zubi.mp3"
       },
       "fr": {
-        "title": "les Dents",
+        "title": "les dents",
         "sound": "dents_fr.mp3"
       },
       "de": {
@@ -908,7 +908,7 @@
         "sound": "jezik.mp3"
       },
       "fr": {
-        "title": "la Langue",
+        "title": "la langue",
         "sound": "langue_fr.mp3"
       },
       "de": {
@@ -959,7 +959,7 @@
         "sound": "vrat.mp3"
       },
       "fr": {
-        "title": "le Cou",
+        "title": "le cou",
         "sound": "cou_fr.mp3"
       },
       "de": {
@@ -1010,7 +1010,7 @@
         "sound": "saka.mp3"
       },
       "fr": {
-        "title": "la Main",
+        "title": "la main",
         "sound": "main_fr.mp3"
       },
       "de": {
@@ -1061,7 +1061,7 @@
         "sound": "ruka.mp3"
       },
       "fr": {
-        "title": "le Bras",
+        "title": "le bras",
         "sound": "bras_fr.mp3"
       },
       "de": {
@@ -1112,7 +1112,7 @@
         "sound": "noga.mp3"
       },
       "fr": {
-        "title": "la Jambe",
+        "title": "la jambe",
         "sound": "jambe_fr.mp3"
       },
       "de": {
@@ -1163,7 +1163,7 @@
         "sound": "stopalo.mp3"
       },
       "fr": {
-        "title": "le Pied",
+        "title": "le pied",
         "sound": "pied_fr.mp3"
       },
       "de": {
@@ -1214,7 +1214,7 @@
         "sound": "koljeno.mp3"
       },
       "fr": {
-        "title": "le Genou",
+        "title": "le genou",
         "sound": "genou_fr.mp3"
       },
       "de": {
@@ -1265,7 +1265,7 @@
         "sound": "prst.mp3"
       },
       "fr": {
-        "title": "le Doigt",
+        "title": "le doigt",
         "sound": "doigt_fr.mp3"
       },
       "de": {
@@ -1316,7 +1316,7 @@
         "sound": "prst_na_nozi.mp3"
       },
       "fr": {
-        "title": "l’Orteil",
+        "title": "l’orteil",
         "sound": "orteil_fr.mp3"
       },
       "de": {
@@ -5702,7 +5702,7 @@
         "sound": "majica.mp3"
       },
       "fr": {
-        "title": "la chemise",
+        "title": "le t-shirt",
         "sound": "chemise_fr.mp3"
       },
       "de": {
@@ -6365,7 +6365,7 @@
         "sound": "kapa.mp3"
       },
       "fr": {
-        "title": "le capuchon",
+        "title": "la casquette",
         "sound": "capuchon_fr.mp3"
       },
       "de": {
@@ -6467,7 +6467,7 @@
         "sound": "sal.mp3"
       },
       "fr": {
-        "title": "le foulard",
+        "title": "l’écharpe",
         "sound": "foulard_fr.mp3"
       },
       "de": {
@@ -12383,7 +12383,7 @@
         "sound": "citati.mp3"
       },
       "fr": {
-        "title": "À lire",
+        "title": "Lire",
         "sound": "a_lire_fr.mp3"
       },
       "de": {
@@ -12740,7 +12740,7 @@
         "sound": "slusati.mp3"
       },
       "fr": {
-        "title": "Pour écouter",
+        "title": "Écouter",
         "sound": "pour_ecouter_fr.mp3"
       },
       "de": {
@@ -12842,7 +12842,7 @@
         "sound": "otvoriti.mp3"
       },
       "fr": {
-        "title": "Pour ouvrir",
+        "title": "Ouvrir",
         "sound": "pour_ouvrir_fr.mp3"
       },
       "de": {
@@ -12893,7 +12893,7 @@
         "sound": "zatvoriti.mp3"
       },
       "fr": {
-        "title": "Pour fermer",
+        "title": "Fermer",
         "sound": "pour_fermer_fr.mp3"
       },
       "de": {
@@ -12944,7 +12944,7 @@
         "sound": "pomoci.mp3"
       },
       "fr": {
-        "title": "Pour aider",
+        "title": "Aider",
         "sound": "pour_aider_fr.mp3"
       },
       "de": {
@@ -14117,8 +14117,8 @@
         "sound": "cist.mp3"
       },
       "fr": {
-        "title": "Faire le ménage",
-        "sound": "faire_le_menage_fr.mp3"
+        "title": "Propre",
+        "sound": "propre_fr.mp3"
       },
       "de": {
         "title": "sauber",
@@ -14423,8 +14423,8 @@
         "sound": "dobro.mp3"
       },
       "fr": {
-        "title": "Bien",
-        "sound": "bien_fr.mp3"
+        "title": "Bon",
+        "sound": "bon_fr.mp3"
       },
       "de": {
         "title": "gut",
@@ -16004,7 +16004,7 @@
         "sound": "stol.mp3"
       },
       "fr": {
-        "title": "Le bureau",
+        "title": "La pupitre",
         "sound": "bureau_fr.mp3"
       },
       "de": {
@@ -16514,7 +16514,7 @@
         "sound": "probuditi_se.mp3"
       },
       "fr": {
-        "title": "Réveillez-vous",
+        "title": "Se réveiller",
         "sound": "reveillez_vous_fr.mp3"
       },
       "de": {
@@ -18911,7 +18911,7 @@
         "sound": "blesav.mp3"
       },
       "fr": {
-        "title": "Idiot",
+        "title": "Bête",
         "sound": "idiot_fr.mp3"
       },
       "de": {
@@ -19727,8 +19727,8 @@
         "sound": "kasno.mp3"
       },
       "fr": {
-        "title": "En retard",
-        "sound": "en_retard_fr.mp3"
+        "title": "Tard",
+        "sound": "tard_fr.mp3"
       },
       "de": {
         "title": "spät",
@@ -20033,7 +20033,7 @@
         "sound": "probuditi_se.mp3"
       },
       "fr": {
-        "title": "Réveillez-vous",
+        "title": "Se réveiller",
         "sound": "reveillez_vous_fr.mp3"
       },
       "de": {
@@ -20237,7 +20237,7 @@
         "sound": "tusirati_se.mp3"
       },
       "fr": {
-        "title": "Prendre une douche",
+        "title": "Se doucher",
         "sound": "prendre_une_douche_fr.mp3"
       },
       "de": {

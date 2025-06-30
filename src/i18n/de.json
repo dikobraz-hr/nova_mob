@@ -69,5 +69,22 @@
   "your_name": "Ihr Name",
   "email_address": "E-Mail-Adresse",
   "your_message": "Ihre Nachricht",
-  "send_message": "Nachricht senden"
+  "send_message": "Nachricht senden",
+  "welcome": "Willkommen! So kannst du loslegen:",
+  "instruction": {
+    "menu": "Nutze das Menü, um Symbole, Spiele und Aktivitäten zu erkunden.",
+    "tapSymbol": "Tippe auf ein Symbol, um sein Bild zu sehen, seinen Ton zu hören und seine Beschreibung zu lesen.",
+    "randomSymbol": "Nutze den Zauberstab-Button, um ein zufälliges Symbol anzuzeigen.",
+    "switchLanguage": "Wechsle die Sprache im Profil-Menü."
+  },
+  "howToUse": "So verwendest du die App",
+  "termsTitle": "Allgemeine Geschäftsbedingungen",
+"termsIntro": "Durch die Nutzung dieser App stimmen Sie den folgenden Bedingungen zu:",
+"termsList": {
+  "1": "Diese App wird wie besehen und ohne Gewähr bereitgestellt.",
+  "2": "Sie dürfen Inhalte nicht ohne Genehmigung kopieren oder weiterverbreiten.",
+  "3": "Wir sammeln keine persönlichen Daten und verlangen keine Registrierung.",
+  "4": "Missbrauch der App kann zu eingeschränktem Zugriff führen."
+}
+
 }

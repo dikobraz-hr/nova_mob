@@ -54,7 +54,7 @@
   "let's_try_another": "Essayons un autre",
   "match": "Associer",
   "continue": "Continuer",
-  "contact":"Contactez-nous",
+  "contact": "Contactez-nous",
   "address": "Adresse",
   "or": "ou",
   "Instructions": "Instructions",
@@ -65,9 +65,25 @@
   "Search symbols": "Rechercher des symboles",
   "email": "E-mail",
   "see all": "Voir tout",
-"random selection": "Sélection aléatoire",
- "your_name": "Votre nom",
+  "random selection": "Sélection aléatoire",
+  "your_name": "Votre nom",
   "email_address": "Adresse e-mail",
   "your_message": "Votre message",
-  "send_message": "Envoyer le message"
+  "send_message": "Envoyer le message",
+  "welcome": "Bienvenue ! Voici comment commencer :",
+  "instruction": {
+    "menu": "Utilisez le menu pour explorer les symboles, les jeux et les activités.",
+    "tapSymbol": "Touchez un symbole pour voir son image, entendre son son et lire sa description.",
+    "randomSymbol": "Utilisez le bouton baguette magique pour voir un symbole aléatoire.",
+    "switchLanguage": "Changez de langue dans le menu Profil."
+  },
+  "howToUse": "Comment utiliser l'application",
+  "termsTitle": "Conditions générales",
+"termsIntro": "En utilisant cette application, vous acceptez les conditions suivantes :",
+"termsList": {
+  "1": "Cette application est fournie en l'état, sans garantie.",
+  "2": "Vous ne pouvez pas copier ou redistribuer le contenu sans autorisation.",
+  "3": "Nous ne collectons pas de données personnelles et n'exigeons aucune inscription.",
+  "4": "Toute utilisation abusive de l'application peut entraîner une restriction d'accès."
+}
 }

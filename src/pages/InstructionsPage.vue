@@ -3,16 +3,21 @@
     <div class="col-auto">
       <q-btn flat icon="arrow_back" @click="$router.push('/contact')" class="q-pa-md" />
     </div>
-    <h2 class="text-h5 q-mb-md">How to Use the App</h2>
+    <h2 class="text-h5 q-mb-md">{{ $t('howToUse') }}</h2>
     <q-card class="q-pa-md q-mb-md">
-      <p>Welcome! Here's how to get started:</p>
-      <ul>
-        <li>Use the <strong>Menu</strong> to explore symbols, games, and activities.</li>
-        <li>Tap a symbol to see its image, hear its sound, and read its description.</li>
-        <li>Use the shuffle button <q-icon name="shuffle" /> to see a random symbol.</li>
-        <li>Switch languages in the <strong>Settings</strong> menu.</li>
-        <li>Mark symbols as favorites for easy access.</li>
-      </ul>
+     <p>{{ $t('welcome') }}</p>
+<ul>
+  <li>{{ $t('instruction.menu') }}</li>
+  <li>{{ $t('instruction.tapSymbol') }}</li>
+  <li>
+    {{ $t('instruction.randomSymbol') }}
+    <q-img src="wand.svg" width="35px" />
+  </li>
+  <li>
+    {{ $t('instruction.switchLanguage') }}
+    <q-icon name="person" style="width:35px;font-size:32px;" />
+  </li>
+</ul>
     </q-card>
   </q-page>
 </template>

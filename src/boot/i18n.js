@@ -19,7 +19,12 @@ export default boot(({ app }) => {
     globalInjection: true,
     locale: selectedLocale,
     fallbackLocale: 'en',
-    messages
+    messages,
+    compilerOptions: {
+    // Required in vue-i18n v9+
+    // (do not use this for user-generated content!)
+    warnHtmlMessage: false
+  }
   });
 
   app.use(i18n);

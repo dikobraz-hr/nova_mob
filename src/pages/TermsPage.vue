@@ -3,15 +3,15 @@
     <div class="col-auto">
       <q-btn flat icon="arrow_back" @click="$router.push('/contact')" class="q-pa-md" />
     </div>
-    <h2 class="text-h5 q-mb-md">Terms and Conditions</h2>
+    <h2 class="text-h5 q-mb-md">{{ $t('termsTitle') }}</h2>
     <q-card class="q-pa-md">
-      <p>By using this app, you agree to the following terms:</p>
-      <ul>
-        <li>This app is provided as-is without warranties.</li>
-        <li>You may not copy or redistribute content without permission.</li>
-        <li>We do not collect personal data or require registration.</li>
-        <li>Any misuse of the app may lead to restricted access.</li>
-      </ul>
+     <p>{{ $t('termsIntro') }}</p>
+<ul>
+  <li>{{ $t('termsList.1') }}</li>
+  <li>{{ $t('termsList.2') }}</li>
+  <li>{{ $t('termsList.3') }}</li>
+  <li>{{ $t('termsList.4') }}</li>
+</ul>
     </q-card>
   </q-page>
 </template>
