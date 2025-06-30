@@ -1,14 +1,14 @@
 <template>
   <div class="random-btn-wrapper">
     <q-btn
-      :label="$t('game')"
+      
       class="random-btn"
       rounded
       unelevated
       color="primary"
       text-color="dark"
       @click="$emit('random-click')"
-    />
+    ><q-img src="wand.svg"  width="35px" /> {{ $t('game') }}</q-btn>
   </div>
 </template>
 

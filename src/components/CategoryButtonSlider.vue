@@ -39,7 +39,7 @@ function goToCategory(id) {
   margin: 0 auto;
   padding: 0 12px;
   overflow-x: auto;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .button-wrapper {

@@ -58,8 +58,8 @@ function goToCategory(id) {
 }
 
 .category-image {
-  width: 260px;
-  height: 260px;
+  width: 230px;
+  height: 230px;
   object-fit: contain;
   border-radius: 20px;
   margin-bottom: 8px;
