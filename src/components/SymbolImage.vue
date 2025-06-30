@@ -5,6 +5,7 @@
       class="symbol-img"
       :alt="alt"
       :ratio="1/1"
+      fit="contain"
        @click="onPlaySound"
     />
   </div>
@@ -43,5 +44,10 @@ const { image, alt, backgroundColor } = defineProps({
   width: 100%;
   max-width: 500px;
   border-radius: 20px;
+  max-height: 250px;
+
+}
+.symbol-img img{
+  object-fit: contain!important;
 }
 </style>

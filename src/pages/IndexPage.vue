@@ -2,9 +2,9 @@
   <q-page class="q-pa-md " style="min-height:calc(100vh - 90px - 90px)">
     <TopHeader @toggle-drawer="toggleDrawer" />
     <RandomButton @random-click="goToRandom" />
-    <CategoryButtonSlider :categories="categories" @go-to-category="goToCategory" class="q-mb-lg q-mt-md" />
+    <CategoryButtonSlider :categories="categories" @go-to-category="goToCategory" class="q-mb-sm q-mt-md" />
     <FavoritesHeader @view-all="goToCategories" />
-    <CategorySlider :categories="categories" @go-to-category="goToCategory" class="q-mt-xl" />
+    <CategorySlider :categories="categories" @go-to-category="goToCategory" class="q-mt-lg" />
   </q-page>
 </template>
 
