@@ -1,6 +1,7 @@
 <template>
   <q-page class="q-pa-md ">
-    <div class="row items-center q-mb-md">
+        <BannerAd @toggle-drawer="toggleDrawer" />
+    <div class="row items-center q-mb-md q-mt-md">
   <!-- Back button on the left -->
   <div class="col-auto">
     <q-btn
@@ -49,6 +50,7 @@
 </template>
 
 <script setup>
+import BannerAd from 'src/components/BannerAd.vue'
 import { ref, onMounted, watch, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import rawData from 'src/assets/symbols_data.json'

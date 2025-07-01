@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md ">
-    <TopHeader @toggle-drawer="toggleDrawer" />
+    <BannerAd @toggle-drawer="toggleDrawer" />
 
     <CategorySearch v-model="search" />
 
@@ -22,7 +22,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 
-import TopHeader from 'components/TopHeader.vue'
+import BannerAd from 'src/components/BannerAd.vue'
 import CategorySearch from 'components/CategorySearch.vue'
 import categoryData from 'src/assets/categories_data.json'
 

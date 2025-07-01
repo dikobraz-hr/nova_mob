@@ -1,5 +1,6 @@
 <template>
   <q-page class="q-pa-md">
+        <BannerAd @toggle-drawer="toggleDrawer" />
     <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" />
     <div v-if="symbol" v-touch-swipe="goRandom">
       <div class="fit row wrap justify-center items-start content-start">
@@ -32,6 +33,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
+import BannerAd from 'src/components/BannerAd.vue'
 import symbolsData from 'src/assets/symbols_data.json'
 import SymbolImage from 'components/SymbolImage.vue'
 import SymbolInfo from 'components/SymbolInfo.vue'

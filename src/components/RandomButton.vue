@@ -2,7 +2,7 @@
   <div class="random-btn-wrapper">
     <q-btn
       
-      class="random-btn"
+      class="random-btn q-mt-md q-mb-md"
       rounded
       unelevated
       color="primary"
@@ -15,7 +15,7 @@
 <style scoped>
 .random-btn-wrapper {
   max-width: 900px;
-  margin: 0 auto 48px auto;
+  margin: auto;
   padding: 0 12px;
   display: flex;
   justify-content: center;
