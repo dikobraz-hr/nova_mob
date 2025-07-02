@@ -47,7 +47,7 @@
       <button
         class="toolbar-btn"
         :class="{ active: activeTab === 2 }"
-        @click="goTo('/contact')"
+        @click="goTo('/profile')"
         aria-label="Profile"
       >
         <q-icon name="person" />
@@ -74,11 +74,11 @@ const goTo = (path) => {
 watch(
   () => route.path,
   (newPath) => {
-    if (newPath.startsWith('/category-all')) {
+    if (newPath.startsWith('/category-all') || newPath.startsWith('/category') || newPath.startsWith('/symbol')) {
       activeTab.value = 1
     } else if (newPath === '/') {
       activeTab.value = 0
-    } else if (newPath.startsWith('/contact')) {
+    } else if (newPath.startsWith('/profile') || newPath.startsWith('/terms') || newPath.startsWith('/instructions')) {
       activeTab.value = 2
     }else if (newPath === '/game') {
       activeTab.value = 3

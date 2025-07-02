@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md " style="min-height:calc(100vh - 90px - 90px)">
-    <BannerAd @toggle-drawer="toggleDrawer" />
+    <!-- <BannerAd @toggle-drawer="toggleDrawer" /> -->
     <RandomButton @random-click="goToRandom" />
     <CategoryButtonSlider :categories="categories" @go-to-category="goToCategory" class="q-mb-sm q-mt-md" />
     <FavoritesHeader @view-all="goToCategories" />
@@ -12,7 +12,7 @@
 import { ref, onMounted, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import BannerAd from '../components/BannerAd.vue'
+// import BannerAd from '../components/BannerAd.vue'
 import RandomButton from '../components/RandomButton.vue'
 import FavoritesHeader from '../components/FavoritesHeader.vue'
 import CategorySlider from '../components/CategorySlider.vue'
@@ -55,9 +55,9 @@ function goToCategory(id) {
   router.push(`/category/${id}`)
 }
 
-function toggleDrawer() {
-  console.log('Toggle drawer clicked')
-}
+// function toggleDrawer() {
+//   console.log('Toggle drawer clicked')
+// }
 </script>
 
 

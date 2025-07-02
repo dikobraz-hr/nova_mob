@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md ">
-    <BannerAd @toggle-drawer="toggleDrawer" />
+    <!-- <BannerAd @toggle-drawer="toggleDrawer" /> -->
 
     <CategorySearch v-model="search" />
 
@@ -22,7 +22,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 
-import BannerAd from 'src/components/BannerAd.vue'
+// import BannerAd from 'src/components/BannerAd.vue'
 import CategorySearch from 'components/CategorySearch.vue'
 import categoryData from 'src/assets/categories_data.json'
 
@@ -71,9 +71,9 @@ function goToCategory(id) {
   router.push(`/category/${id}`)
 }
 
-function toggleDrawer() {
-  console.log('Drawer toggled')
-}
+// function toggleDrawer() {
+//   console.log('Drawer toggled')
+// }
 </script>
 
 <style scoped lang="scss" src="../css/categoryAll.scss"></style>

@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md ">
-        <BannerAd @toggle-drawer="toggleDrawer" />
+        <!-- <BannerAd @toggle-drawer="toggleDrawer" /> -->
     <div class="row items-center q-mb-md q-mt-md">
   <!-- Back button on the left -->
   <div class="col-auto">
@@ -50,7 +50,7 @@
 </template>
 
 <script setup>
-import BannerAd from 'src/components/BannerAd.vue'
+// import BannerAd from 'src/components/BannerAd.vue'
 import { ref, onMounted, watch, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import rawData from 'src/assets/symbols_data.json'
@@ -96,7 +96,7 @@ watch(locale, () => {
 
 
 function goToPojam(pojam) {
-  router.push(`/pojam/${pojam.category.id}/${pojam.id}`)
+  router.push(`/symbol/${pojam.category.id}/${pojam.id}`)
 }
 </script>
 

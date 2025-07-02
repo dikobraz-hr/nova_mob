@@ -1,10 +1,10 @@
 <template>
   <q-page class="q-pa-md">
-    <FullscreenAd ref="fullscreenAd">
+    <!-- <FullscreenAd ref="fullscreenAd"> -->
       <!-- Insert your actual ad iframe/component or ad code here -->
-    </FullscreenAd>
+    <!-- </FullscreenAd> -->
     <!-- <q-btn label="Show Ad" @click="showFullScreenAd" /> -->
-    <BannerAd @toggle-drawer="toggleDrawer" />
+    <!-- <BannerAd @toggle-drawer="toggleDrawer" /> -->
     <q-btn flat icon="arrow_back" class="q-mb-md q-pa-md" @click="goBack" :label="categoryName" />
     <div v-if="symbol" v-touch-swipe="onSwipe">
       <div class="fit row no-wrap justify-between items-start content-start">
@@ -27,17 +27,17 @@
 <script setup>
 import { ref, onMounted, watch } from 'vue'
 
-import FullscreenAd from 'components/FullscreenAd.vue';
+// import FullscreenAd from 'components/FullscreenAd.vue';
 
 
 import { useRoute, useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import symbolsData from 'src/assets/symbols_data.json'
-import BannerAd from 'src/components/BannerAd.vue'
+// import BannerAd from 'src/components/BannerAd.vue'
 import SymbolImage from 'components/SymbolImage.vue'
 import SymbolInfo from 'components/SymbolInfo.vue'
 import { computed } from 'vue'
-const fullscreenAd = ref(null);
+// const fullscreenAd = ref(null);
 
 
 const translatedTitle = computed(() => symbol.value?.translations?.[locale.value]?.title)
@@ -53,7 +53,7 @@ const categoryId = Number(route.params.categoryId)
 const symbolId = computed(() => Number(route.params.symbolId))
 
 const symbol = ref(null)
-const visitCount = ref(Number(localStorage.getItem('visitCount') || 0))
+// const visitCount = ref(Number(localStorage.getItem('visitCount') || 0))
 const categoryName = ref(null)
 const categoryColor = ref('#ffffff')
 const isFavorite = ref(false)
@@ -76,12 +76,12 @@ function loadSymbol() {
     symbol.value = found
     categoryColor.value = found.category?.color ? found.category.color + '80' : '#ffffff80'
     categoryName.value = found.category.translations[locale.value].title;
-    visitCount.value++
-    localStorage.setItem('visitCount', visitCount.value)
+    // visitCount.value++
+    // localStorage.setItem('visitCount', visitCount.value)
 
-    if (visitCount.value % 5 === 0) {
-      fullscreenAd.value?.showAd()
-    }
+    // if (visitCount.value % 5 === 0) {
+    //   fullscreenAd.value?.showAd()
+    // }
 
   } else {
     router.replace(`/category/${categoryId}`)
@@ -161,7 +161,7 @@ function goNext() {
   const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
   const nextIndex = (currentIndex + 1) % symbolsInCategory.length
   const nextSymbol = symbolsInCategory[nextIndex]
-  router.push(`/pojam/${categoryId}/${nextSymbol.id}`)
+  router.push(`/symbol/${categoryId}/${nextSymbol.id}`)
 }
 function onSwipe({ direction }) {
   if (direction === 'left') {
@@ -191,7 +191,7 @@ function goRandom() {
     randomSymbol = symbolsInCategory[randomIndex]
   } while (randomSymbol.id === currentId)
 
-  router.push(`/pojam/${categoryId}/${randomSymbol.id}`)
+  router.push(`/symbol/${categoryId}/${randomSymbol.id}`)
 }
 function goPrev() {
   if (currentAudio) {
@@ -204,7 +204,7 @@ function goPrev() {
   const currentIndex = symbolsInCategory.findIndex((item) => item.id === symbolId.value)
   const prevIndex = (currentIndex - 1 + symbolsInCategory.length) % symbolsInCategory.length
   const prevSymbol = symbolsInCategory[prevIndex]
-  router.push(`/pojam/${categoryId}/${prevSymbol.id}`)
+  router.push(`/symbol/${categoryId}/${prevSymbol.id}`)
 }
 
 </script>

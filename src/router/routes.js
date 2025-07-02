@@ -7,8 +7,8 @@ const routes = [
       { path: 'category/:id', component: () => import('pages/CategoryPage.vue'), props: true },
       {path: '/category-all',component: () => import('pages/CategoryAll.vue'),name: 'CategoryAll'},
       {path: '/category-all/:id',name: 'CategoryPage',component: () => import('src/pages/CategoryPage.vue')},
-      {path: '/pojam/:id',component: () => import('pages/SymbolPage.vue')},
-      { path: '/pojam/:categoryId/:symbolId',component: () => import('src/pages/SymbolPage.vue')},
+      {path: '/symbol/:id',component: () => import('pages/SymbolPage.vue')},
+      { path: '/symbol/:categoryId/:symbolId',component: () => import('src/pages/SymbolPage.vue')},
       { path: '/game',component: () => import('src/pages/GamePage.vue')},
       {
   path: '/instructions',
@@ -19,7 +19,7 @@ const routes = [
   component: () => import('pages/TermsPage.vue')
 },
 {
-  path: '/contact',
+  path: '/profile',
   component: () => import('pages/ContactPage.vue')
 }
       
