@@ -84,7 +84,7 @@
     "1": "Dobrodošli u Ziblo, zabavno i edukativno iskustvo koje je razvio Dikobraz. Korištenjem aplikacije Ziblo prihvaćate ove Uvjete korištenja. Ovi uvjeti osiguravaju sigurno i odgovorno okruženje za djecu i njihove roditelje ili skrbnike. Ako se ne slažete s ovim uvjetima, nemojte koristiti aplikaciju.",
     "2": "Ziblo je namijenjen djeci svih uzrasta. Iako se aplikacija koristi offline, neke značajke mogu zahtijevati internetsku vezu. Ne prikupljamo dob niti datum rođenja namjerno.",
     "3": "Preporučujemo da roditelji i skrbnici nadziru korištenje aplikacije od strane svoje djece.",
-    "4": "Prikupljamo ograničene osobne podatke kako bismo poboljšali igru i pružili podršku. Konkretno:<br/>• E-mail adresa<br/>• Tehnički podaci (npr. izvješća o pogreškama, podaci o uređaju – anonimizirani i korišteni isključivo za poboljšanje aplikacije)<br/>Ne prikupljamo puna imena, dob ni lokaciju i nikada ne prodajemo niti dijelimo osobne podatke s trećim stranama bez izričitog pristanka, osim ako to nije zakonski obavezno.",
+    "4": "Prikupljamo ograničene osobne podatke kako bismo poboljšali igru i pružili podršku. Konkretno:<br/>• E-mail adresa<br/>• Tehnički podaci (npr. izvješća o pogreškama, podaci o uređaju - anonimizirani i korišteni isključivo za poboljšanje aplikacije)<br/>Ne prikupljamo puna imena, dob ni lokaciju i nikada ne prodajemo niti dijelimo osobne podatke s trećim stranama bez izričitog pristanka, osim ako to nije zakonski obavezno.",
     "5": "Ziblo može nuditi opcionalne kupnje u aplikaciji ili pretplate. Sva plaćanja obrađuju se putem sigurnih platformi trećih strana (kao što je Google Play). Preporučujemo da roditelji uključe roditeljski nadzor i prate kupnje gdje je to primjenjivo.",
     "6": "Od korisnika se očekuje da koriste aplikaciju s poštovanjem. Sadržaj koji generiraju ili šalju korisnici (ako bude omogućen u budućnosti) mora biti primjeren za djecu. Zadržavamo pravo ukloniti ili blokirati bilo koji sadržaj ili aktivnost koja krši ove standarde.",
     "7": "U potpunosti smo usklađeni s Općom uredbom o zaštiti podataka (GDPR):<br/>• Osobne podatke prikupljamo i obrađujemo samo kada za to imamo pravnu osnovu (npr. privolu).<br/>• Korisnici (ili njihovi roditelji/skrbnici) imaju pravo pristupa, ispravka ili brisanja svojih podataka u bilo kojem trenutku.<br/>• Osobni podaci se ne čuvaju dulje nego što je potrebno.<br/>• Podaci se pohranjuju sigurno, a pristup imaju samo ovlaštene osobe.<br/>Ako želite ostvariti svoja prava prema GDPR-u ili imate pitanja o obradi podataka, kontaktirajte nas na support@dikobraz.hr.",
@@ -106,6 +106,6 @@
     "11": "<h6 class='q-my-none'>Detalji politike</h6><br/>Ova politika je stupila na snagu 01.01.2024. Zadržavamo pravo na ažuriranje prema promjenama zakonodavstva i najboljim praksama."
   },
   "policyTitle": "Politika zaštite dječjih prava",
-  "to_remove_ads": "Za uklanjanje oglasa kupite jednokratno za 5,99 €",
+  "to_remove_ads": "Za uklanjanje oglasa kupite jednokratno za 5,99€",
   "buy": "Kupi"
 }
