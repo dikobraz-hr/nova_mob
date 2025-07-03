@@ -5,15 +5,15 @@
     </div>
     <h2 class="text-h5 q-mb-md">{{ $t('termsTitle') }}</h2>
     <q-card class="q-pa-md">
-  
-<ol class="q-pl-md">
 
-        <li
+
+
+        <p
           v-for="(item, index) in termsList"
           :key="index"
-          v-html="item"></li>
-     
-</ol>
+          v-html="item"></p>
+
+
     </q-card>
   </q-page>
 </template>
@@ -30,6 +30,7 @@ watch(locale, val => console.log('Locale changed on terms page:', val))
 const termsList = computed(() => {
   // reference locale.value to make it reactive
   locale.value
-  return Array.from({ length: 10 }, (_, i) => t(`termsList.${i + 1}`))
+  console.log(t('termsList'))
+  return Array.from({ length: 9 }, (_, i) => t(`termsList.${i + 1}`))
 })
 </script>
