@@ -91,5 +91,21 @@
     "8": "We may update these terms from time to time. Significant changes will be communicated through the app, website, or email (if provided). Continued use of the app after updates means you accept the new terms.",
     "9": "These terms are governed by the laws of the Republic of Croatia. Any disputes will be handled by the competent courts in Croatia.",
     "10": "If you have any questions or concerns about these terms or your child’s use of Ziblo, please contact us at:<br/>• Email: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Phone: +385 91 562 4183"
-  }
+  },
+  "privacyList": {
+    "1": "<h6 class='q-my-none'>Protection of Children's Rights</h6><br/>Every child has the right to protection from violence, abuse, discrimination, and exploitation.<br/>We ensure a safe environment in our programs and implement safeguarding measures.<br/>We respect children's privacy and handle their data following data protection regulations.<br/>All volunteers and employees working with children must provide a valid certificate of no criminal record.",
+    "2": "<h6 class='q-my-none'>Rights of Persons with Disabilities</h6><br/>We ensure accessibility of our facilities and work to remove barriers to participation for persons with disabilities.<br/>We respect the individual needs of persons with disabilities and provide support to enable full participation.<br/>We promote awareness and support initiatives to realize the rights of persons with disabilities.",
+    "3": "<h6 class='q-my-none'>Education and Empowerment</h6><br/>We educate members, volunteers, and the community about the rights of children and persons with disabilities.<br/>We empower them through information, counselling, and support for active participation in decision-making.<br/>We collaborate with organizations and government bodies to promote and protect these rights locally and nationally.",
+    "4": "<h6 class='q-my-none'>Reporting Misconduct</h6><br/>For suspected abuse, neglect, or misconduct towards children, especially those with autism or developmental difficulties, Ziblo will take the following steps:",
+    "5": "<h6 class='q-my-none'>Immediate Response</h6><br/>Suspicions will be immediately reported to the appropriate individuals within the association.",
+    "6": "<h6 class='q-my-none'>Compliance with Regulations</h6><br/>We follow all laws and regulations for reporting and investigating child abuse, including mandatory reporting.",
+    "7": "<h6 class='q-my-none'>Reporting to Authorities</h6><br/>Suspicions will be promptly reported to institutions such as social welfare centers, police, or other agencies.",
+    "8": "<h6 class='q-my-none'>Cooperation with Institutions</h6><br/>We fully cooperate and support investigations into abuse or misconduct.",
+    "9": "<h6 class='q-my-none'>Child Protection</h6><br/>Our highest priority is the child's welfare; we ensure appropriate support, protection, and care following reports.",
+    "10": "<h6 class='q-my-none'>Transparency and Accountability</h6><br/>We maintain transparency in reporting and keep members and the public informed about measures taken.",
+    "11": "<h6 class='q-my-none'>Policy Details</h6><br/>This policy came into effect on 01.01.2024. We reserve the right to update this policy with legislative changes and best practices."
+  },
+  "policyTitle": "Policy of Protection of Children's Rights",
+  "to_remove_ads": "To Remove Ads Buy One Time for 5,99€",
+  "buy": "buy"
 }

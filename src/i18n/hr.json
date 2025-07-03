@@ -91,5 +91,21 @@
     "8": "Ovi uvjeti mogu se povremeno ažurirati. Značajne promjene bit će komunicirane putem aplikacije, web stranice ili e-pošte (ako je dostupna). Nastavak korištenja aplikacije nakon ažuriranja znači prihvaćanje novih uvjeta.",
     "9": "Ovi uvjeti uređeni su zakonima Republike Hrvatske. Svi sporovi rješavat će se pred nadležnim sudovima u Hrvatskoj.",
     "10": "Ako imate bilo kakva pitanja ili nedoumice u vezi s ovim uvjetima ili korištenjem aplikacije Ziblo od strane vašeg djeteta, kontaktirajte nas:<br/>• E-mail: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Telefon: +385 91 562 4183"
-  }
+  },
+  "privacyList": {
+    "1": "<h6 class='q-my-none'>Zaštita dječjih prava</h6><br/>Svako dijete ima pravo na zaštitu od nasilja, zlostavljanja, diskriminacije i iskorištavanja.<br/>Osiguravamo sigurno okruženje u našim programima i provodimo mjere zaštite.<br/>Poštujemo privatnost djece i postupamo s njihovim podacima u skladu s propisima o zaštiti podataka.<br/>Svi volonteri i zaposlenici koji rade s djecom moraju priložiti valjanu potvrdu o nekažnjavanju.",
+    "2": "<h6 class='q-my-none'>Prava osoba s invaliditetom</h6><br/>Osiguravamo pristupačnost naših objekata i radimo na uklanjanju prepreka za osobe s invaliditetom.<br/>Poštujemo individualne potrebe osoba s invaliditetom i pružamo podršku za njihovo potpuno sudjelovanje.<br/>Promičemo svijest i podržavamo inicijative za ostvarivanje prava osoba s invaliditetom.",
+    "3": "<h6 class='q-my-none'>Obrazovanje i osnaživanje</h6><br/>Obrazujemo članove, volontere i zajednicu o pravima djece i osoba s invaliditetom.<br/>Osnažujemo ih informacijama, savjetovanjem i podrškom za aktivno sudjelovanje u odlučivanju.<br/>Suradjujemo s organizacijama i državnim tijelima kako bismo promicali i štitili ta prava na lokalnoj i nacionalnoj razini.",
+    "4": "<h6 class='q-my-none'>Prijavljivanje nepravilnosti</h6><br/>U slučaju sumnje na zlostavljanje, zanemarivanje ili nepravilnosti prema djeci, osobito djeci s autizmom ili razvojnim teškoćama, Ziblo će poduzeti sljedeće korake:",
+    "5": "<h6 class='q-my-none'>Neposredni odgovor</h6><br/>Sumnje će biti odmah prijavljene odgovarajućim osobama unutar udruge.",
+    "6": "<h6 class='q-my-none'>Poštivanje propisa</h6><br/>Postupamo u skladu sa svim zakonima i propisima za prijavu i istraživanje zlostavljanja djece, uključujući obvezno prijavljivanje.",
+    "7": "<h6 class='q-my-none'>Prijava nadležnim tijelima</h6><br/>Sumnje će se pravovremeno prijaviti institucijama poput socijalnih službi, policije ili drugih tijela.",
+    "8": "<h6 class='q-my-none'>Suradnja s institucijama</h6><br/>Pružamo punu suradnju i podršku u istragama zlostavljanja ili nepravilnosti.",
+    "9": "<h6 class='q-my-none'>Zaštita djeteta</h6><br/>Naša najveća briga je dobro djece; osiguravamo podršku, zaštitu i skrb nakon prijave.",
+    "10": "<h6 class='q-my-none'>Transparentnost i odgovornost</h6><br/>Održavamo transparentnost u prijavljivanju i obavještavamo članove i javnost o poduzetim mjerama.",
+    "11": "<h6 class='q-my-none'>Detalji politike</h6><br/>Ova politika je stupila na snagu 01.01.2024. Zadržavamo pravo na ažuriranje prema promjenama zakonodavstva i najboljim praksama."
+  },
+  "policyTitle": "Politika zaštite dječjih prava",
+  "to_remove_ads": "Za uklanjanje oglasa kupite jednokratno za 5,99 €",
+  "buy": "Kupi"
 }

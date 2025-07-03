@@ -3,17 +3,11 @@
     <div class="col-auto">
       <q-btn flat icon="arrow_back" @click="$router.push('/profile')" class="q-pa-md" />
     </div>
-    <h2 class="text-h5 q-mb-md">{{ $t('termsTitle') }}</h2>
+    <h2 class="text-h5 q-mb-md">{{ $t('policyTitle') }}</h2>
     <q-card class="q-pa-md">
-  
-<ol class="q-pl-md">
-
-        <li
-          v-for="(item, index) in termsList"
+<p  v-for="(item, index) in privacyList"
           :key="index"
-          v-html="item"></li>
-     
-</ol>
+          v-html="item"></p>
     </q-card>
   </q-page>
 </template>
@@ -25,11 +19,12 @@ import { useI18n } from 'vue-i18n'
 
 const { t,locale } = useI18n()
 
-watch(locale, val => console.log('Locale changed on terms page:', val))
+watch(locale, val => console.log('Locale changed on policy page:', val))
 
-const termsList = computed(() => {
+const privacyList = computed(() => {
   // reference locale.value to make it reactive
   locale.value
-  return Array.from({ length: 10 }, (_, i) => t(`termsList.${i + 1}`))
+  console.log(t('privacyList'))
+  return Array.from({ length: 11 }, (_, i) => t(`privacyList.${i + 1}`))
 })
 </script>

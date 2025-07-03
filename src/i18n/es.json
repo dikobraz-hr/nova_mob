@@ -91,5 +91,21 @@
     "8": "Podemos actualizar estos términos de vez en cuando. Los cambios importantes se comunicarán a través de la aplicación, el sitio web o por correo electrónico (si se proporciona). El uso continuado de la aplicación después de las actualizaciones implica la aceptación de los nuevos términos.",
     "9": "Estos términos se rigen por las leyes de la República de Croacia. Cualquier disputa se resolverá ante los tribunales competentes en Croacia.",
     "10": "Si tienes preguntas o inquietudes sobre estos términos o el uso de Ziblo por parte de tu hijo, contáctanos en:<br/>• Correo electrónico: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Teléfono: +385 91 562 4183"
-  }
+  },
+  "privacyList": {
+    "1": "<h6 class='q-my-none'>Protección de los Derechos del Niño</h6><br/>Todo niño tiene derecho a protección frente a la violencia, el abuso, la discriminación y la explotación.<br/>Garantizamos un entorno seguro en nuestros programas e implementamos medidas de protección.<br/>Respetamos la privacidad de los niños y manejamos sus datos conforme a las normativas de protección de datos.<br/>Todos los voluntarios y empleados que trabajan con niños deben presentar un certificado válido de delitos no condenatorios.",
+    "2": "<h6 class='q-my-none'>Derechos de las Personas con Discapacidad</h6><br/>Aseguramos la accesibilidad de nuestras instalaciones y trabajamos para eliminar barreras para las personas con discapacidad.<br/>Respetamos las necesidades individuales y brindamos apoyo para su plena participación.<br/>Promovemos la conciencia y respaldamos iniciativas para la realización de los derechos de las personas con discapacidad.",
+    "3": "<h6 class='q-my-none'>Educación y Empoderamiento</h6><br/>Educamos a miembros, voluntarios y la comunidad sobre los derechos de los niños y las personas con discapacidad.<br/>Los empoderamos con información, asesoramiento y apoyo para su participación activa en la toma de decisiones.<br/>Colaboramos con organizaciones y organismos gubernamentales para promover y proteger estos derechos a nivel local y nacional.",
+    "4": "<h6 class='q-my-none'>Informe de Irregularidades</h6><br/>En caso de sospecha de abuso, negligencia o mala conducta hacia niños, especialmente los autistas o con dificultades del desarrollo, Ziblo tomará los siguientes pasos:",
+    "5": "<h6 class='q-my-none'>Respuesta Inmediata</h6><br/>Las sospechas serán informadas inmediatamente a las personas adecuadas dentro de la asociación.",
+    "6": "<h6 class='q-my-none'>Cumplimiento de Regulaciones</h6><br/>Cumplimos con todas las leyes y regulaciones para reportar e investigar el abuso infantil, incluyendo el reporte obligatorio.",
+    "7": "<h6 class='q-my-none'>Reporte a Autoridades</h6><br/>Las sospechas se informarán oportunamente a instituciones como servicios sociales, policía u otras agencias.",
+    "8": "<h6 class='q-my-none'>Cooperación con Instituciones</h6><br/>Cooperamos y apoyamos plenamente en las investigaciones de abuso o mala conducta.",
+    "9": "<h6 class='q-my-none'>Protección del Niño</h6><br/>Nuestra principal prioridad es el bienestar del niño; aseguramos apoyo, protección y cuidado tras la denuncia.",
+    "10": "<h6 class='q-my-none'>Transparencia y Responsabilidad</h6><br/>Mantenemos transparencia en los reportes e informamos a los miembros y al público sobre las medidas adoptadas.",
+    "11": "<h6 class='q-my-none'>Detalles de la Política</h6><br/>Esta política entró en vigor el 01.01.2024. Nos reservamos el derecho de actualizarla conforme a cambios legislativos y buenas prácticas."
+  },
+  "policyTitle": "Política de Protección de los Derechos del Niño",
+  "to_remove_ads": "Para eliminar los anuncios, compra una vez por 5,99 €",
+  "buy": "Comprar"
 }

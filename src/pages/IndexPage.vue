@@ -5,6 +5,11 @@
     <CategoryButtonSlider :categories="categories" @go-to-category="goToCategory" class="q-mb-sm q-mt-md" />
     <FavoritesHeader @view-all="goToCategories" />
     <CategorySlider :categories="categories" @go-to-category="goToCategory" class="q-mt-lg" />
+     <div class="text-center q-mt-xl q-pt-lg">
+                <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
+                <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
+                    text-color="dark">{{ $t('buy') }}</q-btn>
+            </div>
   </q-page>
 </template>
 

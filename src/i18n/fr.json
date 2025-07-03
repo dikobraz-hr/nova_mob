@@ -91,5 +91,21 @@
     "8": "Ces conditions peuvent être mises à jour de temps à autre. Les changements importants seront communiqués via l'application, le site web ou par e-mail (si disponible). L'utilisation continue de l'application après une mise à jour vaut acceptation des nouvelles conditions.",
     "9": "Ces conditions sont régies par les lois de la République de Croatie. Tout litige sera tranché par les tribunaux compétents en Croatie.",
     "10": "Si vous avez des questions ou des préoccupations concernant ces conditions ou l'utilisation de Ziblo par votre enfant, veuillez nous contacter :<br/>• E-mail : <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Téléphone : +385 91 562 4183"
-  }
+  },
+  "privacyList": {
+    "1": "<h6 class='q-my-none'>Protection des droits des enfants</h6><br/>Chaque enfant a droit à une protection contre la violence, les abus, la discrimination et l’exploitation.<br/>Nous assurons un environnement sûr dans nos programmes et appliquons des mesures de sauvegarde.<br/>Nous respectons la vie privée des enfants et traitons leurs données conformément aux régulations sur la protection des données.<br/>Tous les bénévoles et employés travaillant avec des enfants doivent fournir un certificat de bonne conduite valide.",
+    "2": "<h6 class='q-my-none'>Droits des personnes en situation de handicap</h6><br/>Nous garantissons l’accessibilité de nos installations et œuvrons à éliminer les obstacles pour les personnes handicapées.<br/>Nous respectons leurs besoins individuels et offrons un soutien pour leur pleine participation.<br/>Nous sensibilisons et soutenons les initiatives visant à réaliser leurs droits.",
+    "3": "<h6 class='q-my-none'>Éducation et autonomisation</h6><br/>Nous sensibilisons les membres, bénévoles et la communauté aux droits des enfants et des personnes handicapées.<br/>Nous les autonomisons via information, conseil et soutien pour une participation active aux décisions.<br/>Nous collaborons avec des organisations et des institutions gouvernementales pour promouvoir et protéger ces droits localement et nationalement.",
+    "4": "<h6 class='q-my-none'>Signalement des inconduites</h6><br/>En cas de suspicion d’abus, négligence ou mauvaise conduite envers des enfants, notamment autistes ou en difficulté de développement, Ziblo prendra les mesures suivantes :",
+    "5": "<h6 class='q-my-none'>Réaction immédiate</h6><br/>Les soupçons seront immédiatement signalés aux personnes concernées au sein de l’association.",
+    "6": "<h6 class='q-my-none'>Conformité aux réglementations</h6><br/>Nous respectons toutes les lois et réglementations relatives à la signalisation et à l’enquête sur les abus envers les enfants, y compris la signalisation obligatoire.",
+    "7": "<h6 class='q-my-none'>Signalement aux autorités</h6><br/>Les soupçons seront transmis rapidement aux institutions telles que les services sociaux, la police ou d’autres agences.",
+    "8": "<h6 class='q-my-none'>Coopération avec les institutions</h6><br/>Nous coopérons pleinement et soutenons les enquêtes sur les abus ou inconduites.",
+    "9": "<h6 class='q-my-none'>Protection de l’enfant</h6><br/>Notre priorité est le bien-être de l’enfant ; nous assurons un soutien, une protection et des soins appropriés après le signalement.",
+    "10": "<h6 class='q-my-none'>Transparence et responsabilité</h6><br/>Nous garantissons la transparence des signalements et informons les membres et le public des mesures prises.",
+    "11": "<h6 class='q-my-none'>Détails de la politique</h6><br/>Cette politique est entrée en vigueur le 01.01.2024. Nous nous réservons le droit de la mettre à jour en fonction des évolutions législatives et des bonnes pratiques."
+  },
+  "policyTitle": "Politique de Protection des Droits de l’Enfant",
+  "to_remove_ads": "Pour supprimer les publicités, achetez une fois pour 5,99 €",
+  "buy": "Acheter"
 }

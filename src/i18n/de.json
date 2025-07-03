@@ -91,5 +91,21 @@
     "8": "Diese Bedingungen können von Zeit zu Zeit aktualisiert werden. Wesentliche Änderungen werden über die App, die Website oder per E-Mail (falls angegeben) mitgeteilt. Die weitere Nutzung der App nach Aktualisierungen gilt als Zustimmung zu den neuen Bedingungen.",
     "9": "Diese Bedingungen unterliegen dem Recht der Republik Kroatien. Alle Streitigkeiten werden von den zuständigen Gerichten in Kroatien entschieden.",
     "10": "Bei Fragen oder Bedenken zu diesen Bedingungen oder zur Nutzung von Ziblo durch Ihr Kind kontaktieren Sie uns bitte unter:<br/>• E-Mail: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Telefon: +385 91 562 4183"
-  }
+  },
+  "privacyList": {
+    "1": "<h6 class='q-my-none'>Schutz der Kinderrechte</h6><br/>Jedes Kind hat das Recht auf Schutz vor Gewalt, Missbrauch, Diskriminierung und Ausbeutung.<br/>Wir sorgen in unseren Programmen für eine sichere Umgebung und setzen Schutzmaßnahmen um.<br/>Wir respektieren die Privatsphäre von Kindern und behandeln ihre Daten gemäß den Datenschutzbestimmungen.<br/>Alle Freiwilligen und Mitarbeitenden, die mit Kindern arbeiten, müssen ein gültiges Führungszeugnis vorlegen.",
+    "2": "<h6 class='q-my-none'>Rechte von Menschen mit Behinderungen</h6><br/>Wir sorgen für Barrierefreiheit in unseren Einrichtungen und beseitigen Hindernisse für Menschen mit Behinderungen.<br/>Wir respektieren ihre individuellen Bedürfnisse und bieten Unterstützung für volle Teilhabe.<br/>Wir fördern das Bewusstsein und unterstützen Initiativen zur Umsetzung ihrer Rechte.",
+    "3": "<h6 class='q-my-none'>Bildung und Stärkung</h6><br/>Wir schulen Mitglieder, Freiwillige und die Gemeinschaft zu den Rechten von Kindern und Menschen mit Behinderungen.<br/>Wir stärken sie mit Informationen, Beratung und Unterstützung für aktive Teilhabe an Entscheidungsprozessen.<br/>Wir arbeiten mit Organisationen und Behörden zusammen, um diese Rechte lokal und national zu fördern und zu schützen.",
+    "4": "<h6 class='q-my-none'>Meldung von Fehlverhalten</h6><br/>Bei Verdacht auf Missbrauch, Vernachlässigung oder Fehlverhalten gegenüber Kindern, insbesondere autistischen oder entwicklungsgestörten, wird Ziblo folgende Schritte einleiten:",
+    "5": "<h6 class='q-my-none'>Sofortige Reaktion</h6><br/>Verdachtsmomente werden umgehend an zuständige Personen in der Organisation gemeldet.",
+    "6": "<h6 class='q-my-none'>Regelkonformität</h6><br/>Wir halten alle Gesetze und Vorschriften zur Meldung und Untersuchung von Kindesmissbrauch ein, einschließlich der Meldepflicht.",
+    "7": "<h6 class='q-my-none'>Meldung an Behörden</h6><br/>Die Verdachtsmomente werden unverzüglich an Institutionen wie Sozialämter, Polizei oder andere Stellen gemeldet.",
+    "8": "<h6 class='q-my-none'>Zusammenarbeit mit Institutionen</h6><br/>Wir kooperieren vollständig und unterstützen Untersuchungen zu Missbrauch oder Fehlverhalten.",
+    "9": "<h6 class='q-my-none'>Kinderschutz</h6><br/>Unser oberstes Ziel ist das Wohlergehen des Kindes ; wir stellen nach einer Meldung angemessene Unterstützung, Schutz und Pflege sicher.",
+    "10": "<h6 class='q-my-none'>Transparenz und Verantwortlichkeit</h6><br/>Wir gewährleisten Transparenz bei Meldungen und informieren Mitglieder und Öffentlichkeit über ergriffene Maßnahmen.",
+    "11": "<h6 class='q-my-none'>Politikdetails</h6><br/>Diese Richtlinie trat am 01.01.2024 in Kraft. Wir behalten uns das Recht vor, sie entsprechend gesetzlicher Änderungen und guter Praxis zu aktualisieren."
+  },
+  "policyTitle": "Richtlinie zum Schutz der Kinderrechte",
+  "to_remove_ads": "Um Werbung zu entfernen, einmalig für 5,99 € kaufen",
+  "buy": "Kaufen"
 }

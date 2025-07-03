@@ -19,6 +19,10 @@ const routes = [
   component: () => import('pages/TermsPage.vue')
 },
 {
+  path: '/policy',
+  component: () => import('pages/PolicyPage.vue')
+},
+{
   path: '/profile',
   component: () => import('pages/ContactPage.vue')
 }
