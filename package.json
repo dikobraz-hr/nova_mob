@@ -15,7 +15,9 @@
     "postinstall": "quasar prepare"
   },
   "dependencies": {
+    "@admob-plus/capacitor": "^2.0.0-alpha.4",
     "@quasar/extras": "^1.16.4",
+    "admob-plus-cordova": "^2.0.0-alpha.19",
     "axios": "^1.2.1",
     "core-js": "^3.31.1",
     "pinia": "^3.0.1",

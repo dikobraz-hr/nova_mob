@@ -12,22 +12,16 @@
   ],
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
-  "devDependencies": {
-    "cordova-android": "^14.0.1"
-  },
   "cordova": {
     "platforms": [
       "android"
     ],
-    "plugins": {
-      "admob-plus-cordova": {
-        "APP_ID_ANDROID": "ca-app-pub-8386369441737725~7691645924",
-        "PLAY_SERVICES_VERSION": "23.2.0"
-      }
-    }
+    "plugins": {}
   },
   "dependencies": {
-    "admob-plus-cordova": "2.0.0-alpha.19",
     "cordova-admob-plus": "^0.42.0"
+  },
+  "devDependencies": {
+    "cordova-android": "^14.0.1"
   }
 }
