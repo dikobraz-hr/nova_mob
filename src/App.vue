@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-// 
+
 </script>
 
 <style>
@@ -13,7 +13,7 @@ html, body, #q-app {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  
+
 }
 #q-app{
   position: relative;

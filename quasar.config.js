@@ -23,7 +23,7 @@ export default defineConfig((ctx) => {
     // --> boot files are part of "main.js"
     // https://v2.quasar.dev/quasar-cli-webpack/boot-files
     boot: [
-      'axios','i18n','admob'
+      'axios','i18n','admob', 'revenuecat'
     ],
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#css
@@ -196,7 +196,7 @@ htmlVariables: {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'org.ziblo.dikobraz.com'
+        appId: 'org.ziblo.dikobraz'
       }
     },
 
