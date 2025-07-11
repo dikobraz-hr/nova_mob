@@ -31,6 +31,6 @@ const termsList = computed(() => {
   // reference locale.value to make it reactive
   locale.value
   console.log(t('termsList'))
-  return Array.from({ length: 10 }, (_, i) => t(`termsList.${i + 1}`))
+  return Array.from({ length: 10 }, (_, i) => t(`termsList.term${i + 1}`))
 })
 </script>

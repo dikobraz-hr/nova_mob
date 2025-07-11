@@ -81,16 +81,16 @@
   "termsTitle": "Allgemeine Geschäftsbedingungen",
   "termsIntro": "Durch die Nutzung dieser App stimmen Sie den folgenden Bedingungen zu:",
   "termsList": {
-    "1": "Willkommen bei Ziblo, einer unterhaltsamen und lehrreichen Erfahrung, entwickelt von Dikobraz. Durch die Nutzung von Ziblo stimmen Sie diesen Nutzungsbedingungen zu. Diese Bedingungen gewährleisten eine sichere und verantwortungsvolle Umgebung für Kinder und ihre Eltern oder Erziehungsberechtigten. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie die App bitte nicht.",
-    "2": "Ziblo ist für Kinder jeden Alters konzipiert. Obwohl die App offline verwendet wird, können einige Funktionen eine Internetverbindung erfordern. Wir erfassen nicht absichtlich das Alter oder das Geburtsdatum.",
-    "3": "Wir empfehlen Eltern und Erziehungsberechtigten, die Nutzung der App durch ihre Kinder zu beaufsichtigen.",
-    "4": "Wir erfassen nur begrenzte personenbezogene Daten, um das Spiel zu verbessern und Support zu bieten. Konkret:<br/>• E-Mail-Adresse<br/>• Technische Daten (z. B. Absturzprotokolle, Geräteinformationen – anonymisiert und ausschließlich zur Verbesserung der App verwendet)<br/>Wir erfassen keine vollständigen Namen, kein Alter oder Standort und geben personenbezogene Daten niemals ohne ausdrückliche Zustimmung an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben.",
-    "5": "Ziblo kann optionale In-App-Käufe oder Abonnements anbieten. Alle Zahlungen erfolgen über sichere Plattformen Dritter (wie Google Play). Wir empfehlen Eltern, Kindersicherungen zu aktivieren und Einkäufe gegebenenfalls zu überwachen.",
-    "6": "Von den Nutzern wird ein respektvoller Umgang mit der App erwartet. Von Nutzern erstellte oder eingereichte Inhalte (sofern zukünftig verfügbar) müssen für Kinder geeignet sein. Wir behalten uns das Recht vor, Inhalte oder Aktivitäten zu entfernen oder zu blockieren, die diesen Standards widersprechen.",
-    "7": "Wir erfüllen vollständig die Anforderungen der Datenschutz-Grundverordnung (DSGVO):<br/>• Personenbezogene Daten werden nur auf rechtlicher Grundlage verarbeitet (z. B. Einwilligung).<br/>• Nutzer (oder deren Eltern/Erziehungsberechtigte) haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung ihrer Daten.<br/>• Daten werden nicht länger als notwendig gespeichert.<br/>• Daten werden sicher gespeichert und der Zugriff ist auf autorisiertes Personal beschränkt.<br/>Bei Fragen zur DSGVO oder zur Datenverarbeitung kontaktieren Sie uns bitte unter support@dikobraz.hr.",
-    "8": "Diese Bedingungen können von Zeit zu Zeit aktualisiert werden. Wesentliche Änderungen werden über die App, die Website oder per E-Mail (falls angegeben) mitgeteilt. Die weitere Nutzung der App nach Aktualisierungen gilt als Zustimmung zu den neuen Bedingungen.",
-    "9": "Diese Bedingungen unterliegen dem Recht der Republik Kroatien. Alle Streitigkeiten werden von den zuständigen Gerichten in Kroatien entschieden.",
-    "10": "Bei Fragen oder Bedenken zu diesen Bedingungen oder zur Nutzung von Ziblo durch Ihr Kind kontaktieren Sie uns bitte unter:<br/>• E-Mail: support@dikobraz.hr<br/>• Telefon: +385 91 562 4183"
+    "term1": "Willkommen bei Ziblo, einer unterhaltsamen und lehrreichen Erfahrung, entwickelt von Dikobraz. Durch die Nutzung von Ziblo stimmen Sie diesen Nutzungsbedingungen zu. Diese Bedingungen gewährleisten eine sichere und verantwortungsvolle Umgebung für Kinder und ihre Eltern oder Erziehungsberechtigten. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie die App bitte nicht.",
+    "term2": "Ziblo ist für Kinder jeden Alters konzipiert. Obwohl die App offline verwendet wird, können einige Funktionen eine Internetverbindung erfordern. Wir erfassen nicht absichtlich das Alter oder das Geburtsdatum.",
+    "term3": "Wir empfehlen Eltern und Erziehungsberechtigten, die Nutzung der App durch ihre Kinder zu beaufsichtigen.",
+    "term4": "Wir erfassen nur begrenzte personenbezogene Daten, um das Spiel zu verbessern und Support zu bieten. Konkret:<br/>• E-Mail-Adresse<br/>• Technische Daten (z. B. Absturzprotokolle, Geräteinformationen – anonymisiert und ausschließlich zur Verbesserung der App verwendet)<br/>Wir erfassen keine vollständigen Namen, kein Alter oder Standort und geben personenbezogene Daten niemals ohne ausdrückliche Zustimmung an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben.",
+    "term5": "Ziblo kann optionale In-App-Käufe oder Abonnements anbieten. Alle Zahlungen erfolgen über sichere Plattformen Dritter (wie Google Play). Wir empfehlen Eltern, Kindersicherungen zu aktivieren und Einkäufe gegebenenfalls zu überwachen.",
+    "term6": "Von den Nutzern wird ein respektvoller Umgang mit der App erwartet. Von Nutzern erstellte oder eingereichte Inhalte (sofern zukünftig verfügbar) müssen für Kinder geeignet sein. Wir behalten uns das Recht vor, Inhalte oder Aktivitäten zu entfernen oder zu blockieren, die diesen Standards widersprechen.",
+    "term7": "Wir erfüllen vollständig die Anforderungen der Datenschutz-Grundverordnung (DSGVO):<br/>• Personenbezogene Daten werden nur auf rechtlicher Grundlage verarbeitet (z. B. Einwilligung).<br/>• Nutzer (oder deren Eltern/Erziehungsberechtigte) haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung ihrer Daten.<br/>• Daten werden nicht länger als notwendig gespeichert.<br/>• Daten werden sicher gespeichert und der Zugriff ist auf autorisiertes Personal beschränkt.<br/>Bei Fragen zur DSGVO oder zur Datenverarbeitung kontaktieren Sie uns bitte unter support@dikobraz.hr.",
+    "term8": "Diese Bedingungen können von Zeit zu Zeit aktualisiert werden. Wesentliche Änderungen werden über die App, die Website oder per E-Mail (falls angegeben) mitgeteilt. Die weitere Nutzung der App nach Aktualisierungen gilt als Zustimmung zu den neuen Bedingungen.",
+    "term9": "Diese Bedingungen unterliegen dem Recht der Republik Kroatien. Alle Streitigkeiten werden von den zuständigen Gerichten in Kroatien entschieden.",
+    "term10": "Bei Fragen oder Bedenken zu diesen Bedingungen oder zur Nutzung von Ziblo durch Ihr Kind kontaktieren Sie uns bitte unter:<br/>• E-Mail: support@dikobraz.hr<br/>• Telefon: +385 91 562 4183"
   },
   "privacyList": {
     "1": "<h6 class='q-my-none'>Schutz der Kinderrechte</h6><br/>Jedes Kind hat das Recht auf Schutz vor Gewalt, Missbrauch, Diskriminierung und Ausbeutung.<br/>Wir sorgen in unseren Programmen für eine sichere Umgebung und setzen Schutzmaßnahmen um.<br/>Wir respektieren die Privatsphäre von Kindern und behandeln ihre Daten gemäß den Datenschutzbestimmungen.<br/>Alle Freiwilligen und Mitarbeitenden, die mit Kindern arbeiten, müssen ein gültiges Führungszeugnis vorlegen.",
@@ -107,5 +107,11 @@
   },
   "policyTitle": "Richtlinie zum Schutz der Kinderrechte",
   "to_remove_ads": "Um Werbung zu entfernen, einmalig für 5,99 € kaufen",
-  "buy": "Kaufen"
+  "buy": "Kaufen",
+    "share": "Teilen",
+  "shareTitle": "Schau dir das an!",
+  "shareText": "Das ist eine tolle App, die ich mit dir teilen wollte.",
+  "shareDialogTitle": "Teilen mit",
+  "shareNotSupported": "Teilen wird auf diesem Gerät nicht unterstützt",
+  "our_other_work": "Unsere anderen Arbeiten"
 }

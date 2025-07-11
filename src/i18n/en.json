@@ -81,16 +81,16 @@
   "termsTitle": "Terms and Conditions",
   "termsIntro": "By using this app, you agree to the following terms:",
   "termsList": {
-    "1": "Welcome to Ziblo, a fun and educational experience created by Dikobraz. By using Ziblo, you agree to these Terms of Use. These terms ensure a safe and responsible environment for children and their parents or guardians. If you do not agree with these terms, please do not use the app.",
-    "2": "Ziblo is designed for children of all ages. While the app is used offline, some features might require an internet connection. We do not intentionally collect age or date of birth.",
-    "3": "We encourage parents and guardians to supervise their child's use of the app.",
-    "4": "We collect limited personal information to improve the game and provide support. Specifically:<br/>• Email address<br/>• Technical data (e.g., crash logs, device information - anonymized and used only for app improvement)<br/>We do not collect full names, age, or location, and we never sell or share personal data with third parties without explicit consent, unless legally required.",
-    "5": "Ziblo may offer optional in-app purchases or subscriptions. All payments are processed through secure third-party platforms (such as Google Play). We recommend that parents enable parental controls and monitor purchases where appropriate.",
-    "6": "Users are expected to use the app respectfully. Content generated or submitted (if enabled in the future) must be appropriate for children. We reserve the right to remove or block any content or activity that violates these standards.",
-    "7": "We are fully committed to complying with the General Data Protection Regulation (GDPR). This means:<br/>• We only collect and process personal data when we have a legal basis (e.g., user consent).<br/>• Users (or their parents,guardians) have the right to access, correct, or request deletion of their data at any time.<br/>• We do not retain personal data longer than necessary for the purposes for which it was collected.<br/>• Personal data is stored securely, and access is limited to authorized personnel only.<br/>If you would like to exercise your rights under the GDPR or have questions about how your data is handled, please contact us at <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a>.",
-    "8": "We may update these terms from time to time. Significant changes will be communicated through the app, website, or email (if provided). Continued use of the app after updates means you accept the new terms.",
-    "9": "These terms are governed by the laws of the Republic of Croatia. Any disputes will be handled by the competent courts in Croatia.",
-    "10": "If you have any questions or concerns about these terms or your child's use of Ziblo, please contact us at:<br/>• Email: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Phone: +385 91 562 4183"
+    "term1": "Welcome to Ziblo, a fun and educational experience created by Dikobraz. By using Ziblo, you agree to these Terms of Use. These terms ensure a safe and responsible environment for children and their parents or guardians. If you do not agree with these terms, please do not use the app.",
+    "term2": "Ziblo is designed for children of all ages. While the app is used offline, some features might require an internet connection. We do not intentionally collect age or date of birth.",
+    "term3": "We encourage parents and guardians to supervise their child's use of the app.",
+    "term4": "We collect limited personal information to improve the game and provide support. Specifically:<br/>• Email address<br/>• Technical data (e.g., crash logs, device information - anonymized and used only for app improvement)<br/>We do not collect full names, age, or location, and we never sell or share personal data with third parties without explicit consent, unless legally required.",
+    "term5": "Ziblo may offer optional in-app purchases or subscriptions. All payments are processed through secure third-party platforms (such as Google Play). We recommend that parents enable parental controls and monitor purchases where appropriate.",
+    "term6": "Users are expected to use the app respectfully. Content generated or submitted (if enabled in the future) must be appropriate for children. We reserve the right to remove or block any content or activity that violates these standards.",
+    "term7": "We are fully committed to complying with the General Data Protection Regulation (GDPR). This means:<br/>• We only collect and process personal data when we have a legal basis (e.g., user consent).<br/>• Users (or their parents,guardians) have the right to access, correct, or request deletion of their data at any time.<br/>• We do not retain personal data longer than necessary for the purposes for which it was collected.<br/>• Personal data is stored securely, and access is limited to authorized personnel only.<br/>If you would like to exercise your rights under the GDPR or have questions about how your data is handled, please contact us at <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a>.",
+    "term8": "We may update these terms from time to time. Significant changes will be communicated through the app, website, or email (if provided). Continued use of the app after updates means you accept the new terms.",
+    "term9": "These terms are governed by the laws of the Republic of Croatia. Any disputes will be handled by the competent courts in Croatia.",
+    "term10": "If you have any questions or concerns about these terms or your child's use of Ziblo, please contact us at:<br/>• Email: <a href='mailto:support@dikobraz.hr' class='text-primary'>support@dikobraz.hr</a><br/>• Phone: +385 91 562 4183"
   },
   "privacyList": {
     "1": "<h6 class='q-my-none'>Protection of Children's Rights</h6><br/>Every child has the right to protection from violence, abuse, discrimination, and exploitation.<br/>We ensure a safe environment in our programs and implement safeguarding measures.<br/>We respect children's privacy and handle their data following data protection regulations.<br/>All volunteers and employees working with children must provide a valid certificate of no criminal record.",
@@ -107,5 +107,11 @@
   },
   "policyTitle": "Policy of Protection of Children's Rights",
   "to_remove_ads": "To Remove Ads Buy One Time for 5,99€",
-  "buy": "buy"
+  "buy": "buy",
+   "share": "Share",
+  "shareTitle": "Check this out!",
+  "shareText": "This is a great app I wanted to share with you.",
+  "shareDialogTitle": "Share with",
+  "shareNotSupported": "Sharing is not supported on this device",
+  "our_other_work": "Our Other Work"
 }
