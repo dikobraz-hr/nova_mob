@@ -4,7 +4,7 @@
         <div class=" q-pb-sm">
             <div class="text-center">
                 <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
-                <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
+                <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg"  @click="showPaywall"  rounded unelevated color="primary" size="lg"
                     text-color="dark">{{ $t('buy') }}</q-btn>
             </div>
             <LanguageSwitcher />
@@ -55,6 +55,8 @@
 <script setup>
 import { ref } from 'vue'
 import LanguageSwitcher from 'components/LanguageSwitcher.vue'
+import { usePaywall } from '../composables/usePaywall.js'
+
 const name = ref('')
 const email = ref('')
 const message = ref('')
@@ -69,6 +71,21 @@ function submitForm() {
     email.value = ''
     message.value = ''
 }
+
+
+const { showPaywall } = usePaywall()
+/*
+const restore = async () => {
+  try {
+    const { purchaserInfo } = await Purchases.restoreTransactions()
+
+    if (purchaserInfo.entitlements.active['your_entitlement_id']) {
+      console.log('Restored access')
+    }
+  } catch (err) {
+    console.error('Restore failed:', err)
+  }
+}*/
 </script>
 <style>
 .q-card {

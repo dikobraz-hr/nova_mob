@@ -1,10 +1,13 @@
 import { Purchases } from '@revenuecat/purchases-capacitor'
 
-export default async () => {
-  try {
-    await Purchases.setup("goog_HKjChAarnqjoraXExqBAicSCGRD") // You can also pass a user ID as 2nd param
-    console.log('[RevenueCat] Initialized')
-  } catch (err) {
-    console.error('[RevenueCat] Initialization error:', err)
-  }
+await Purchases.configure({ apiKey: 'goog_HKjChAarnqjoraXExqBAicSCGRD' })
+await Purchases.setDebugLogsEnabled(true)
+
+const offerings = await Purchases.getOfferings()
+console.log('Offerings:', offerings)
+
+if (offerings.current) {
+  await Purchases.presentPaywall(offerings.current.identifier)
+} else {
+  console.warn('No offering found')
 }
