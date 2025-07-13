@@ -96,7 +96,7 @@ const shareContent = async () => {
  }
  async function openInSystemBrowser () {
    await Browser.open({
-     url: 'https://play.google.com/store/apps/developer?id=dikobraz'
+     url: 'https://dikobraz.hr'
    })
  }
 </script>
