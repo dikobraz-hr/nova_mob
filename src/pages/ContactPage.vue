@@ -61,8 +61,8 @@
 <script setup>
 import { ref } from 'vue'
 import LanguageSwitcher from 'components/LanguageSwitcher.vue'
-// import { Share } from '@capacitor/share'
-// import { Browser } from '@capacitor/browser'
+import { Share } from '@capacitor/share'
+import { Browser } from '@capacitor/browser'
 import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
@@ -82,23 +82,23 @@ function submitForm() {
 }
 
 
-// const shareContent = async () => {
-//   try {
-//     await Share.share({
-//      title: t('shareTitle'),
-//       text: t('shareText'),
-//       url: 'https://yourwebsite.com',
-//       dialogTitle: t('shareDialogTitle')
-//     })
-//   } catch (err) {
-//     console.error('Share failed', err)
-//   }
-// }
-// async function openInSystemBrowser () {
-//   await Browser.open({
-//     url: 'https://play.google.com/store/apps/developer?id=dikobraz'
-//   })
-// }
+const shareContent = async () => {
+   try {
+     await Share.share({
+      title: t('shareTitle'),
+       text: t('shareText'),
+       url: 'https://ziblo.world',
+       dialogTitle: t('shareDialogTitle')
+     })
+   } catch (err) {
+    console.error('Share failed', err)
+   }
+ }
+ async function openInSystemBrowser () {
+   await Browser.open({
+     url: 'https://play.google.com/store/apps/developer?id=dikobraz'
+   })
+ }
 </script>
 <style>
 .q-card {
