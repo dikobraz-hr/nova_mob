@@ -12,7 +12,7 @@
         </div>
         <div class="q-card q-my-md q-mb-lg">
             <div class="flex justify-center items-center q-pa-md">
-                <q-btn icon="share" :label="t('share')" color="primary" rounded unelevated size="md" text-color="dark" @click="shareContent" class="q-mx-md"/>
+                <q-btn icon="share" :label="t('share')" color="primary" rounded unelevated size="md" text-color="dark" @click="shareContent" class="q-mx-md q-mb-xs"/>
                 <q-btn icon="apps" rounded unelevated color="primary" size="md" text-color="dark" class="q-mx-md"  @click="openInSystemBrowser">{{ $t('our_other_work') }}</q-btn>
             </div>
         </div>

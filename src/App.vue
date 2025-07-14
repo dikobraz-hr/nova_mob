@@ -3,7 +3,12 @@
 </template>
 
 <script setup>
-// 
+import { useAds } from 'src/boot/admob'
+import { onMounted } from 'vue'
+const ads = useAds()
+onMounted(() => {
+  ads.initializeAds()
+})
 </script>
 
 <style>
@@ -13,7 +18,7 @@ html, body, #q-app {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  
+
 }
 #q-app{
   position: relative;

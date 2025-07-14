@@ -37,7 +37,8 @@ import { useI18n } from 'vue-i18n'
 import symbolsData from 'src/assets/symbols_data.json'
 import SymbolImage from 'components/SymbolImage.vue'
 import SymbolInfo from 'components/SymbolInfo.vue'
-
+import { useAds } from 'src/boot/admob'
+const ads = useAds()
 const router = useRouter()
 const { locale } = useI18n()
 
@@ -65,7 +66,7 @@ function loadRandomSymbol() {
   } while (symbol.value && randomSymbol.id === symbol.value.id) // avoid repeat
 
   symbol.value = randomSymbol
-  console.log(randomSymbol)
+
   categoryColor.value = randomSymbol.category?.color+ '80' || '#ffffff'
 }
 
@@ -87,6 +88,7 @@ function goRandom() {
 let currentAudio = null;
 
 function playSound() {
+  ads.registerClick()
   const sound = symbol.value?.translations?.[locale.value]?.sound;
   if (sound) {
     // Stop any currently playing audio
@@ -109,6 +111,7 @@ function playSound() {
 }
 
 function playMainSound() {
+  ads.registerClick()
   const sound = symbol.value?.sound;
   if (sound) {
     // Stop any currently playing audio

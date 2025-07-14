@@ -55,6 +55,9 @@ import { ref, onMounted, watch, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import rawData from 'src/assets/symbols_data.json'
 import { useI18n } from 'vue-i18n'
+import { useAds } from 'src/boot/admob'
+const ads = useAds()
+
 const route = useRoute()
 const router = useRouter()
 const categoryId = Number(route.params.id)
@@ -96,6 +99,7 @@ watch(locale, () => {
 
 
 function goToPojam(pojam) {
+  ads.registerClick()
   router.push(`/symbol/${pojam.category.id}/${pojam.id}`)
 }
 </script>
