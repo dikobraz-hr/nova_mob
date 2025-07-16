@@ -3,9 +3,11 @@
 
         <div class=" q-pb-sm">
             <div class="text-center">
-                <!-- <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6> -->
-                <!-- <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
-                    text-color="dark">{{ $t('buy') }}</q-btn> -->
+                 <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
+                 <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
+                    text-color="dark" @click="removeAds" v-show="!adsDisabled">{{ $t('buy') }}</q-btn>
+              <div v-if="isLoading">Loading offers...</div>
+              <div v-if="error">{{ error }}</div>
 
             </div>
             <LanguageSwitcher />
@@ -64,12 +66,17 @@ import LanguageSwitcher from 'components/LanguageSwitcher.vue'
 import { Share } from '@capacitor/share'
 import { Browser } from '@capacitor/browser'
 import { useI18n } from 'vue-i18n'
+import { isLoading, error } from 'src/boot/paywall.js'
+import{ useRevenueCat} from 'boot/useRevenuCat.js'
 
+const { setupRevenueCat, hasRemoveAds, purchaseRemoveAds } = useRevenueCat()
 const { t } = useI18n()
 const name = ref('')
 const email = ref('')
 const message = ref('')
 const submitted = ref(false)
+
+const adsDisabled = await hasRemoveAds()
 
 function submitForm() {
     console.log('Sending message:', { name: name.value, email: email.value, message: message.value })
@@ -99,6 +106,24 @@ const shareContent = async () => {
      url: 'https://dikobraz.hr'
    })
  }
+async function initRevenueCat () {
+  await setupRevenueCat()
+  const disabled = await hasRemoveAds()
+  localStorage.setItem('adsDisabled', disabled ? 'true' : 'false')
+}
+initRevenueCat()
+
+async function removeAds () {
+  try {
+    const result = await purchaseRemoveAds()
+    if (result) {
+      localStorage.setItem('adsDisabled', 'true')
+      alert('Ads removed successfully!')
+    }
+  } catch (e) {
+    alert('Purchase failed: ' + e.message)
+  }
+}
 </script>
 <style>
 .q-card {

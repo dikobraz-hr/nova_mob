@@ -5,10 +5,10 @@
     <CategoryButtonSlider :categories="categories" @go-to-category="goToCategory" class="q-mb-sm q-mt-md" />
     <FavoritesHeader @view-all="goToCategories" />
     <CategorySlider :categories="categories" @go-to-category="goToCategory" class="q-mt-lg" />
-     <div class="text-center q-mt-xl q-pt-lg">
+      <div class="text-center q-mt-xl q-pt-lg" v-show="!adsDisabled">
                 <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
-                <!-- <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
-                    text-color="dark">{{ $t('buy') }}</q-btn> -->
+                <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
+                    text-color="dark">{{ $t('buy') }}</q-btn>
             </div>
   </q-page>
 </template>
@@ -27,7 +27,9 @@ import categoryData from 'src/assets/categories_data.json'
 const router = useRouter()
 const { locale } = useI18n()
 const categoriesRaw = ref([])  // store full data
-
+import { useRevenueCat } from 'boot/useRevenuCat.js'
+const {  hasRemoveAds } = useRevenueCat()
+const adsDisabled = await hasRemoveAds()
 
 onMounted(() => {
   categoriesRaw.value = categoryData.map(cat => ({
