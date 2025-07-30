@@ -2,14 +2,14 @@
     <q-page class="q-pa-md">
 
         <div class=" q-pb-sm">
-            <div class="text-center">
+       <!--     <div class="text-center">
                  <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
                  <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
-                    text-color="dark" @click="removeAds" v-show="!adsDisabled">{{ $t('buy') }}</q-btn>
+                    text-color="dark" @click="removeAds">{{ $t('buy') }}</q-btn>
               <div v-if="isLoading">Loading offers...</div>
               <div v-if="error">{{ error }}</div>
 
-            </div>
+            </div> -->
             <LanguageSwitcher />
         </div>
         <div class="q-card q-my-md q-mb-lg">
@@ -76,7 +76,7 @@ const email = ref('')
 const message = ref('')
 const submitted = ref(false)
 
-const adsDisabled = await hasRemoveAds()
+//const adsDisabled = await hasRemoveAds()
 
 function submitForm() {
     console.log('Sending message:', { name: name.value, email: email.value, message: message.value })

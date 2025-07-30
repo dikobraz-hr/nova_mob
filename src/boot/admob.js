@@ -21,8 +21,8 @@ export const useAds = defineStore('ads', {
       if (this.clickCount >= this.nextAdAt) {
         try {
           await AdMob.prepareInterstitial({
-            adId: 'ca-app-pub-8386369441737725/7926092405', // Test Ad ID
-            isTesting: true
+            adId: 'ca-app-pub-8386369441737725/2645845566', // Test Ad ID
+            isTesting: false
           })
           await AdMob.showInterstitial()
         } catch (error) {
@@ -37,11 +37,11 @@ export const useAds = defineStore('ads', {
       if (!adsDisabled) {
         await AdMob.initialize()
       await AdMob.showBanner({
-        adId: 'ca-app-pub-8386369441737725/2645845566', // Test Banner ID
+        adId: 'ca-app-pub-8386369441737725/4929751217', // Test Banner ID
         adSize: BannerAdSize.BANNER,
         position: BannerAdPosition.TOP_CENTER,
         margin: 0,
-        isTesting: true
+        isTesting: false
       })
       }
     }
