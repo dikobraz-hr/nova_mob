@@ -2,14 +2,14 @@
     <q-page class="q-pa-md">
 
         <div class=" q-pb-sm">
-       <!--     <div class="text-center">
+           <div class="text-center">
                  <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
                  <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
                     text-color="dark" @click="removeAds">{{ $t('buy') }}</q-btn>
               <div v-if="isLoading">Loading offers...</div>
               <div v-if="error">{{ error }}</div>
 
-            </div> -->
+            </div>
             <LanguageSwitcher />
         </div>
         <div class="q-card q-my-md q-mb-lg">
