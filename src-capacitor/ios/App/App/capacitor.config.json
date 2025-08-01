@@ -1,0 +1,17 @@
+{
+	"appId": "org.ziblo.dikobraz",
+	"appName": "ZIBLO",
+	"webDir": "www",
+	"plugins": {
+		"Purchases": {
+			"apiKey": "goog_HKjChAarnqjoraXExqBAicSCGRD"
+		}
+	},
+	"packageClassList": [
+		"AdMobPlugin",
+		"AppPlugin",
+		"CAPBrowserPlugin",
+		"SharePlugin",
+		"PurchasesPlugin"
+	]
+}

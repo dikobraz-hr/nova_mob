@@ -1,0 +1,59 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "flag": "us",
+      "labels": {
+        "en": "English",
+        "hr": "Engleski",
+        "es": "Inglés",
+        "fr": "Anglais",
+        "de": "Englisch"
+      }
+    },
+    {
+      "code": "hr",
+      "flag": "hr",
+      "labels": {
+        "en": "Croatian",
+        "hr": "Hrvatski",
+        "es": "Croata",
+        "fr": "Croate",
+        "de": "Kroatisch"
+      }
+    },
+    {
+      "code": "es",
+      "flag": "es",
+      "labels": {
+        "en": "Spanish",
+        "hr": "Španjolski",
+        "es": "Español",
+        "fr": "Espagnol",
+        "de": "Spanisch"
+      }
+    },
+    {
+      "code": "fr",
+      "flag": "fr",
+      "labels": {
+        "en": "French",
+        "hr": "Francuski",
+        "es": "Francés",
+        "fr": "Français",
+        "de": "Französisch"
+      }
+    },
+    {
+      "code": "de",
+      "flag": "de",
+      "labels": {
+        "en": "German",
+        "hr": "Njemački",
+        "es": "Alemán",
+        "fr": "Allemand",
+        "de": "Deutsch"
+      }
+    }
+  ]
+}
