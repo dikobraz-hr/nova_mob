@@ -2,14 +2,6 @@
     <q-page class="q-pa-md">
 
         <div class=" q-pb-sm">
-           <div class="text-center">
-                 <h6 class="q-my-sm">{{ $t('to_remove_ads') }}</h6>
-                 <q-btn icon="add_shopping_cart" class="random-btn q-mb-lg" rounded unelevated color="primary" size="lg"
-                    text-color="dark" @click="removeAds">{{ $t('buy') }}</q-btn>
-              <div v-if="isLoading">Loading offers...</div>
-              <div v-if="error">{{ error }}</div>
-
-            </div>
             <LanguageSwitcher />
         </div>
         <div class="q-card q-my-md q-mb-lg">
@@ -69,7 +61,7 @@ import { useI18n } from 'vue-i18n'
 import { isLoading, error } from 'src/boot/paywall.js'
 import{ useRevenueCat} from 'boot/useRevenuCat.js'
 
-const { setupRevenueCat, hasRemoveAds, purchaseRemoveAds } = useRevenueCat()
+const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
 const { t } = useI18n()
 const name = ref('')
 const email = ref('')
@@ -113,17 +105,7 @@ async function initRevenueCat () {
 }
 initRevenueCat()
 
-async function removeAds () {
-  try {
-    const result = await purchaseRemoveAds()
-    if (result) {
-      localStorage.setItem('adsDisabled', 'true')
-      alert('Ads removed successfully!')
-    }
-  } catch (e) {
-    alert('Purchase failed: ' + e.message)
-  }
-}
+
 </script>
 <style>
 .q-card {
