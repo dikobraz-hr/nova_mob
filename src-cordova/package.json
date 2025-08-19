@@ -16,12 +16,15 @@
     "platforms": [
       "android"
     ],
-    "plugins": {}
+    "plugins": {
+      "cordova-plugin-splashscreen": {}
+    }
   },
   "dependencies": {
     "cordova-admob-plus": "^0.42.0"
   },
   "devDependencies": {
-    "cordova-android": "^14.0.1"
+    "cordova-android": "^14.0.1",
+    "cordova-plugin-splashscreen": "^6.0.1"
   }
 }

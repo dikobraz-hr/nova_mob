@@ -98,12 +98,6 @@ const shareContent = async () => {
      url: 'https://dikobraz.hr'
    })
  }
-async function initRevenueCat () {
-  await setupRevenueCat()
-  const disabled = await hasRemoveAds()
-  localStorage.setItem('adsDisabled', disabled ? 'true' : 'false')
-}
-initRevenueCat()
 
 
 </script>

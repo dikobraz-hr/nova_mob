@@ -93,7 +93,7 @@ function loadSymbol() {
 let currentAudio = null;
 
 function playSound() {
-  ads.registerClick()
+
   const sound = symbol.value?.translations?.[locale.value]?.sound;
   if (sound) {
     // Stop any currently playing audio
@@ -155,6 +155,7 @@ function getSymbolsInCategory() {
 }
 
 function goNext() {
+  ads.registerClick()
   if (currentAudio) {
     currentAudio.pause();
     isPlaying.value = false;
@@ -175,6 +176,7 @@ function onSwipe({ direction }) {
   }
 }
 function goRandom() {
+  ads.registerClick()
   if (currentAudio) {
     currentAudio.pause();
     isPlaying.value = false;
@@ -198,6 +200,7 @@ function goRandom() {
   router.push(`/symbol/${categoryId}/${randomSymbol.id}`)
 }
 function goPrev() {
+  ads.registerClick()
   if (currentAudio) {
     currentAudio.pause();
     isPlaying.value = false;
