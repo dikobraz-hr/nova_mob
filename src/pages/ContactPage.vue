@@ -58,10 +58,10 @@ import LanguageSwitcher from 'components/LanguageSwitcher.vue'
 import { Share } from '@capacitor/share'
 import { Browser } from '@capacitor/browser'
 import { useI18n } from 'vue-i18n'
-import { isLoading, error } from 'src/boot/paywall.js'
-import{ useRevenueCat} from 'boot/useRevenuCat.js'
 
-const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
+//import{ useRevenueCat} from 'boot/useRevenuCat.js'
+
+//const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
 const { t } = useI18n()
 const name = ref('')
 const email = ref('')
