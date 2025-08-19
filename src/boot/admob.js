@@ -1,11 +1,11 @@
 import { AdMob, BannerAdSize, BannerAdPosition } from '@capacitor-community/admob';
 import { defineStore } from 'pinia'
-import { useRevenueCat } from 'boot/useRevenuCat.js'
-const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
+//import { useRevenueCat } from 'boot/useRevenuCat.js'
+//const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
 
-await setupRevenueCat()
+//await setupRevenueCat()
 
-const adsDisabled = await hasRemoveAds()
+const adsDisabled = false;
 localStorage.setItem('adsDisabled', adsDisabled ? 'true' : 'false')
 
 export const useAds = defineStore('ads', {
