@@ -3,6 +3,7 @@
     <div class="row">
 
       <div class="col-12 justify-center items-center text-center q-mt-lg">
+        <div style="height:10px"></div>
         <router-link to="/"> <q-img src="horizontal-logo.png" width="200px"
             class="q-mt-xl q-mx-auto block"></q-img></router-link>
       </div>

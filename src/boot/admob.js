@@ -38,7 +38,7 @@ export const useAds = defineStore('ads', {
         await AdMob.initialize()
       await AdMob.showBanner({
         adId: 'ca-app-pub-8386369441737725/4929751217', // Test Banner ID
-        adSize: BannerAdSize.BANNER,
+        adSize: BannerAdSize.ADAPTIVE_BANNER,
         position: BannerAdPosition.TOP_CENTER,
         margin: 0,
         isTesting: false

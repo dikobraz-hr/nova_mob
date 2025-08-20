@@ -7,7 +7,7 @@ android {
         applicationId "org.ziblo.dikobraz"
          minSdkVersion 25
                 targetSdkVersion 35
-        versionCode 34
+        versionCode 35
         versionName "Final v1.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
