@@ -1,8 +1,9 @@
 import { Purchases } from '@revenuecat/purchases-capacitor'
 import { Capacitor } from '@capacitor/core'
 
-const apiKey = Capacitor.getPlatform() === 'ios'
-    ? 'your_ios_public_sdk_key'
+const apiKey =
+  Capacitor.getPlatform() === 'ios'
+    ? 'appl_rHVGuHPtIoSiXByqyjLWWPmEcAW'
     : 'goog_HKjChAarnqjoraXExqBAicSCGRD'
 
 export const useRevenueCat = () => {
@@ -21,7 +22,9 @@ export const useRevenueCat = () => {
     if (!offerings.current) {
       throw new Error('No current offerings available')
     }
-    const pkg = offerings.current?.availablePackages?.find(p => p.identifier === 'remove_ads')
+    const pkg = offerings.current?.availablePackages?.find(
+      (p) => p.identifier === 'ziblo_remove_ioss',
+    )
     if (!pkg) {
       throw new Error('No available packages found')
     }
@@ -32,6 +35,6 @@ export const useRevenueCat = () => {
   return {
     setupRevenueCat,
     hasRemoveAds,
-    purchaseRemoveAds
+    purchaseRemoveAds,
   }
 }

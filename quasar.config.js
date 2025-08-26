@@ -13,7 +13,7 @@ export default defineConfig((ctx) => {
       // rawEsbuildEslintOptions: {},
       // rawWebpackEslintPluginOptions: {},
       warnings: true,
-      errors: true
+      errors: true,
     },
 
     // https://v2.quasar.dev/quasar-cli-webpack/prefetch-feature
@@ -23,16 +23,16 @@ export default defineConfig((ctx) => {
     // --> boot files are part of "main.js"
     // https://v2.quasar.dev/quasar-cli-webpack/boot-files
     boot: [
-      'axios','i18n','useRevenuCat','admob'
+      'axios',
+      'i18n',
+      'admob', //'useRevenuCat',
     ],
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#css
-    css: [
-      'app.scss'
-    ],
-htmlVariables: {
-    googleFonts: `<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">`
-  },
+    css: ['app.scss'],
+    htmlVariables: {
+      googleFonts: `<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">`,
+    },
     // https://github.com/quasarframework/quasar/tree/dev/extras
     extras: [
       // 'ionicons-v4',
@@ -60,8 +60,8 @@ htmlVariables: {
       // webpackTranspileDependencies: [],
 
       esbuildTarget: {
-        browser: [ 'es2022', 'firefox115', 'chrome115', 'safari14' ],
-        node: 'node20'
+        browser: ['es2022', 'firefox115', 'chrome115', 'safari14'],
+        node: 'node20',
       },
 
       // rtl: true, // https://quasar.dev/options/rtl-support
@@ -80,9 +80,9 @@ htmlVariables: {
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#devserver
     devServer: {
       server: {
-        type: 'http'
+        type: 'http',
       },
-      open: true // opens browser window automatically
+      open: true, // opens browser window automatically
     },
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#framework
@@ -100,7 +100,7 @@ htmlVariables: {
       // directives: [],
 
       // Quasar plugins
-      plugins: []
+      plugins: [],
     },
 
     // animations: 'all', // --- includes all animations
@@ -124,10 +124,10 @@ htmlVariables: {
     // https://v2.quasar.dev/quasar-cli-webpack/developing-ssr/configuring-ssr
     ssr: {
       prodPort: 3000, // The default port that the production server should use
-                      // (gets superseded if process.env.PORT is specified at runtime)
+      // (gets superseded if process.env.PORT is specified at runtime)
 
       middlewares: [
-        'render' // keep this as last one
+        'render', // keep this as last one
       ],
 
       // extendPackageJson (json) {},
@@ -138,7 +138,7 @@ htmlVariables: {
       // manualStoreHydration: true,
       // manualPostHydrationTrigger: true,
 
-      pwa: false
+      pwa: false,
       // pwaOfflineHtmlFilename: 'offline.html', // do NOT use index.html as name!
 
       // pwaExtendGenerateSWOptions (cfg) {},
@@ -147,7 +147,7 @@ htmlVariables: {
 
     // https://v2.quasar.dev/quasar-cli-webpack/developing-pwa/configuring-pwa
     pwa: {
-      workboxMode: 'GenerateSW' // 'GenerateSW' or 'InjectManifest'
+      workboxMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       // swFilename: 'sw.js',
       // manifestFilename: 'manifest.json',
       // extendManifestJson (json) {},
@@ -163,8 +163,6 @@ htmlVariables: {
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
     },
 
-
-
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/developing-electron-apps/configuring-electron
     electron: {
       // extendElectronMainConf (esbuildConf) {},
@@ -173,7 +171,7 @@ htmlVariables: {
       // extendPackageJson (json) {},
 
       // Electron preload scripts (if any) from /src-electron, WITHOUT file extension
-      preloadScripts: [ 'electron-preload' ],
+      preloadScripts: ['electron-preload'],
 
       // specify the debugging port to use for the Electron app when running in development mode
       inspectPort: 5858,
@@ -182,13 +180,11 @@ htmlVariables: {
 
       packager: {
         // https://github.com/electron-userland/electron-packager/blob/master/docs/api.md#options
-
         // OS X / Mac App Store
         // appBundleId: '',
         // appCategoryType: '',
         // osxSign: '',
         // protocol: 'myapp://path',
-
         // Windows only
         // win32metadata: { ... }
       },
@@ -196,8 +192,8 @@ htmlVariables: {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'org.ziblo.dikobraz.com'
-      }
+        appId: 'org.ziblo.dikobraz.com',
+      },
     },
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/developing-browser-extensions/configuring-bex
@@ -213,7 +209,7 @@ htmlVariables: {
        *
        * @example [ 'my-script.ts', 'sub-folder/my-other-script.js' ]
        */
-      extraScripts: []
-    }
+      extraScripts: [],
+    },
   }
 })
