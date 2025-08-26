@@ -128,7 +128,7 @@ function checkAge() {
     return
   }
 
-  if (age >= 18) {
+  if (age >= 18 && age <= 100) {
     showAgeDialog.value = false
     router.push('/profile')
   } else {
