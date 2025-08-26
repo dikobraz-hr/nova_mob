@@ -84,8 +84,7 @@
 
   "termsList2": "Estos términos pueden actualizarse ocasionalmente. Los cambios significativos se comunicarán a través de la aplicación, el sitio web o por correo electrónico (si está disponible). El uso continuado de la aplicación después de las actualizaciones implica la aceptación de los nuevos términos.<br />",
 
-  "termsList3": "Cumplimos plenamente con el Reglamento General de Protección de Datos (GDPR):<br />Recopilamos y procesamos datos personales solo cuando tenemos una base legal (por ejemplo, consentimiento).<br />Los usuarios (o sus padres o tutores) tienen derecho a acceder, corregir o eliminar sus datos en cualquier momento.<br />Los datos personales no se conservan más tiempo del necesario.<br />Los datos se almacenan de forma segura y solo el personal autorizado tiene acceso.<br />Si desea ejercer sus derechos según el GDPR o tiene preguntas sobre el procesamiento de datos, contáctenos.<br />Si tiene alguna pregunta o inquietud sobre estos términos o el uso de la aplicación Ziblo por parte de su hijo, contáctenos.<br />"
-  ,
+  "termsList3": "Cumplimos plenamente con el Reglamento General de Protección de Datos (GDPR):<br />Recopilamos y procesamos datos personales solo cuando tenemos una base legal (por ejemplo, consentimiento).<br />Los usuarios (o sus padres o tutores) tienen derecho a acceder, corregir o eliminar sus datos en cualquier momento.<br />Los datos personales no se conservan más tiempo del necesario.<br />Los datos se almacenan de forma segura y solo el personal autorizado tiene acceso.<br />Si desea ejercer sus derechos según el GDPR o tiene preguntas sobre el procesamiento de datos, contáctenos.<br />Si tiene alguna pregunta o inquietud sobre estos términos o el uso de la aplicación Ziblo por parte de su hijo, contáctenos.<br />",
   "privacyList": {
     "1": "<h6 class='q-my-none'>Protección de los Derechos del Niño</h6><br/>Todo niño tiene derecho a protección frente a la violencia, el abuso, la discriminación y la explotación.<br/>Garantizamos un entorno seguro en nuestros programas e implementamos medidas de protección.<br/>Respetamos la privacidad de los niños y manejamos sus datos conforme a las normativas de protección de datos.<br/>Todos los voluntarios y empleados que trabajan con niños deben presentar un certificado válido de delitos no condenatorios.",
     "2": "<h6 class='q-my-none'>Derechos de las Personas con Discapacidad</h6><br/>Aseguramos la accesibilidad de nuestras instalaciones y trabajamos para eliminar barreras para las personas con discapacidad.<br/>Respetamos las necesidades individuales y brindamos apoyo para su plena participación.<br/>Promovemos la conciencia y respaldamos iniciativas para la realización de los derechos de las personas con discapacidad.",
@@ -102,10 +101,15 @@
   "policyTitle": "Política de Protección de los Derechos del Niño",
   "to_remove_ads": "Para eliminar los anuncios, compra una vez por 5,99€",
   "buy": "Comprar",
-   "share": "Compartir",
+  "share": "Compartir",
   "shareTitle": "¡Prueba Ziblo!",
   "shareText": "Es una aplicación genial que quería compartir contigo.",
   "shareDialogTitle": "Compartir con",
   "shareNotSupported": "Compartir no está disponible en este dispositivo",
-  "our_other_work": "Nuestro otro trabajo"
+  "our_other_work": "Nuestro otro trabajo",
+  "enter": "Continuar",
+  "cancel": "Cancelar",
+  "enter_birth_year": "Ingrese su año de nacimiento",
+  "valid_year": "Por favor, introduzca un año de nacimiento válido",
+  "parentalLock": "Acceso denegado. El control parental está activado."
 }

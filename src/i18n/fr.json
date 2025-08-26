@@ -84,8 +84,7 @@
 
   "termsList2": "Ces conditions peuvent être mises à jour de temps à autre. Les modifications importantes seront communiquées via l'application, le site web ou par e-mail (si disponible). La poursuite de l'utilisation de l'application après une mise à jour signifie que vous acceptez les nouvelles conditions.<br />",
 
-  "termsList3": "Nous sommes pleinement conformes au Règlement Général sur la Protection des Données (RGPD) :<br />Nous ne collectons et ne traitons les données personnelles que si nous avons une base légale (par exemple, le consentement).<br />Les utilisateurs (ou leurs parents/tuteurs) ont le droit d'accéder à leurs données, de les corriger ou de demander leur suppression à tout moment.<br />Les données personnelles ne sont pas conservées plus longtemps que nécessaire.<br />Les données sont stockées de manière sécurisée et ne sont accessibles qu’au personnel autorisé.<br />Si vous souhaitez exercer vos droits en vertu du RGPD ou si vous avez des questions concernant le traitement des données, veuillez nous contacter.<br />Si vous avez des questions ou des préoccupations concernant ces conditions ou l'utilisation de l'application Ziblo par votre enfant, veuillez nous contacter.<br />"
-,
+  "termsList3": "Nous sommes pleinement conformes au Règlement Général sur la Protection des Données (RGPD) :<br />Nous ne collectons et ne traitons les données personnelles que si nous avons une base légale (par exemple, le consentement).<br />Les utilisateurs (ou leurs parents/tuteurs) ont le droit d'accéder à leurs données, de les corriger ou de demander leur suppression à tout moment.<br />Les données personnelles ne sont pas conservées plus longtemps que nécessaire.<br />Les données sont stockées de manière sécurisée et ne sont accessibles qu’au personnel autorisé.<br />Si vous souhaitez exercer vos droits en vertu du RGPD ou si vous avez des questions concernant le traitement des données, veuillez nous contacter.<br />Si vous avez des questions ou des préoccupations concernant ces conditions ou l'utilisation de l'application Ziblo par votre enfant, veuillez nous contacter.<br />",
   "privacyList": {
     "1": "<h6 class='q-my-none'>Protection des droits des enfants</h6><br/>Chaque enfant a droit à une protection contre la violence, les abus, la discrimination et l'exploitation.<br/>Nous assurons un environnement sûr dans nos programmes et appliquons des mesures de sauvegarde.<br/>Nous respectons la vie privée des enfants et traitons leurs données conformément aux régulations sur la protection des données.<br/>Tous les bénévoles et employés travaillant avec des enfants doivent fournir un certificat de bonne conduite valide.",
     "2": "<h6 class='q-my-none'>Droits des personnes en situation de handicap</h6><br/>Nous garantissons l'accessibilité de nos installations et œuvrons à éliminer les obstacles pour les personnes handicapées.<br/>Nous respectons leurs besoins individuels et offrons un soutien pour leur pleine participation.<br/>Nous sensibilisons et soutenons les initiatives visant à réaliser leurs droits.",
@@ -102,10 +101,15 @@
   "policyTitle": "Politique de Protection des Droits de l'Enfant",
   "to_remove_ads": "Pour supprimer les publicités, achetez une fois pour 5,99€",
   "buy": "Acheter",
-   "share": "Partager",
+  "share": "Partager",
   "shareTitle": "Essayez Ziblo !",
   "shareText": "C’est une super application que je voulais partager avec toi.",
   "shareDialogTitle": "Partager avec",
   "shareNotSupported": "Le partage n’est pas pris en charge sur cet appareil",
-  "our_other_work": "Notre autre travail"
+  "our_other_work": "Notre autre travail",
+  "enter": "Continuer",
+  "cancel": "Annuler",
+  "enter_birth_year": "Entrez votre année de naissance",
+  "valid_year": "Veuillez entrer une année de naissance valide",
+  "parentalLock": "Accès refusé. Le contrôle parental est activé."
 }

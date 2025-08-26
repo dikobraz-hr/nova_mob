@@ -84,8 +84,7 @@
 
   "termsList2": "Diese Bedingungen können gelegentlich aktualisiert werden. Wesentliche Änderungen werden über die App, die Website oder per E-Mail (falls verfügbar) mitgeteilt. Die fortgesetzte Nutzung der App nach einer Aktualisierung gilt als Zustimmung zu den neuen Bedingungen.<br />",
 
-  "termsList3": "Wir erfüllen vollständig die Anforderungen der Datenschutz-Grundverordnung (DSGVO):<br />Personenbezogene Daten werden nur erhoben und verarbeitet, wenn eine rechtliche Grundlage vorliegt (z. B. Einwilligung).<br />Nutzer (oder deren Eltern/Erziehungsberechtigte) haben das Recht, ihre Daten jederzeit einzusehen, zu berichtigen oder löschen zu lassen.<br />Personenbezogene Daten werden nicht länger als notwendig gespeichert.<br />Die Daten werden sicher gespeichert und sind nur autorisiertem Personal zugänglich.<br />Wenn Sie Ihre Rechte gemäß der DSGVO wahrnehmen möchten oder Fragen zur Datenverarbeitung haben, kontaktieren Sie uns bitte.<br />Wenn Sie Fragen oder Bedenken zu diesen Bedingungen oder zur Nutzung der Ziblo-App durch Ihr Kind haben, kontaktieren Sie uns bitte.<br />"
-,
+  "termsList3": "Wir erfüllen vollständig die Anforderungen der Datenschutz-Grundverordnung (DSGVO):<br />Personenbezogene Daten werden nur erhoben und verarbeitet, wenn eine rechtliche Grundlage vorliegt (z. B. Einwilligung).<br />Nutzer (oder deren Eltern/Erziehungsberechtigte) haben das Recht, ihre Daten jederzeit einzusehen, zu berichtigen oder löschen zu lassen.<br />Personenbezogene Daten werden nicht länger als notwendig gespeichert.<br />Die Daten werden sicher gespeichert und sind nur autorisiertem Personal zugänglich.<br />Wenn Sie Ihre Rechte gemäß der DSGVO wahrnehmen möchten oder Fragen zur Datenverarbeitung haben, kontaktieren Sie uns bitte.<br />Wenn Sie Fragen oder Bedenken zu diesen Bedingungen oder zur Nutzung der Ziblo-App durch Ihr Kind haben, kontaktieren Sie uns bitte.<br />",
   "privacyList": {
     "1": "<h6 class='q-my-none'>Schutz der Kinderrechte</h6><br/>Jedes Kind hat das Recht auf Schutz vor Gewalt, Missbrauch, Diskriminierung und Ausbeutung.<br/>Wir sorgen in unseren Programmen für eine sichere Umgebung und setzen Schutzmaßnahmen um.<br/>Wir respektieren die Privatsphäre von Kindern und behandeln ihre Daten gemäß den Datenschutzbestimmungen.<br/>Alle Freiwilligen und Mitarbeitenden, die mit Kindern arbeiten, müssen ein gültiges Führungszeugnis vorlegen.",
     "2": "<h6 class='q-my-none'>Rechte von Menschen mit Behinderungen</h6><br/>Wir sorgen für Barrierefreiheit in unseren Einrichtungen und beseitigen Hindernisse für Menschen mit Behinderungen.<br/>Wir respektieren ihre individuellen Bedürfnisse und bieten Unterstützung für volle Teilhabe.<br/>Wir fördern das Bewusstsein und unterstützen Initiativen zur Umsetzung ihrer Rechte.",
@@ -102,10 +101,15 @@
   "policyTitle": "Richtlinie zum Schutz der Kinderrechte",
   "to_remove_ads": "Um Werbung zu entfernen, einmalig für 5,99 € kaufen",
   "buy": "Kaufen",
-    "share": "Teilen",
+  "share": "Teilen",
   "shareTitle": "Ziblo ausprobieren!",
   "shareText": "Das ist eine tolle App, die ich mit dir teilen wollte.",
   "shareDialogTitle": "Teilen mit",
   "shareNotSupported": "Teilen wird auf diesem Gerät nicht unterstützt",
-  "our_other_work": "Unsere anderen Arbeiten"
+  "our_other_work": "Unsere anderen Arbeiten",
+  "enter": "Weiter",
+  "cancel": "Abbrechen",
+  "enter_birth_year": "Geben Sie Ihr Geburtsjahr ein",
+  "valid_year": "Bitte geben Sie ein gültiges Geburtsjahr ein",
+  "parentalLock": "Zugriff verweigert. Kindersicherung ist aktiviert."
 }

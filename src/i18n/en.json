@@ -102,10 +102,15 @@
   "policyTitle": "Policy of Protection of Children's Rights",
   "to_remove_ads": "To Remove Ads Buy One Time for 5,99€",
   "buy": "buy",
-   "share": "Share",
+  "share": "Share",
   "shareTitle": "Try Ziblo!",
   "shareText": "This is a great app I wanted to share with you.",
   "shareDialogTitle": "Share with",
   "shareNotSupported": "Sharing is not supported on this device",
-  "our_other_work": "Our Other Work"
+  "our_other_work": "Our Other Work",
+  "enter": "Continue",
+  "cancel": "Cancel",
+  "enter_birth_year": "Enter your year of birth",
+  "valid_year": "Please enter a valid year of birth",
+  "parentalLock": "Access denied. Parental controls are in place."
 }

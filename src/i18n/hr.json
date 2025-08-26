@@ -80,12 +80,8 @@
   "howToUse": "Kako koristiti aplikaciju",
   "termsTitle": "Uvjeti korištenja",
   "termsIntro": "Korištenjem ove aplikacije prihvaćate sljedeće uvjete:",
-  "termsList":
-   "Dobrodošli u Ziblo, zabavno i edukativno iskustvo koje je razvila tvrtka Dikobraz. Korištenjem aplikacije Ziblo prihvaćate ove Uvjete korištenja. Ovi uvjeti osiguravaju sigurno i odgovorno okruženje za djecu i njihove roditelje ili skrbnike. Ako se ne slažete s ovim uvjetima, nemojte koristiti aplikaciju.<br />Preporučujemo da roditelji i skrbnici nadziru korištenje aplikacije od strane svoje djece. <br />Prikupljamo ograničene osobne podatke kako bismo poboljšali igru i pružili podršku. Konkretno:<br/>• E-mail adresa<br/>• Tehnički podaci (npr. izvješća o pogreškama, podaci o uređaju - anonimizirani i korišteni isključivo za poboljšanje aplikacije)<br/>Ne prikupljamo puna imena, dob ni lokaciju i nikada ne prodajemo niti dijelimo osobne podatke s trećim stranama bez izričitog pristanka, osim ako to nije zakonski obavezno.<br />Ziblo može nuditi opcionalne kupnje u aplikaciji ili pretplate. Sva plaćanja obrađuju se putem sigurnih platformi trećih strana (kao što je Google Play). Preporučujemo da roditelji uključe roditeljski nadzor i prate kupnje gdje je to primjenjivo.<br />Od korisnika se očekuje da koriste aplikaciju s poštovanjem. Sadržaj koji generiraju ili šalju korisnici (ako bude omogućen u budućnosti) mora biti primjeren za djecu. Zadržavamo pravo ukloniti ili blokirati bilo koji sadržaj ili aktivnost koja krši ove standarde. <br />"
-  ,
-  "termsList2":
-   "Ovi uvjeti mogu se povremeno ažurirati. Značajne promjene bit će komunicirane putem aplikacije, web stranice ili e-pošte (ako je dostupna). Nastavak korištenja aplikacije nakon ažuriranja znači prihvaćanje novih uvjeta<br />"
-  ,
+  "termsList": "Dobrodošli u Ziblo, zabavno i edukativno iskustvo koje je razvila tvrtka Dikobraz. Korištenjem aplikacije Ziblo prihvaćate ove Uvjete korištenja. Ovi uvjeti osiguravaju sigurno i odgovorno okruženje za djecu i njihove roditelje ili skrbnike. Ako se ne slažete s ovim uvjetima, nemojte koristiti aplikaciju.<br />Preporučujemo da roditelji i skrbnici nadziru korištenje aplikacije od strane svoje djece. <br />Prikupljamo ograničene osobne podatke kako bismo poboljšali igru i pružili podršku. Konkretno:<br/>• E-mail adresa<br/>• Tehnički podaci (npr. izvješća o pogreškama, podaci o uređaju - anonimizirani i korišteni isključivo za poboljšanje aplikacije)<br/>Ne prikupljamo puna imena, dob ni lokaciju i nikada ne prodajemo niti dijelimo osobne podatke s trećim stranama bez izričitog pristanka, osim ako to nije zakonski obavezno.<br />Ziblo može nuditi opcionalne kupnje u aplikaciji ili pretplate. Sva plaćanja obrađuju se putem sigurnih platformi trećih strana (kao što je Google Play). Preporučujemo da roditelji uključe roditeljski nadzor i prate kupnje gdje je to primjenjivo.<br />Od korisnika se očekuje da koriste aplikaciju s poštovanjem. Sadržaj koji generiraju ili šalju korisnici (ako bude omogućen u budućnosti) mora biti primjeren za djecu. Zadržavamo pravo ukloniti ili blokirati bilo koji sadržaj ili aktivnost koja krši ove standarde. <br />",
+  "termsList2": "Ovi uvjeti mogu se povremeno ažurirati. Značajne promjene bit će komunicirane putem aplikacije, web stranice ili e-pošte (ako je dostupna). Nastavak korištenja aplikacije nakon ažuriranja znači prihvaćanje novih uvjeta<br />",
   "termsList3": "U potpunosti smo usklađeni s Općom uredbom o zaštiti podataka (GDPR):<br />Osobne podatke prikupljamo i obrađujemo samo kada za to imamo pravnu osnovu (npr. privolu).<br />Korisnici (ili njihovi roditelji, skrbnici) imaju pravo pristupa, ispravka ili brisanja svojih podataka u bilo kojem trenutku.<br />Osobni podaci se ne čuvaju dulje nego što je potrebno.<br />Podaci se pohranjuju sigurno, a pristup imaju samo ovlaštene osobe.<br/>Ako želite ostvariti svoja prava prema GDPR-u ili imate pitanja o obradi podataka, kontaktirajte nas. <br /> Ako imate bilo kakva pitanja ili nedoumice u vezi ovih uvjetima ili korištenjem aplikacije Ziblo od strane vašeg djeteta, kontaktirajte nas.<br /",
 
   "privacyList": {
@@ -104,10 +100,15 @@
   "policyTitle": "Politika zaštite dječjih prava",
   "to_remove_ads": "Za uklanjanje oglasa kupite jednokratno za 5,99€",
   "buy": "Kupi",
-   "share": "Podijeli",
+  "share": "Podijeli",
   "shareTitle": "Probaj Ziblo!",
   "shareText": "Ovo je odlična aplikacija koju želim podijeliti s tobom.",
   "shareDialogTitle": "Podijeli s...",
   "shareNotSupported": "Dijeljenje nije podržano na ovom uređaju",
-  "our_other_work": "Naši ostali projekti"
+  "our_other_work": "Naši ostali projekti",
+  "enter": "dalje",
+  "cancel": "odustani",
+  "enter_birth_year": "Unesite godinu rođenja",
+  "valid_year": "Unesite validnu godinu rođenja",
+  "parentalLock": "Pristup odbijen, roditeljski nadzor je potreban"
 }

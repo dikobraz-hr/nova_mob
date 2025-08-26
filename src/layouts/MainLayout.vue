@@ -64,18 +64,24 @@
     <q-dialog v-model="showAgeDialog" persistent>
       <q-card>
         <q-card-section>
-          <div class="text-h6">Enter Your Year of Birth</div>
+          <div class="text-h6">{{ $t('enter_birth_year') }}</div>
         </q-card-section>
 
         <q-card-section>
-          <q-input v-model="yearOfBirth" label="Year of Birth" type="number" dense autofocus />
+          <q-input
+            v-model="yearOfBirth"
+            :label="$t('enter_birth_year')"
+            type="number"
+            dense
+            autofocus
+          />
         </q-card-section>
 
         <q-card-actions align="right">
           <q-btn
             flat
             rounded
-            label="Cancel"
+            :label="$t('cancel')"
             color="primary"
             @click="showAgeDialog = false"
             text-color="dark"
@@ -83,7 +89,7 @@
           <q-btn
             unelevated
             rounded
-            label="Submit"
+            :label="$t('enter')"
             color="primary"
             @click="checkAge"
             text-color="dark"
@@ -98,9 +104,11 @@
 import { ref, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useQuasar } from 'quasar'
+import { useI18n } from 'vue-i18n'
 const router = useRouter()
 const route = useRoute()
 const $q = useQuasar()
+const { t } = useI18n()
 const activeTab = ref(0)
 const showAgeDialog = ref(false)
 const yearOfBirth = ref('')
@@ -114,7 +122,7 @@ function checkAge() {
   if (isNaN(age)) {
     $q.notify({
       type: 'warning',
-      message: 'Please enter a valid year.',
+      message: t('valid_year'),
       icon: 'warning',
     })
     return
@@ -127,7 +135,7 @@ function checkAge() {
     showAgeDialog.value = false
     $q.notify({
       type: 'negative',
-      message: 'Access denied. Parental controls are in place.',
+      message: t('parentalLock'),
       icon: 'no_accounts', // Material icon that fits parental restriction
       position: 'top',
     })
