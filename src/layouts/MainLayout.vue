@@ -54,29 +54,85 @@
       <button
         class="toolbar-btn"
         :class="{ active: activeTab === 2 }"
-        @click="goTo('/profile')"
+        @click="showAgeDialog = true"
         aria-label="Profile"
       >
         <q-icon name="person" />
         <span>{{ $t('profile') }}</span>
       </button>
     </div>
+    <q-dialog v-model="showAgeDialog" persistent>
+      <q-card>
+        <q-card-section>
+          <div class="text-h6">Enter Your Year of Birth</div>
+        </q-card-section>
+
+        <q-card-section>
+          <q-input v-model="yearOfBirth" label="Year of Birth" type="number" dense autofocus />
+        </q-card-section>
+
+        <q-card-actions align="right">
+          <q-btn
+            flat
+            rounded
+            label="Cancel"
+            color="primary"
+            @click="showAgeDialog = false"
+            text-color="dark"
+          />
+          <q-btn
+            unelevated
+            rounded
+            label="Submit"
+            color="primary"
+            @click="checkAge"
+            text-color="dark"
+          />
+        </q-card-actions>
+      </q-card>
+    </q-dialog>
   </q-layout>
 </template>
 
 <script setup>
 import { ref, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-
+import { useQuasar } from 'quasar'
 const router = useRouter()
 const route = useRoute()
-
+const $q = useQuasar()
 const activeTab = ref(0)
-
+const showAgeDialog = ref(false)
+const yearOfBirth = ref('')
+const currentYear = new Date().getFullYear()
 const goTo = (path) => {
   router.push(path)
 }
+function checkAge() {
+  const age = currentYear - parseInt(yearOfBirth.value)
 
+  if (isNaN(age)) {
+    $q.notify({
+      type: 'warning',
+      message: 'Please enter a valid year.',
+      icon: 'warning',
+    })
+    return
+  }
+
+  if (age >= 18) {
+    showAgeDialog.value = false
+    router.push('/profile')
+  } else {
+    showAgeDialog.value = false
+    $q.notify({
+      type: 'negative',
+      message: 'Access denied. Parental controls are in place.',
+      icon: 'no_accounts', // Material icon that fits parental restriction
+      position: 'top',
+    })
+  }
+}
 watch(
   () => route.path,
   (newPath) => {
