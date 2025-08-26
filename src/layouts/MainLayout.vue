@@ -1,14 +1,18 @@
 <template>
   <q-layout view="hHh lpR fff">
-    <div class="row">
-      <div class="col-12 justify-center items-center text-center">
-        <router-link to="/">
-          <q-img src="horizontal-logo.png" width="200px" class="q-mt-lg q-mx-auto block"></q-img
-        ></router-link>
+    <q-page-container class="q-pb-xl q-mb-lg">
+      <div class="row">
+        <div class="col-12 justify-center items-center text-center">
+          <div style="height: 80px"></div>
+          <router-link to="/">
+            <q-img
+              src="horizontal-logo.png"
+              width="200px"
+              class="q-mt-lg q-mx-auto block q-mt-xl"
+            ></q-img
+          ></router-link>
+        </div>
       </div>
-    </div>
-
-    <q-page-container class="q-pb-xl q-mt-xl q-mb-lg">
       <router-view />
     </q-page-container>
 

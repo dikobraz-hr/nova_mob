@@ -1,4 +1,4 @@
-import { AdMob, BannerAdSize, BannerAdPosition } from '@capacitor-community/admob'
+import { AdMob } from '@capacitor-community/admob'
 import { defineStore } from 'pinia'
 // import { useRevenueCat } from 'boot/useRevenuCat.js'
 // const { setupRevenueCat, hasRemoveAds } = useRevenueCat()
@@ -33,13 +33,13 @@ export const useAds = defineStore('ads', {
     async initializeAds() {
       if (!adsDisabled) {
         await AdMob.initialize()
-        await AdMob.showBanner({
+        /*await AdMob.showBanner({
           adId: 'ca-app-pub-8386369441737725/9069756878', // Test Banner ID
-          adSize: BannerAdSize.BANNER,
+          adSize: BannerAdSize.ADAPTIVE_BANNER,
           position: BannerAdPosition.TOP_CENTER,
           margin: 0,
           isTesting: false,
-        })
+        })*/
       }
     },
   },
