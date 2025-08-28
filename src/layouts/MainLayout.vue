@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="hHh lpR fff">
+  <q-layout view="lHh Lpr lFf">
     <div class="row">
 
       <div class="col-12 justify-center items-center text-center q-mt-lg">
@@ -15,7 +15,7 @@
     <q-page-container class="q-pb-xl q-mb-lg">
       <router-view />
     </q-page-container>
-
+    <q-footer class="q-safe-area-bottom">
     <div class="bottom-toolbar q-pb-xl">
       <button class="toolbar-btn" :class="{ active: activeTab === 0 }" @click="goTo('/')" aria-label="Home">
         <q-icon name="home" />
@@ -40,6 +40,7 @@
         <span>{{ $t('profile') }}</span>
       </button>
     </div>
+    </q-footer>
   </q-layout>
 </template>
 

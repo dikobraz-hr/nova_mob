@@ -7,8 +7,8 @@ android {
         applicationId "org.ziblo.dikobraz"
          minSdkVersion 25
                 targetSdkVersion 35
-        versionCode 35
-        versionName "Final v1.2"
+        versionCode 40
+        versionName "Final v1.25"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.

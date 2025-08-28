@@ -18,6 +18,7 @@
     "@admob-plus/capacitor": "^2.0.0-alpha.4",
     "@capacitor/browser": "^7.0.1",
     "@capacitor/share": "^7.0.1",
+    "@capgo/capacitor-navigation-bar": "^7.1.27",
     "@quasar/extras": "^1.16.4",
     "admob-plus-cordova": "^2.0.0-alpha.19",
     "axios": "^1.2.1",
